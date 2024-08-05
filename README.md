@@ -1,6 +1,6 @@
-# Projektna naloga: Nek naslov
+# Projektna naloga: BDP držav po svetu 
 
 Avtor: Nejc Žibret
 
 Tukaj dam opis dela ter navodila. 
-Pripravil aseme eno super projektno nalogo.
+jksacjbascnia
