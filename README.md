@@ -1,4 +1,4 @@
-# Projektna naloga: NaslovProjektneNaloge
+# Projektna naloga: Olimpijske medalje
 
 Avtor: Nejc Žibret
 
