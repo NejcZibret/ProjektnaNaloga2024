@@ -1,4 +1,4 @@
-# Projektna naloga: 
+# Projektna naloga: NaslovProjektneNaloge
 
 Avtor: Nejc Žibret
 
