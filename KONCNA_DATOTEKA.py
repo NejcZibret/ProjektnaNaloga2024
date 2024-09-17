@@ -1,0 +1,87 @@
+import re
+import html  
+import os
+
+
+
+# pomožna funkcija 1
+def pocisti_imena_smucisc(niz):
+    pocisceno_ime = re.sub(r'<span class=".*?">.*?</span>', '', niz)
+    pocisceno_ime = html.unescape(pocisceno_ime).strip() 
+    pocisceno_ime = re.sub(r'\s+', ' ', pocisceno_ime)  
+    pocisceno_ime = re.sub(r'\u200b', '', pocisceno_ime)
+    return pocisceno_ime
+
+# pomožna funkcija 2
+def pocisti_celine_in_drzave(niz):
+    pocisceno_ime = html.unescape(niz).strip()
+    pocisceno_ime = re.sub(r'\s+', ' ', pocisceno_ime)  
+    pocisceno_ime = re.sub(r'\u200b', '', pocisceno_ime)
+    return pocisceno_ime
+
+
+
+# blok smučišča
+vzorec_bloka = re.compile(
+    r'<div class="panel panel-default resort-list-item resort-list-item-image--big"'  # Začetek bloka smučišča
+    r'.*?'
+    r'<div class=".*?"><a class=".*?"\s*href=".*?">\s*Details\s*</a>\s*</div>\s*</div>\s*</div>',  # Konec bloka smučišča
+    flags=re.DOTALL
+)
+
+# natančnejša obdelava 
+vzorec_smučišča = re.compile(
+    # ime smučišča ter mesto, na katerem se nahaja po velikosti
+    r'<a class="h3"\s*href=".*?">\s*(?P<mesto_po_velikosti>\d*)\.\s*(?P<ime>.*?)</a>.*?'
+    # celina in država
+    r'<div class="sub-breadcrumb">.*?<a\s*href=".*?">(?P<celina>.*?)</a>\s*<a\s*href=".*?">(?P<drzava>.*?)</a>.*?'
+    # ocena smučišča
+    r'<div class="rating-list js-star-ranking stars-middle".*?data-rank="(?P<ocena>\d(\.\d)?)".*?'
+    # višinska razlika
+    r'<td><span>(?P<visinska_razlika>\d+(\.\d)?)\sm</span>.*?'
+    # dolžina rdečih prog
+    r'<span\s*class="slopeinfoitem red">(?P<dolzina_rdecih_prog>\d+(\.\d)?)\s*km</span>.*?'
+    # dolžina črnih prog
+    r'<span\s*class="slopeinfoitem black">(?P<dolzina_crnih_prog>\d+(\.\d)?)\skm</span>.*?'
+    # število žičnic
+    r'<li>(?P<stevilo_zicnic>\d+)\sski\slifts</li>.*?',
+    flags=re.DOTALL
+)
+
+# izločanje podatkov smučišča
+def izloci_podatke_smucisca(blok):
+    najdba = vzorec_smučišča.search(blok) # to je prvi match
+    smucisce = najdba.groupdict() # vrne slovar vseh vzorcev, poimenovanih zgoraj
+    smucisce['mesto_po_velikosti'] = int(smucisce['mesto_po_velikosti'])
+    smucisce['ime'] = pocisti_celine_in_drzave(smucisce['ime'])
+    smucisce['celina'] = pocisti_celine_in_drzave(smucisce['celina'])
+    smucisce['ocena'] = float(smucisce['ocena'])
+    smucisce['visinska_razlika'] = int(smucisce['visinska_razlika'])
+    smucisce['stevilo_zicnic'] = int(smucisce['stevilo_zicnic']) 
+    smucisce['dolzina_rdecih_prog'] = float(smucisce['dolzina_rdecih_prog'])
+    smucisce['dolzina_crnih_prog'] = float(smucisce['dolzina_crnih_prog'])
+    
+    return smucisce
+
+# izločanje vseh smučišč s strani
+def izloci_vsa_smucisca(vsebina):
+    bloki = vzorec_bloka.findall(vsebina)
+    seznam_smucisc = []
+    # iz vsakega bloka izločim ime, dodam v seznam_smucisc
+    for blok in bloki:
+        pociscen_blok = izloci_podatke_smucisca(blok)
+        seznam_smucisc.append(pociscen_blok)
+    return seznam_smucisc
+
+
+
+with open('smucisca.html', 'r', encoding='utf-8') as f:
+    stran = f.read()
+    
+# izločim vsa smučišča iz vsebine
+seznam_smucisc = izloci_vsa_smucisca(stran)
+
+# izpišem seznam smučišč
+print(f"Najdena smučišča: {seznam_smucisc}")
+print(f'Vseh smučišč je: {len(seznam_smucisc)}')
+

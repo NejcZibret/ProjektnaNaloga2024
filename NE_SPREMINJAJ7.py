@@ -1,10 +1,7 @@
 import re
-import html
 import os
+import html
 import requests
-import time
-
-# v 1. delu bom najprej ustvaril mapo smucisca in nalozil vse html datoteke iz spleta
 
 if not os.path.exists('smucisca'):
     os.makedirs('smucisca')
@@ -36,14 +33,15 @@ for i in range(1, 33):
     except requests.exceptions.RequestException as e:
         print(f"Prišlo je do napake: {e}")
 
-# v 2. delu bom najprej poiskal vsa smučišča ter očistil imena le teh
 
-# najprej bom počistil imena smučišč, da ne bo #... namesto znakov
 def pocisti_imena_smucisc(niz):
-    pocisceno_ime = re.sub(r'<span class=".*? (temporarily closed)</span>', '', niz)
-    pocisceno_ime = html.unescape(niz).strip() 
-    pocisceno_ime = re.sub(r'\s+', ' ', pocisceno_ime) # kjer je več presledkov, dam enega
-    pocisceno_ime = re.sub(r'\u200b', '', pocisceno_ime)
+    # Najprej odstrani span elemente, ki označujejo začasno zaprta smučišča
+    pocisceno_ime = re.sub(r'<span class="closed-resort red">.*?</span>', '', niz)
+    
+    # Nato ostala čiščenja
+    pocisceno_ime = html.unescape(pocisceno_ime).strip() 
+    pocisceno_ime = re.sub(r'\s+', ' ', pocisceno_ime)  # kjer je več presledkov, dam enega
+    pocisceno_ime = re.sub(r'\u200b', '', pocisceno_ime)  # odstrani 'zero-width space' znake
     return pocisceno_ime
 
 def poisci(i):
@@ -56,14 +54,15 @@ def poisci(i):
 
         cista_smucisca = [pocisti_imena_smucisc(s) for s in smucisca]
         return cista_smucisca
- 
+
+# Glavni del
 vsa_smucisca = []
- 
-for i in range(1, 33):
+
+for i in range(1, 20):
     vsa_smucisca.extend(poisci(i))
 
 print(vsa_smucisca)
-print(f'Vseh smučišč je: {len(vsa_smucisca)}')
+print(len(vsa_smucisca))
 
 
 

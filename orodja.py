@@ -6,12 +6,12 @@ vzorec_bloka = re.compile(
 )
 
 vzorec_smučišča = re.compile(
-    # ime smučišča
+    # na katerem mestu je po velikosti ter ime smučišča
     r'<a class="h3"\s*href="[^"]*">\s*\d*\.\s*(?P<ime>.*?)</a>.*?'
     # celina in država
     r'<div class="sub-breadcrumb">.*?<a\s*href="[^"]*">(?P<celina>.*?)</a>\s*<a\s*href="[^"]*">(?P<drzava>.*?)</a>.*?'
     # ocena smučišča
-    r'<div class="star-wrap stars-middle-grey rating-list".*?data-rank="(?P<ocena>\d+(\.\d+)?)".*?'
+    r'<div class="rating-list js-star-ranking stars-middle".*?data-rank="(?P<ocena>\d(\.\d)?)".*?',
     # višinska razlika
     r'<td><span>(?P<visinska_razlika>\d+(\.\d+)?)\sm</span>.*?'
     # skupna dolžina
