@@ -4,6 +4,7 @@ import os
 
 
 
+
 # pomožna funkcija 1
 def pocisti_imena_smucisc(niz):
     pocisceno_ime = re.sub(r'<span class=".*?">.*?</span>', '', niz)
@@ -21,6 +22,7 @@ def pocisti_celine_in_drzave(niz):
 
 
 
+
 # blok smučišča
 vzorec_bloka = re.compile(
     r'<div class="panel panel-default resort-list-item resort-list-item-image--big"'  # Začetek bloka smučišča
@@ -28,6 +30,7 @@ vzorec_bloka = re.compile(
     r'<div class=".*?"><a class=".*?"\s*href=".*?">\s*Details\s*</a>\s*</div>\s*</div>\s*</div>',  # Konec bloka smučišča
     flags=re.DOTALL
 )
+
 
 # natančnejša obdelava 
 vzorec_smučišča = re.compile(
@@ -48,10 +51,12 @@ vzorec_smučišča = re.compile(
     flags=re.DOTALL
 )
 
+
 # izločanje podatkov smučišča
 def izloci_podatke_smucisca(blok):
     najdba = vzorec_smučišča.search(blok) # to je prvi match
     smucisce = najdba.groupdict() # vrne slovar vseh vzorcev, poimenovanih zgoraj
+    
     smucisce['mesto_po_velikosti'] = int(smucisce['mesto_po_velikosti'])
     smucisce['ime'] = pocisti_celine_in_drzave(smucisce['ime'])
     smucisce['celina'] = pocisti_celine_in_drzave(smucisce['celina'])
@@ -62,6 +67,7 @@ def izloci_podatke_smucisca(blok):
     smucisce['dolzina_crnih_prog'] = float(smucisce['dolzina_crnih_prog'])
     
     return smucisce
+
 
 # izločanje vseh smučišč s strani
 def izloci_vsa_smucisca(vsebina):
@@ -75,11 +81,14 @@ def izloci_vsa_smucisca(vsebina):
 
 
 
-with open('smucisca.html', 'r', encoding='utf-8') as f:
-    stran = f.read()
-    
-# izločim vsa smučišča iz vsebine
-seznam_smucisc = izloci_vsa_smucisca(stran)
+
+seznam_smucisc = []
+for i in range(1, 3):
+    with open(os.path.join('smucisca', f'smucisca{i}.html'), 'r', encoding='utf-8') as f:
+        stran = f.read()
+    smucisca_iz_datoteke = izloci_vsa_smucisca(stran)
+    seznam_smucisc.extend(smucisca_iz_datoteke)
+
 
 # izpišem seznam smučišč
 print(f"Najdena smučišča: {seznam_smucisc}")
