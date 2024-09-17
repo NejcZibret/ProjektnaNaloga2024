@@ -35,19 +35,19 @@ vzorec_bloka = re.compile(
 # natančnejša obdelava 
 vzorec_smučišča = re.compile(
     # ime smučišča ter mesto, na katerem se nahaja po velikosti
-    r'<a class="h3"\s*href=".*?">\s*(?P<mesto_po_velikosti>\d*)\.\s*(?P<ime>.*?)</a>.*?'
+    r'<a class="h3"\s*href=".*?">\s*(?P<mesto_po_velikosti>\d+)\.\s+(?P<ime>.*?)</a>.*?'
     # celina in država
-    r'<div class="sub-breadcrumb">.*?<a\s*href=".*?">(?P<celina>.*?)</a>\s*<a\s*href=".*?">(?P<drzava>.*?)</a>.*?'
+    r'<div class="sub-breadcrumb">\s*<div\s*class="\s*sub-breadcrumb">\s*<a\s*href=".*?">(?P<celina>.*?)</a>\s*<a\s*href=".*?">(?P<drzava>.*?)</a>.*?'
     # ocena smučišča
-    r'<div class="rating-list js-star-ranking stars-middle".*?data-rank="(?P<ocena>\d(\.\d)?)".*?'
+    r'<div\s*class="\s*rating-list\s+js-star-ranking\s+stars-middle".*?data-rank="(?P<ocena>\d(\.\d)?)".*?'
     # višinska razlika
-    r'<td><span>(?P<visinska_razlika>\d+(\.\d)?)\sm</span>.*?'
+    r'<td>\s*<span>(?P<visinska_razlika>\d+(\.\d)?)\s+m</span>.*?'
     # dolžina rdečih prog
-    r'<span\s*class="slopeinfoitem red">(?P<dolzina_rdecih_prog>\d+(\.\d)?)\s*km</span>.*?'
+    r'<span\s*class="slopeinfoitem\s+red">\s*(?P<dolzina_rdecih_prog>\d+(\.\d)?)\s*km\s*</span>.*?'
     # dolžina črnih prog
-    r'<span\s*class="slopeinfoitem black">(?P<dolzina_crnih_prog>\d+(\.\d)?)\skm</span>.*?'
+    r'<span\s*class="slopeinfoitem\s+black">\s*(?P<dolzina_crnih_prog>\d+(\.\d)?)\skm\s*</span>.*?'
     # število žičnic
-    r'<li>(?P<stevilo_zicnic>\d+)\sski\slifts</li>.*?',
+    r'<li>\s*(?P<stevilo_zicnic>\d+)\s*ski\s*lifts\s*</li>.*?',
     flags=re.DOTALL
 )
 
