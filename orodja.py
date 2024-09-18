@@ -94,3 +94,12 @@ print(f"Število smučišč: {stevilo_blokov}")
     smucisce['stevilo_zicnic'] = int(smucisce['stevilo_zicnic']) 
     smucisce['dolzina_rdecih_prog'] = float(smucisce['dolzina_rdecih_prog'])
     smucisce['dolzina_crnih_prog'] = float(smucisce['dolzina_crnih_prog'])
+    
+    
+    
+    
+    
+        # višinska razlika, najnizja visina, navisja visina
+    r'<td>'
+    r'<span(.*?(?P<visinska_razlika>\d+(\.\d+)?)\s*m</span>)?.*?'
+    r'</span>\s*</td>'

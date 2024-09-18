@@ -43,6 +43,7 @@ vzorec_smučišča = re.compile(
     r'<div\s+class="sub-breadcrumb">\s*<a\s+href=".*?">(?P<celina>.*?)</a>\s*(<a\s+href=".*?">\s*(?P<drzava>.*?)</a>)?.*?'
     # ocena smučišča
     r'<tr>.*?(<div class="rating-list js-star-ranking stars-middle".*?data-rank="(?P<ocena>\d(\.\d)?)".*?)?</tr>.*?'
+       
     # dolžina prog
     r'<td>\s*<span\s*class="slopeinfoitem\s*'
     r'active">(?P<skupna_dolzina>\d+(\.\d+)?)\skm</span>.*?(<span class="slopeinfoitem blue">(?P<dolzina_modrih>\d+(\.\d+)?)\skm</span>.*?)?'
