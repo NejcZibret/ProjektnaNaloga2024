@@ -53,3 +53,44 @@ with open('html_primer.html', 'r', encoding='utf-8') as f:
 stevilo_blokov = prestej_ponovitve(stran)
 print(f"Število smučišč: {stevilo_blokov}")
 
+
+
+
+
+
+
+
+    # visinska razlika
+    r'<td>\s*<span((?P<visinska_razlika>\d+(\.\d)?)\s*m</span>)?.*?class="active".*?</td>'
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    # višinska razlika
+    r'<td>\s*<span>(?P<visinska_razlika>\d+(\.\d)?)\s+m</span>.*?'
+    # dolžina rdečih prog
+    r'<span\s*class="slopeinfoitem\s+red">\s*(?P<dolzina_rdecih_prog>\d+(\.\d)?)\s*km\s*</span>.*?'
+    # dolžina črnih prog
+    r'<span\s*class="slopeinfoitem\s+black">\s*(?P<dolzina_crnih_prog>\d+(\.\d)?)\skm\s*</span>.*?'
+    # število žičnic
+    r'<li>\s*(?P<stevilo_zicnic>\d+)\s*ski\s*lifts\s*</li>.*?',
+    flags=re.DOTALL
+    
+    
+    
+    
+    smucisce['celina'] = pocisti_celine_in_drzave(smucisce['celina'])
+    smucisce['ocena'] = float(smucisce['ocena'])
+    smucisce['visinska_razlika'] = int(smucisce['visinska_razlika'])
+    smucisce['stevilo_zicnic'] = int(smucisce['stevilo_zicnic']) 
+    smucisce['dolzina_rdecih_prog'] = float(smucisce['dolzina_rdecih_prog'])
+    smucisce['dolzina_crnih_prog'] = float(smucisce['dolzina_crnih_prog'])

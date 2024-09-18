@@ -6,7 +6,7 @@ import requests
 if not os.path.exists('smucisca'):
     os.makedirs('smucisca')
 
-for i in range(1, 20):
+for i in range(1, 27):
     if i == 1:
         url = 'https://www.skiresort.info/ski-resorts/sorted/slope-length/'
     else:
@@ -58,7 +58,7 @@ def poisci(i):
 # Glavni del
 vsa_smucisca = []
 
-for i in range(1, 20):
+for i in range(1, 27):
     vsa_smucisca.extend(poisci(i))
 
 print(vsa_smucisca)
