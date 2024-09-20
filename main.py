@@ -1,8 +1,70 @@
-import re
-import html  
+import csv
+import json
 import os
+import requests
+import sys
+import html
+import re
 
 
+
+# 1. DEL: REQUESTS
+# Pri prvem delu sem si pomagal z datoteko profesorja Pretnarja (orodja.py), s katero sem pridobil toliko strani, da sem dobil
+# podatke o 3050 smučiščih, če ti že niso bili predhodno pridobljeni.
+
+
+def pripravi_imenik(ime_datoteke):
+    '''če še ne obstaja, pripravi prazen imenik za dano datoteko'''
+    imenik = os.path.dirname(ime_datoteke)
+    if imenik:
+        os.makedirs(imenik, exist_ok=True)
+        
+def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
+    '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom.'''
+    try:
+        print(f'Shranjujem {url} ...', end='')
+        sys.stdout.flush()
+        if os.path.isfile(ime_datoteke) and not vsili_prenos:
+            print('Shranjeno že od prej!')
+            return
+        r = requests.get(url)
+        r.raise_for_status()
+    except requests.exceptions.ConnectionError:
+        print(f'Stran ne obstaja!')
+    else:
+        pripravi_imenik(ime_datoteke)
+        with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
+            datoteka.write(r.text)
+            print('Shranjeno!')
+
+
+def vsebina_datoteke(ime_datoteke):
+    '''Vrne niz z vsebino datoteke z danim imenom.'''
+    with open(ime_datoteke, encoding='utf-8') as datoteka:
+        return datoteka.read()
+    
+
+if not os.path.exists('smucisca'):
+    '''Ustvari pot, če ta še ne obstaja.'''
+    os.makedirs('smucisca')
+    
+
+for i in range(1, 17):
+    if i == 1:
+        url = 'https://www.skiresort.info/ski-resorts/sorted/slope-length/'
+    else:
+        url = f'https://www.skiresort.info/ski-resorts/page/{i}/sorted/slope-length/'
+
+    ime_datoteke = os.path.join('smucisca', f'smucisca{i}.html')
+    
+    # Shranjevanje strani
+    shrani_spletno_stran(url, ime_datoteke)
+    
+
+
+
+# 2. DEL: FUNKCIJE Z UPORABO RE
+# Tukaj sem najprej poiskal blok ter znotraj bloka nato iskal podrobneje.
 
 
 # pomožna funkcija 1
@@ -62,7 +124,7 @@ def izloci_podatke_smucisca(blok):
     smucisce['ime'] = pocisti_imena_smucisc(smucisce['ime'])
     smucisce['celina'] = pocisti_celine_in_drzave(smucisce['celina'])
     smucisce['drzava'] = pocisti_celine_in_drzave(smucisce['drzava']) if smucisce['drzava'] not in (None, '') else 'Country is not provided.'
-    smucisce['ocena'] = float(smucisce['ocena']) if smucisce['ocena'] not in (None, '') else 'There is no rating.'
+    smucisce['ocena'] = float(smucisce['ocena']) if smucisce['ocena'] not in (None, '') else 'No rating.'
     smucisce['skupna_dolzina'] = float(smucisce['skupna_dolzina'])
     smucisce['dolzina_modrih'] = float(smucisce['dolzina_modrih']) if smucisce['dolzina_modrih'] not in (None, '') else 'Not known.'
     smucisce['dolzina_rdecih'] = float(smucisce['dolzina_rdecih']) if smucisce['dolzina_rdecih'] not in (None, '') else 'Not known.'
@@ -82,8 +144,6 @@ def izloci_vsa_smucisca(vsebina):
     return seznam_smucisc
 
 
-
-
 seznam_smucisc = []
 for i in range(1, 17):
     with open(os.path.join('smucisca', f'smucisca{i}.html'), 'r', encoding='utf-8') as f:
@@ -92,7 +152,32 @@ for i in range(1, 17):
     seznam_smucisc.extend(smucisca_iz_datoteke)
 
 
-# izpišem seznam smučišč
-print(f"Najdena smučišča: {seznam_smucisc}")
+
+
+# 3. DEL: JSON IN CSV 
+
+
+with open('smucisca.json', 'w', encoding='utf-8') as f:
+    json.dump(seznam_smucisc, f, ensure_ascii=False, indent=4)
+    
+    
+
+with open('smucisca.csv', 'w', encoding='utf-8-sig', newline='') as f:
+    pisatelj = csv.writer(f)
+    pisatelj.writerow(['položaj', 'ime', 'celina', 'država', 'ocena', 'proge', 'modre', 'rdeče', 'črne'])
+    for smucisce in seznam_smucisc:
+        položaj = smucisce['mesto_po_velikosti']
+        ime = smucisce['ime']
+        celina = smucisce['celina']
+        država = smucisce['drzava']
+        ocena = smucisce['ocena']
+        proge = smucisce['skupna_dolzina']
+        modre = smucisce['dolzina_modrih']
+        rdeče = smucisce['dolzina_rdecih']
+        črne = smucisce['dolzina_crnih']
+        pisatelj.writerow([položaj, ime, celina, država, ocena, proge, modre, rdeče, črne])
+        
+
 print(f'Vseh smučišč je: {len(seznam_smucisc)}')
+        
 
