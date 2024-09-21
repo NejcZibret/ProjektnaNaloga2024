@@ -124,7 +124,7 @@ def izloci_podatke_smucisca(blok):
     smucisce['ime'] = pocisti_imena_smucisc(smucisce['ime'])
     smucisce['celina'] = pocisti_celine_in_drzave(smucisce['celina'])
     smucisce['drzava'] = pocisti_celine_in_drzave(smucisce['drzava']) if smucisce['drzava'] not in (None, '') else 'Country is not provided.'
-    smucisce['ocena'] = float(smucisce['ocena']) if smucisce['ocena'] not in (None, '') else 'No rating.'
+    smucisce['ocena'] = float(smucisce['ocena']) if smucisce['ocena'] not in (None, '') else int('0')
     smucisce['skupna_dolzina'] = float(smucisce['skupna_dolzina'])
     smucisce['dolzina_modrih'] = float(smucisce['dolzina_modrih']) if smucisce['dolzina_modrih'] not in (None, '') else 'Not known.'
     smucisce['dolzina_rdecih'] = float(smucisce['dolzina_rdecih']) if smucisce['dolzina_rdecih'] not in (None, '') else 'Not known.'
