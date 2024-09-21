@@ -103,8 +103,9 @@ vzorec_smučišča = re.compile(
     r'<a\s+class="h3"\s+href=".*?">\s*(?P<mesto_po_velikosti>\d+)\.\s+(?P<ime>.*?)\s*</a>.*?'
     # celina in država
     r'<div\s+class="sub-breadcrumb">\s*<a\s+href=".*?">(?P<celina>.*?)</a>\s*(<a\s+href=".*?">\s*(?P<drzava>.*?)</a>)?.*?'
-    # ocena smučišča
-    r'<tr>.*?(<div class="rating-list js-star-ranking stars-middle".*?data-rank="(?P<ocena>\d(\.\d)?)".*?)?</tr>.*?'
+    # ocena smučišča in višinska razlika
+    r'<tbody>\s*<tr>.*?(<div class="rating-list js-star-ranking stars-middle".*?data-rank="(?P<ocena>\d(\.\d)?)".*?)?</tr>(\s*<tr>.*?<td><span>'
+    r'(?P<visinska_razlika>\d+(\.\d)?) m</span>.*?</tr>)?.*?'
        
     # dolžina prog
     r'<td>\s*<span\s*class="slopeinfoitem\s*'
@@ -125,6 +126,7 @@ def izloci_podatke_smucisca(blok):
     smucisce['celina'] = pocisti_celine_in_drzave(smucisce['celina'])
     smucisce['drzava'] = pocisti_celine_in_drzave(smucisce['drzava']) if smucisce['drzava'] not in (None, '') else 'Country is not provided.'
     smucisce['ocena'] = float(smucisce['ocena']) if smucisce['ocena'] not in (None, '') else int('0')
+    smucisce['visinska_razlika'] = float(smucisce['visinska_razlika']) if smucisce['visinska_razlika'] not in (None, '') else 'Not known.'
     smucisce['skupna_dolzina'] = float(smucisce['skupna_dolzina'])
     smucisce['dolzina_modrih'] = float(smucisce['dolzina_modrih']) if smucisce['dolzina_modrih'] not in (None, '') else 'Not known.'
     smucisce['dolzina_rdecih'] = float(smucisce['dolzina_rdecih']) if smucisce['dolzina_rdecih'] not in (None, '') else 'Not known.'
@@ -164,18 +166,19 @@ with open('smucisca.json', 'w', encoding='utf-8') as f:
 
 with open('smucisca.csv', 'w', encoding='utf-8-sig', newline='') as f:
     pisatelj = csv.writer(f)
-    pisatelj.writerow(['položaj', 'ime', 'celina', 'država', 'ocena', 'proge', 'modre', 'rdeče', 'črne'])
+    pisatelj.writerow(['položaj', 'ime', 'celina', 'država', 'ocena', 'višinska_razlika', 'proge', 'modre', 'rdeče', 'črne'])
     for smucisce in seznam_smucisc:
         položaj = smucisce['mesto_po_velikosti']
         ime = smucisce['ime']
         celina = smucisce['celina']
         država = smucisce['drzava']
         ocena = smucisce['ocena']
+        višinska_razlika = smucisce['visinska_razlika']
         proge = smucisce['skupna_dolzina']
         modre = smucisce['dolzina_modrih']
         rdeče = smucisce['dolzina_rdecih']
         črne = smucisce['dolzina_crnih']
-        pisatelj.writerow([položaj, ime, celina, država, ocena, proge, modre, rdeče, črne])
+        pisatelj.writerow([položaj, ime, celina, država, ocena, višinska_razlika, proge, modre, rdeče, črne])
         
 
 print(f'Vseh smučišč je: {len(seznam_smucisc)}')
