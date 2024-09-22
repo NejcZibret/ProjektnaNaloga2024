@@ -127,6 +127,9 @@ def izloci_podatke_smucisca(blok):
     smucisce['mesto_po_velikosti'] = int(smucisce['mesto_po_velikosti'])
     smucisce['ime'] = pocisti_imena_smucisc(smucisce['ime'])
     smucisce['celina'] = pocisti_celine_in_drzave(smucisce['celina'])
+    if smucisce['celina'] == 'Russia':
+        smucisce['drzava'] = 'Russia'
+        smucisce['celina'] = 'Europe/Asia'
     smucisce['drzava'] = pocisti_celine_in_drzave(smucisce['drzava']) if smucisce['drzava'] not in (None, '') else 'no data.'
     smucisce['ocena'] = float(smucisce['ocena']) if smucisce['ocena'] not in (None, '') else int('0')
     smucisce['visinska_razlika'] = float(smucisce['visinska_razlika']) if smucisce['visinska_razlika'] not in (None, '') else 'no data'
