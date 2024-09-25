@@ -5060,14 +5060,14 @@
         "mesto_po_velikosti": 384,
         "ime": "Trojena – Neom (planned)",
         "celina": "Asia",
-        "drzava": "no data.",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "drzava": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 36.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
-        "stevilo_zicnic": "no data"
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 391,
@@ -6478,12 +6478,12 @@
         "ime": "Jihua",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 214.0,
         "skupna_dolzina": 30.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 10
     },
     {
@@ -6542,14 +6542,14 @@
         "mesto_po_velikosti": 465,
         "ime": "Dolina Vasta (planned)",
         "celina": "Europe",
-        "drzava": "no data.",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "drzava": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 30.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
-        "stevilo_zicnic": "no data"
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 505,
@@ -7804,7 +7804,7 @@
         "ime": "Espace Super Saint-Bernard – Bourg-St-Pierre  (temporarily closed)",
         "celina": "Europe",
         "drzava": "Switzerland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 850.0,
         "skupna_dolzina": 25.0,
         "dolzina_modrih": 3.0,
@@ -7823,7 +7823,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 12.0,
         "dolzina_crnih": 10.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 603,
@@ -8467,12 +8467,12 @@
         "ime": "Zavjalikha",
         "celina": "Europe/Asia",
         "drzava": "Russia",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 426.0,
         "skupna_dolzina": 22.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 4
     },
     {
@@ -9513,7 +9513,7 @@
         "dolzina_modrih": 6.0,
         "dolzina_rdecih": 8.0,
         "dolzina_crnih": 6.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 692,
@@ -9754,12 +9754,12 @@
         "ime": "Dorukkaya – Bolu-Kartalkaya",
         "celina": "Asia",
         "drzava": "Turkey",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 339.0,
         "skupna_dolzina": 20.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 8
     },
     {
@@ -10053,7 +10053,7 @@
         "ime": "Amihari",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 710.0,
         "skupna_dolzina": 20.0,
         "dolzina_modrih": 10.0,
@@ -10066,12 +10066,12 @@
         "ime": "Ping Tian Resort",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 1100.0,
         "skupna_dolzina": 20.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 10
     },
     {
@@ -10995,7 +10995,7 @@
         "dolzina_modrih": 4.0,
         "dolzina_rdecih": 9.0,
         "dolzina_crnih": 4.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 840,
@@ -11092,7 +11092,7 @@
         "mesto_po_velikosti": 840,
         "ime": "Gubaha",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.7,
         "visinska_razlika": 310.0,
         "skupna_dolzina": 17.0,
@@ -11145,12 +11145,12 @@
         "ime": "Jiangjun Shan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 425.0,
         "skupna_dolzina": 17.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 7
     },
     {
@@ -11385,7 +11385,7 @@
         "dolzina_modrih": 4.0,
         "dolzina_rdecih": 7.0,
         "dolzina_crnih": 5.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 867,
@@ -11522,13 +11522,13 @@
         "ime": "Stagecoach Mountain  (temporarily closed)",
         "celina": "North America",
         "drzava": "USA",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 577.0,
         "skupna_dolzina": 16.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
-        "stevilo_zicnic": "no data"
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 888,
@@ -12373,7 +12373,7 @@
         "dolzina_modrih": 5.0,
         "dolzina_rdecih": 8.0,
         "dolzina_crnih": 2.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 906,
@@ -12471,12 +12471,12 @@
         "ime": "Norus (Nooruz)",
         "celina": "Asia",
         "drzava": "Kyrgyzstan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 1524.0,
         "skupna_dolzina": 15.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 3
     },
     {
@@ -12484,7 +12484,7 @@
         "ime": "Hakusan Sena Kogen  (temporarily closed)",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 760.0,
         "skupna_dolzina": 15.0,
         "dolzina_modrih": 3.0,
@@ -12497,12 +12497,12 @@
         "ime": "Fulong",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 410.0,
         "skupna_dolzina": 15.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 6
     },
     {
@@ -12945,7 +12945,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 14.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 980,
@@ -13043,7 +13043,7 @@
         "ime": "Shirakaba Kogen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 294.0,
         "skupna_dolzina": 13.9,
         "dolzina_modrih": 5.5,
@@ -13075,7 +13075,7 @@
         "dolzina_modrih": 2.1,
         "dolzina_rdecih": 5.5,
         "dolzina_crnih": 6.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1005,
@@ -13426,7 +13426,7 @@
         "dolzina_modrih": 4.0,
         "dolzina_rdecih": 4.0,
         "dolzina_crnih": 5.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1025,
@@ -13641,7 +13641,7 @@
         "ime": "Shirao  (temporarily closed)",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 488.0,
         "skupna_dolzina": 13.0,
         "dolzina_modrih": 4.0,
@@ -13654,12 +13654,12 @@
         "ime": "Shimao Lotus Mountain",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 115.0,
         "skupna_dolzina": 13.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 4
     },
     {
@@ -13790,7 +13790,7 @@
         "dolzina_modrih": 3.4,
         "dolzina_rdecih": 4.0,
         "dolzina_crnih": 5.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1058,
@@ -14070,12 +14070,12 @@
         "ime": "Pooladkaf",
         "celina": "Asia",
         "drzava": "Iran",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 411.0,
         "skupna_dolzina": 12.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 2
     },
     {
@@ -14544,14 +14544,14 @@
         "dolzina_modrih": 7.1,
         "dolzina_rdecih": 4.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1074,
         "ime": "Big Tupper – Tupper Lake  (temporarily closed)",
         "celina": "North America",
         "drzava": "USA",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 473.0,
         "skupna_dolzina": 12.0,
         "dolzina_modrih": 5.0,
@@ -14733,7 +14733,7 @@
         "ime": "Funiushan – Luanchuan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 360.0,
         "skupna_dolzina": 11.6,
         "dolzina_modrih": 6.5,
@@ -15084,7 +15084,7 @@
         "ime": "Tarscher Alm (Malga di Tarres) – Latsch (Laces)  (temporarily closed)",
         "celina": "Europe",
         "drzava": "Italy",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 1066.0,
         "skupna_dolzina": 11.0,
         "dolzina_modrih": 1.0,
@@ -15272,7 +15272,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 4.0,
         "dolzina_crnih": 5.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1147,
@@ -15318,7 +15318,7 @@
         "ime": "Okunakayamakogen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 368.0,
         "skupna_dolzina": 11.0,
         "dolzina_modrih": 5.0,
@@ -15441,7 +15441,7 @@
         "dolzina_modrih": 3.5,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 4.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1188,
@@ -15617,12 +15617,12 @@
         "ime": "Blanche Takayama",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 419.0,
         "skupna_dolzina": 10.4,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 6
     },
     {
@@ -16169,7 +16169,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 4.0,
         "dolzina_crnih": 3.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1215,
@@ -16215,7 +16215,7 @@
         "ime": "Gerlosstein",
         "celina": "Europe",
         "drzava": "Austria",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 907.0,
         "skupna_dolzina": 10.0,
         "dolzina_modrih": 1.0,
@@ -16338,7 +16338,7 @@
         "dolzina_modrih": 4.0,
         "dolzina_rdecih": 4.0,
         "dolzina_crnih": 2.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1215,
@@ -16975,7 +16975,7 @@
         "dolzina_modrih": 4.0,
         "dolzina_rdecih": 5.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1215,
@@ -17151,12 +17151,12 @@
         "ime": "Sucha Dolina – Kosarzyska (Piwniczna-Zdrój)",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 140.0,
         "skupna_dolzina": 10.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 11
     },
     {
@@ -17177,7 +17177,7 @@
         "ime": "Aizu Kogen Takahata",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 520.0,
         "skupna_dolzina": 10.0,
         "dolzina_modrih": 2.0,
@@ -17190,7 +17190,7 @@
         "ime": "Kawachisenjo Onsen Kanazawa Seymour",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 730.0,
         "skupna_dolzina": 10.0,
         "dolzina_modrih": 2.0,
@@ -17203,7 +17203,7 @@
         "ime": "Saint-Pacôme  (temporarily closed)",
         "celina": "North America",
         "drzava": "Canada",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 150.0,
         "skupna_dolzina": 10.0,
         "dolzina_modrih": 4.0,
@@ -17229,7 +17229,7 @@
         "ime": "Kamoidake Kokusai",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 251.0,
         "skupna_dolzina": 10.0,
         "dolzina_modrih": 3.0,
@@ -17242,7 +17242,7 @@
         "ime": "Geihoku Kokusai",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 426.0,
         "skupna_dolzina": 10.0,
         "dolzina_modrih": 4.0,
@@ -17255,7 +17255,7 @@
         "ime": "Tanbara Ski Park",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 300.0,
         "skupna_dolzina": 10.0,
         "dolzina_modrih": 3.5,
@@ -17268,12 +17268,12 @@
         "ime": "Xiling Snow Mountain",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 10.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 5
     },
     {
@@ -17339,7 +17339,7 @@
         "dolzina_modrih": 2.4,
         "dolzina_rdecih": 1.6,
         "dolzina_crnih": 5.9,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1335,
@@ -17528,7 +17528,7 @@
         "ime": "Woodbury  (temporarily closed)",
         "celina": "North America",
         "drzava": "USA",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 91.0,
         "skupna_dolzina": 9.6,
         "dolzina_modrih": 3.5,
@@ -17794,7 +17794,7 @@
         "dolzina_modrih": 3.5,
         "dolzina_rdecih": 3.6,
         "dolzina_crnih": 2.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1368,
@@ -17820,7 +17820,7 @@
         "dolzina_modrih": 1.1,
         "dolzina_rdecih": 5.5,
         "dolzina_crnih": 2.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1372,
@@ -18106,7 +18106,7 @@
         "dolzina_modrih": 6.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1375,
@@ -18386,7 +18386,7 @@
         "ime": "Svarstad  (temporarily closed)",
         "celina": "Europe",
         "drzava": "Norway",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 240.0,
         "skupna_dolzina": 9.0,
         "dolzina_modrih": 6.0,
@@ -18678,7 +18678,7 @@
         "dolzina_modrih": 6.0,
         "dolzina_rdecih": 2.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1430,
@@ -18867,7 +18867,7 @@
         "ime": "Muica",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 396.0,
         "skupna_dolzina": 8.4,
         "dolzina_modrih": 3.8,
@@ -18945,7 +18945,7 @@
         "ime": "Toggenburg Ski Center  (temporarily closed)",
         "celina": "North America",
         "drzava": "USA",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 160.0,
         "skupna_dolzina": 8.3,
         "dolzina_modrih": 3.2,
@@ -19062,12 +19062,12 @@
         "ime": "Yıldız Dağı – Sivas",
         "celina": "Asia",
         "drzava": "Turkey",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 690.0,
         "skupna_dolzina": 8.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 3
     },
     {
@@ -19081,7 +19081,7 @@
         "dolzina_modrih": 6.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1462,
@@ -19302,7 +19302,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 2.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1462,
@@ -19842,7 +19842,7 @@
         "ime": "Denton Hill State Park  (temporarily closed)",
         "celina": "North America",
         "drzava": "USA",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 8.0,
         "dolzina_modrih": 4.0,
@@ -19855,7 +19855,7 @@
         "ime": "Maarianrinteet  (temporarily closed)",
         "celina": "Europe",
         "drzava": "Finland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 140.0,
         "skupna_dolzina": 8.0,
         "dolzina_modrih": 3.0,
@@ -19868,7 +19868,7 @@
         "ime": "Nobeyama",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 210.0,
         "skupna_dolzina": 8.0,
         "dolzina_modrih": 3.0,
@@ -19881,12 +19881,12 @@
         "ime": "BaiYun",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 115.0,
         "skupna_dolzina": 8.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 5
     },
     {
@@ -20108,7 +20108,7 @@
         "dolzina_modrih": 4.6,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1548,
@@ -20511,7 +20511,7 @@
         "dolzina_modrih": 4.0,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1577,
@@ -20791,12 +20791,12 @@
         "ime": "Onikoube",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 715.0,
         "skupna_dolzina": 7.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 6
     },
     {
@@ -21174,7 +21174,7 @@
         "dolzina_modrih": 5.2,
         "dolzina_rdecih": 1.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1577,
@@ -21272,7 +21272,7 @@
         "ime": "Noboribetsu Kogen Sanraiba",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 400.0,
         "skupna_dolzina": 7.0,
         "dolzina_modrih": 3.0,
@@ -21285,7 +21285,7 @@
         "ime": "Itoshiro",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 7.0,
         "dolzina_modrih": 2.0,
@@ -21298,20 +21298,20 @@
         "ime": "Abashiri Lake View Resort",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 180.0,
         "skupna_dolzina": 7.0,
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 4.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1577,
         "ime": "Ospitaletto  (temporarily closed)",
         "celina": "Europe",
         "drzava": "Italy",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 400.0,
         "skupna_dolzina": 7.0,
         "dolzina_modrih": 3.5,
@@ -21324,12 +21324,12 @@
         "ime": "Northeast Asia Ski Center",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 182.0,
         "skupna_dolzina": 7.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 9
     },
     {
@@ -21337,12 +21337,12 @@
         "ime": "Pingshan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 211.0,
         "skupna_dolzina": 7.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 5
     },
     {
@@ -21350,12 +21350,12 @@
         "ime": "Jiugong",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 7.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 8
     },
     {
@@ -21363,12 +21363,12 @@
         "ime": "Mount Langya",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 7.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 7
     },
     {
@@ -21428,8 +21428,8 @@
         "ime": "Yulongwan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 6.9,
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 3.3,
@@ -21473,7 +21473,7 @@
         "dolzina_modrih": 4.2,
         "dolzina_rdecih": 2.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1650,
@@ -21512,7 +21512,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 3.5,
         "dolzina_crnih": 3.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1655,
@@ -21928,7 +21928,7 @@
         "dolzina_modrih": 4.1,
         "dolzina_rdecih": 1.9,
         "dolzina_crnih": 0.3,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1677,
@@ -22130,12 +22130,12 @@
         "ime": "Cuiyunshan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 316.0,
         "skupna_dolzina": 6.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 2
     },
     {
@@ -22285,7 +22285,7 @@
         "mesto_po_velikosti": 1700,
         "ime": "Kazan",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.7,
         "visinska_razlika": 125.0,
         "skupna_dolzina": 6.0,
@@ -22435,7 +22435,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 2.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1700,
@@ -22448,7 +22448,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1700,
@@ -22929,7 +22929,7 @@
         "dolzina_modrih": 5.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1700,
@@ -23040,12 +23040,12 @@
         "ime": "Maoershan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 308.0,
         "skupna_dolzina": 6.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 5
     },
     {
@@ -23053,12 +23053,12 @@
         "ime": "Tian Qiaogou",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 392.0,
         "skupna_dolzina": 6.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 3
     },
     {
@@ -23066,12 +23066,12 @@
         "ime": "Jinxiangshan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 6.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 6
     },
     {
@@ -23079,12 +23079,12 @@
         "ime": "Tianjin Jizhou",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 6.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 7
     },
     {
@@ -23092,13 +23092,13 @@
         "ime": "Yangdŏk Hot Springs",
         "celina": "Asia",
         "drzava": "North Korea",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 6.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
-        "stevilo_zicnic": "no data"
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1778,
@@ -23176,19 +23176,19 @@
         "dolzina_modrih": 4.0,
         "dolzina_rdecih": 1.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1778,
         "ime": "Mashike Choei Shokanbetsudake",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 190.0,
         "skupna_dolzina": 5.9,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 2
     },
     {
@@ -23319,7 +23319,7 @@
         "dolzina_modrih": 0.5,
         "dolzina_rdecih": 4.3,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1789,
@@ -23397,7 +23397,7 @@
         "dolzina_modrih": 2.7,
         "dolzina_rdecih": 1.5,
         "dolzina_crnih": 1.6,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1789,
@@ -23423,7 +23423,7 @@
         "dolzina_modrih": 2.9,
         "dolzina_rdecih": 2.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1789,
@@ -23449,7 +23449,7 @@
         "dolzina_modrih": 4.3,
         "dolzina_rdecih": 1.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1805,
@@ -23605,7 +23605,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 4.3,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1816,
@@ -23618,7 +23618,7 @@
         "dolzina_modrih": 4.0,
         "dolzina_rdecih": 1.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1816,
@@ -23729,12 +23729,12 @@
         "ime": "Hanamiyama",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 5.6,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 2
     },
     {
@@ -23839,7 +23839,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 5.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1827,
@@ -24008,7 +24008,7 @@
         "dolzina_modrih": 3.6,
         "dolzina_rdecih": 1.3,
         "dolzina_crnih": 0.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1840,
@@ -24106,7 +24106,7 @@
         "ime": "Eck-Riedelstein – Arrach",
         "celina": "Europe",
         "drzava": "Germany",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 229.0,
         "skupna_dolzina": 5.3,
         "dolzina_modrih": 3.2,
@@ -24132,12 +24132,12 @@
         "ime": "Rówienki – Jawornik (Wisła)",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 95.0,
         "skupna_dolzina": 5.3,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 3
     },
     {
@@ -24216,7 +24216,7 @@
         "dolzina_modrih": 1.7,
         "dolzina_rdecih": 3.4,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
@@ -24489,7 +24489,7 @@
         "dolzina_modrih": 1.9,
         "dolzina_rdecih": 1.6,
         "dolzina_crnih": 1.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
@@ -24593,7 +24593,7 @@
         "dolzina_modrih": 0.5,
         "dolzina_rdecih": 3.5,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
@@ -24606,7 +24606,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 2.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
@@ -24658,7 +24658,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
@@ -24697,7 +24697,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
@@ -24827,7 +24827,7 @@
         "dolzina_modrih": 5.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
@@ -25204,7 +25204,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
@@ -25432,7 +25432,7 @@
         "ime": "Namari Onsen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 244.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 2.0,
@@ -25445,20 +25445,20 @@
         "ime": "Pirika",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 277.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 1.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1864,
         "ime": "Dogoyama Kogen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 350.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 2.0,
@@ -25484,7 +25484,7 @@
         "ime": "Yawata Kogen 191",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 190.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 2.0,
@@ -25497,7 +25497,7 @@
         "ime": "Greenpia Onuma",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 260.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 2.5,
@@ -25510,7 +25510,7 @@
         "ime": "Chikusa Kogen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 225.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 2.0,
@@ -25523,7 +25523,7 @@
         "ime": "Yanaba Snow Park – Hakuba  (temporarily closed)",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 320.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 2.5,
@@ -25536,7 +25536,7 @@
         "ime": "Blandford  (temporarily closed)",
         "celina": "North America",
         "drzava": "USA",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 160.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 2.0,
@@ -25549,7 +25549,7 @@
         "ime": "Snow Resort Nekoyama",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 320.0,
         "skupna_dolzina": 5.0,
         "dolzina_modrih": 1.5,
@@ -25562,12 +25562,12 @@
         "ime": "Cang Mashan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 5.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 5
     },
     {
@@ -25575,12 +25575,12 @@
         "ime": "Jingyuetan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 5.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 2
     },
     {
@@ -25789,7 +25789,7 @@
         "dolzina_modrih": 2.2,
         "dolzina_rdecih": 2.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1977,
@@ -25822,7 +25822,7 @@
         "ime": "Kamionna – Laskowa",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 335.0,
         "skupna_dolzina": 4.8,
         "dolzina_modrih": 1.0,
@@ -25906,7 +25906,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.5,
         "dolzina_crnih": 1.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1989,
@@ -25945,7 +25945,7 @@
         "dolzina_modrih": 1.4,
         "dolzina_rdecih": 2.4,
         "dolzina_crnih": 0.9,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 1997,
@@ -26095,7 +26095,7 @@
         "ime": "Kisofukushima",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 704.0,
         "skupna_dolzina": 4.6,
         "dolzina_modrih": 2.6,
@@ -26192,7 +26192,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 1.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2009,
@@ -26348,7 +26348,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 1.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2009,
@@ -26413,7 +26413,7 @@
         "dolzina_modrih": 3.5,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2009,
@@ -26608,7 +26608,7 @@
         "dolzina_modrih": 1.8,
         "dolzina_rdecih": 1.8,
         "dolzina_crnih": 0.8,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2039,
@@ -26634,7 +26634,7 @@
         "dolzina_modrih": 1.7,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2039,
@@ -26686,7 +26686,7 @@
         "dolzina_modrih": 2.4,
         "dolzina_rdecih": 1.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2053,
@@ -26725,7 +26725,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 2.3,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2053,
@@ -26797,7 +26797,7 @@
         "ime": "Ca et là Ski Resort Oze  (temporarily closed)",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 476.0,
         "skupna_dolzina": 4.3,
         "dolzina_modrih": 1.0,
@@ -26816,7 +26816,7 @@
         "dolzina_modrih": 1.4,
         "dolzina_rdecih": 2.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2063,
@@ -26855,7 +26855,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 1.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2063,
@@ -27070,7 +27070,7 @@
         "ime": "Jundushan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 247.0,
         "skupna_dolzina": 4.2,
         "dolzina_modrih": 2.0,
@@ -27167,7 +27167,7 @@
         "dolzina_modrih": 1.4,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2084,
@@ -27225,7 +27225,7 @@
         "mesto_po_velikosti": 2084,
         "ime": "Gebrei",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.3,
         "visinska_razlika": 110.0,
         "skupna_dolzina": 4.1,
@@ -27453,7 +27453,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 4.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
@@ -27635,7 +27635,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
@@ -27648,7 +27648,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
@@ -27928,12 +27928,12 @@
         "ime": "Alshan Alpine",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 148.0,
         "skupna_dolzina": 4.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 2
     },
     {
@@ -28090,7 +28090,7 @@
         "dolzina_modrih": 2.7,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.3,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
@@ -28194,7 +28194,7 @@
         "dolzina_modrih": 2.8,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
@@ -28220,7 +28220,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
@@ -28285,7 +28285,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 3.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
@@ -28532,7 +28532,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 4.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
@@ -28578,20 +28578,20 @@
         "ime": "Twin Towers  (temporarily closed)",
         "celina": "North America",
         "drzava": "Canada",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 80.0,
         "skupna_dolzina": 4.0,
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2098,
         "ime": "Stepanovo",
         "celina": "Europe/Asia",
         "drzava": "Russia",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 40.0,
         "skupna_dolzina": 4.0,
         "dolzina_modrih": 0.4,
@@ -28604,7 +28604,7 @@
         "ime": "Fereydunshahr",
         "celina": "Asia",
         "drzava": "Iran",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 370.0,
         "skupna_dolzina": 4.0,
         "dolzina_modrih": 2.0,
@@ -28617,7 +28617,7 @@
         "ime": "Hakusan Shiramine Onsen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 400.0,
         "skupna_dolzina": 4.0,
         "dolzina_modrih": 2.0,
@@ -28630,7 +28630,7 @@
         "ime": "Abali",
         "celina": "Asia",
         "drzava": "Iran",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 250.0,
         "skupna_dolzina": 4.0,
         "dolzina_modrih": 2.0,
@@ -28643,12 +28643,12 @@
         "ime": "Tianshan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 126.0,
         "skupna_dolzina": 4.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 5
     },
     {
@@ -28656,12 +28656,12 @@
         "ime": "Shennongjia",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 85.0,
         "skupna_dolzina": 4.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 7
     },
     {
@@ -28669,12 +28669,12 @@
         "ime": "MiaoXiangShan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 170.0,
         "skupna_dolzina": 4.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 4
     },
     {
@@ -28682,12 +28682,12 @@
         "ime": "Jinshanling",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 4.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 5
     },
     {
@@ -28766,7 +28766,7 @@
         "dolzina_modrih": 1.2,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 2.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2208,
@@ -28831,7 +28831,7 @@
         "dolzina_modrih": 0.9,
         "dolzina_rdecih": 1.1,
         "dolzina_crnih": 1.9,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2208,
@@ -28974,7 +28974,7 @@
         "dolzina_modrih": 2.6,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2225,
@@ -28987,7 +28987,7 @@
         "dolzina_modrih": 2.8,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2225,
@@ -29123,7 +29123,7 @@
         "mesto_po_velikosti": 2225,
         "ime": "Terraski Park – Shava",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.3,
         "visinska_razlika": 77.0,
         "skupna_dolzina": 3.8,
@@ -29195,7 +29195,7 @@
         "dolzina_modrih": 0.1,
         "dolzina_rdecih": 3.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2244,
@@ -29293,7 +29293,7 @@
         "ime": "Eagle Valley  (temporarily closed)",
         "celina": "Asia",
         "drzava": "South Korea",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 80.0,
         "skupna_dolzina": 3.7,
         "dolzina_modrih": 1.2,
@@ -29319,7 +29319,7 @@
         "ime": "Eckbauer – Garmisch-Partenkirchen",
         "celina": "Europe",
         "drzava": "Germany",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 500.0,
         "skupna_dolzina": 3.6,
         "dolzina_modrih": 0.0,
@@ -29338,7 +29338,7 @@
         "dolzina_modrih": 3.6,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2256,
@@ -29468,7 +29468,7 @@
         "dolzina_modrih": 1.7,
         "dolzina_rdecih": 1.1,
         "dolzina_crnih": 0.8,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2256,
@@ -29494,7 +29494,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.6,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2256,
@@ -29715,7 +29715,7 @@
         "dolzina_modrih": 3.5,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2278,
@@ -29949,19 +29949,19 @@
         "dolzina_modrih": 3.5,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2278,
         "ime": "Wakasa Hyonosen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 398.0,
         "skupna_dolzina": 3.5,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 6
     },
     {
@@ -29969,13 +29969,13 @@
         "ime": "Doues",
         "celina": "Europe",
         "drzava": "Italy",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 3.5,
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 3.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2307,
@@ -30170,7 +30170,7 @@
         "dolzina_modrih": 1.1,
         "dolzina_rdecih": 1.5,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2319,
@@ -30313,7 +30313,7 @@
         "dolzina_modrih": 2.6,
         "dolzina_rdecih": 0.7,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2319,
@@ -30339,7 +30339,7 @@
         "dolzina_modrih": 2.8,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2335,
@@ -30365,7 +30365,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 3.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2335,
@@ -30424,12 +30424,12 @@
         "ime": "Mt. Kumbel – Beldersay",
         "celina": "Asia",
         "drzava": "Uzbekistan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 850.0,
         "skupna_dolzina": 3.2,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 2
     },
     {
@@ -30540,7 +30540,7 @@
         "mesto_po_velikosti": 2335,
         "ime": "Cherry Hill – Saratov",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.3,
         "visinska_razlika": 277.0,
         "skupna_dolzina": 3.2,
@@ -30593,7 +30593,7 @@
         "ime": "Čarták – Soláň-Sedlo",
         "celina": "Europe",
         "drzava": "Czech Republic",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 181.0,
         "skupna_dolzina": 3.2,
         "dolzina_modrih": 2.0,
@@ -30742,7 +30742,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.6,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2355,
@@ -30781,13 +30781,13 @@
         "dolzina_modrih": 2.2,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2355,
         "ime": "Ivan-Gora",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.3,
         "visinska_razlika": 84.0,
         "skupna_dolzina": 3.1,
@@ -30807,14 +30807,14 @@
         "dolzina_modrih": 2.2,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2355,
         "ime": "Wolf Mountain – Volchikha (Rewda)",
         "celina": "Europe/Asia",
         "drzava": "Russia",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 186.0,
         "skupna_dolzina": 3.1,
         "dolzina_modrih": 2.9,
@@ -30827,13 +30827,13 @@
         "ime": "Cmiljača – Bjelasica",
         "celina": "Europe",
         "drzava": "Montenegro",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 337.0,
         "skupna_dolzina": 3.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
-        "stevilo_zicnic": "no data"
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -30950,7 +30950,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31080,7 +31080,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.6,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31197,7 +31197,7 @@
         "dolzina_modrih": 1.6,
         "dolzina_rdecih": 1.4,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31223,7 +31223,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 2.1,
         "dolzina_crnih": 0.9,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31437,7 +31437,7 @@
         "mesto_po_velikosti": 2372,
         "ime": "Nechkino – Izhevsk",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.4,
         "visinska_razlika": 85.0,
         "skupna_dolzina": 3.0,
@@ -31535,7 +31535,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31561,7 +31561,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31626,7 +31626,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31808,7 +31808,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31847,7 +31847,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31951,7 +31951,7 @@
         "dolzina_modrih": 2.5,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31964,7 +31964,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31977,7 +31977,7 @@
         "dolzina_modrih": 1.7,
         "dolzina_rdecih": 1.3,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -31990,7 +31990,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32003,7 +32003,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32016,7 +32016,7 @@
         "dolzina_modrih": 1.8,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32042,7 +32042,7 @@
         "dolzina_modrih": 1.8,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32068,7 +32068,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32081,7 +32081,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32094,7 +32094,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32120,7 +32120,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32172,7 +32172,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32257,7 +32257,7 @@
         "ime": "Hochlitten – Riefensberg",
         "celina": "Europe",
         "drzava": "Austria",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 1.0,
@@ -32380,7 +32380,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32393,7 +32393,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32406,7 +32406,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32432,7 +32432,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32445,7 +32445,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32484,7 +32484,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32497,7 +32497,7 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32608,13 +32608,13 @@
         "ime": "Skidome Denmark – Randers (planned) (indoor ski area)",
         "celina": "Europe",
         "drzava": "Denmark",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 110.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
@@ -32634,7 +32634,7 @@
         "ime": "Hijiriyama Panorama",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 230.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 1.5,
@@ -32647,7 +32647,7 @@
         "ime": "Shingo Daiichi",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 175.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 1.5,
@@ -32660,7 +32660,7 @@
         "ime": "Bansyu Tokura",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 350.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 0.9,
@@ -32673,7 +32673,7 @@
         "ime": "Elk Ridge – Williams  (temporarily closed)",
         "celina": "North America",
         "drzava": "USA",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 146.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 0.6,
@@ -32686,7 +32686,7 @@
         "ime": "Erlongshan Longzhu",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 56.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 2.4,
@@ -32699,7 +32699,7 @@
         "ime": "Zao Liza",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 386.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 1.0,
@@ -32712,7 +32712,7 @@
         "ime": "Świeradowiec",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 160.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 2.0,
@@ -32725,7 +32725,7 @@
         "ime": "Memuro",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 154.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 2.0,
@@ -32738,20 +32738,20 @@
         "ime": "Yaremche",
         "celina": "Europe",
         "drzava": "Ukraine",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 450.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
         "ime": "Khoshakoo",
         "celina": "Asia",
         "drzava": "Iran",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 2.0,
@@ -32764,7 +32764,7 @@
         "ime": "Akabane",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 85.0,
         "skupna_dolzina": 3.0,
         "dolzina_modrih": 2.0,
@@ -32783,19 +32783,19 @@
         "dolzina_modrih": 3.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2372,
         "ime": "Bai Qing Zhai",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 74.0,
         "skupna_dolzina": 3.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 4
     },
     {
@@ -32803,12 +32803,12 @@
         "ime": "Zhaoyuan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 3.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 5
     },
     {
@@ -32816,12 +32816,12 @@
         "ime": "Lingshan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 3.0,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 4
     },
     {
@@ -33004,7 +33004,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.4,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2526,
@@ -33017,7 +33017,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2526,
@@ -33043,7 +33043,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 2.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2542,
@@ -33095,7 +33095,7 @@
         "dolzina_modrih": 2.2,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2542,
@@ -33238,7 +33238,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.6,
         "dolzina_crnih": 0.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2542,
@@ -33290,7 +33290,7 @@
         "dolzina_modrih": 1.4,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2542,
@@ -33309,7 +33309,7 @@
         "mesto_po_velikosti": 2542,
         "ime": "Hvalin/Khvalyn",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.2,
         "visinska_razlika": 181.0,
         "skupna_dolzina": 2.8,
@@ -33329,7 +33329,7 @@
         "dolzina_modrih": 1.6,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2542,
@@ -33342,7 +33342,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 2.3,
         "dolzina_crnih": 0.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2542,
@@ -33381,7 +33381,7 @@
         "dolzina_modrih": 1.6,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2542,
@@ -33453,12 +33453,12 @@
         "ime": "Kitashiga Kogen Kumaruyama",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 398.0,
         "skupna_dolzina": 2.8,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 8
     },
     {
@@ -33498,7 +33498,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.1,
         "dolzina_crnih": 0.6,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2575,
@@ -33531,12 +33531,12 @@
         "ime": "Kitami Wakamatsu Shimin",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 163.0,
         "skupna_dolzina": 2.7,
-        "dolzina_modrih": "no data",
-        "dolzina_rdecih": "no data",
-        "dolzina_crnih": "no data",
+        "dolzina_modrih": NaN,
+        "dolzina_rdecih": NaN,
+        "dolzina_crnih": NaN,
         "stevilo_zicnic": 2
     },
     {
@@ -33576,7 +33576,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.6,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2575,
@@ -33628,7 +33628,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2575,
@@ -33706,7 +33706,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 1.4,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2575,
@@ -33732,7 +33732,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2575,
@@ -33745,7 +33745,7 @@
         "dolzina_modrih": 1.9,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2575,
@@ -34174,7 +34174,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34200,7 +34200,7 @@
         "dolzina_modrih": 0.5,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34252,7 +34252,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34278,7 +34278,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34421,7 +34421,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.7,
         "dolzina_crnih": 0.8,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34447,7 +34447,7 @@
         "dolzina_modrih": 0.3,
         "dolzina_rdecih": 1.1,
         "dolzina_crnih": 1.1,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34512,7 +34512,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34525,7 +34525,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34564,7 +34564,7 @@
         "dolzina_modrih": 1.1,
         "dolzina_rdecih": 1.4,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34655,7 +34655,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34837,14 +34837,14 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
         "ime": "Linhai",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 150.0,
         "skupna_dolzina": 2.5,
         "dolzina_modrih": 1.5,
@@ -34857,7 +34857,7 @@
         "ime": "Lövåsen – Grövelsjön",
         "celina": "Europe",
         "drzava": "Sweden",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 60.0,
         "skupna_dolzina": 2.5,
         "dolzina_modrih": 2.0,
@@ -34876,14 +34876,14 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
         "ime": "Dolina Leśnicy/Świniorki – Brenna Leśnica",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 180.0,
         "skupna_dolzina": 2.5,
         "dolzina_modrih": 1.6,
@@ -34896,13 +34896,13 @@
         "ime": "Zatyshok",
         "celina": "Europe",
         "drzava": "Ukraine",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 150.0,
         "skupna_dolzina": 2.5,
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2622,
@@ -34941,7 +34941,7 @@
         "dolzina_modrih": 1.1,
         "dolzina_rdecih": 1.3,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2687,
@@ -35097,7 +35097,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.7,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2687,
@@ -35110,7 +35110,7 @@
         "dolzina_modrih": 0.3,
         "dolzina_rdecih": 1.4,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2687,
@@ -35175,7 +35175,7 @@
         "dolzina_modrih": 1.7,
         "dolzina_rdecih": 0.7,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2687,
@@ -35220,7 +35220,7 @@
         "mesto_po_velikosti": 2687,
         "ime": "Polazna",
         "celina": "Europe",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.2,
         "visinska_razlika": 107.0,
         "skupna_dolzina": 2.4,
@@ -35260,13 +35260,13 @@
         "ime": "Przełęcz Sokola",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 110.0,
         "skupna_dolzina": 2.4,
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 1.1,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2714,
@@ -35318,7 +35318,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.3,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2714,
@@ -35448,7 +35448,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2714,
@@ -35487,7 +35487,7 @@
         "dolzina_modrih": 0.9,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2714,
@@ -35500,7 +35500,7 @@
         "dolzina_modrih": 0.1,
         "dolzina_rdecih": 1.1,
         "dolzina_crnih": 1.1,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2714,
@@ -35611,7 +35611,7 @@
         "ime": "Jindinghu",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 208.0,
         "skupna_dolzina": 2.3,
         "dolzina_modrih": 1.0,
@@ -35624,13 +35624,13 @@
         "ime": "Rycerka",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 195.0,
         "skupna_dolzina": 2.3,
         "dolzina_modrih": 1.6,
         "dolzina_rdecih": 0.7,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2742,
@@ -35838,7 +35838,7 @@
         "dolzina_modrih": 1.1,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2742,
@@ -35877,7 +35877,7 @@
         "dolzina_modrih": 1.8,
         "dolzina_rdecih": 0.4,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2742,
@@ -35890,7 +35890,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2742,
@@ -35903,7 +35903,7 @@
         "dolzina_modrih": 0.2,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2742,
@@ -35968,7 +35968,7 @@
         "dolzina_modrih": 2.2,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2742,
@@ -36079,20 +36079,20 @@
         "ime": "Gruvbacken",
         "celina": "Europe",
         "drzava": "Sweden",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 220.0,
         "skupna_dolzina": 2.2,
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2742,
         "ime": "Höglekardalen",
         "celina": "Europe",
         "drzava": "Sweden",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 185.0,
         "skupna_dolzina": 2.2,
         "dolzina_modrih": 0.4,
@@ -36228,7 +36228,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2778,
@@ -36293,7 +36293,7 @@
         "dolzina_modrih": 1.2,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2778,
@@ -36410,7 +36410,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 1.4,
         "dolzina_crnih": 0.6,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36475,7 +36475,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.4,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36514,7 +36514,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.1,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36527,7 +36527,7 @@
         "dolzina_modrih": 0.6,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.4,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36540,7 +36540,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.1,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36592,7 +36592,7 @@
         "dolzina_modrih": 0.8,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36605,7 +36605,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 0.7,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36722,7 +36722,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36735,7 +36735,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36917,7 +36917,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -36982,7 +36982,7 @@
         "dolzina_modrih": 0.7,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.3,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37060,7 +37060,7 @@
         "dolzina_modrih": 0.5,
         "dolzina_rdecih": 1.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37073,7 +37073,7 @@
         "dolzina_modrih": 1.2,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37112,7 +37112,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37125,7 +37125,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37151,7 +37151,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37177,7 +37177,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 0.7,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37190,7 +37190,7 @@
         "dolzina_modrih": 1.1,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37203,7 +37203,7 @@
         "dolzina_modrih": 1.3,
         "dolzina_rdecih": 0.7,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37216,7 +37216,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37294,7 +37294,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 1.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37307,7 +37307,7 @@
         "dolzina_modrih": 0.8,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37339,7 +37339,7 @@
         "mesto_po_velikosti": 2799,
         "ime": "Polana Sosny – Niedzica",
         "celina": "Africa",
-        "drzava": "no data.",
+        "drzava": "no data",
         "ocena": 2.2,
         "visinska_razlika": 94.0,
         "skupna_dolzina": 2.0,
@@ -37463,7 +37463,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37476,7 +37476,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37541,7 +37541,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37593,7 +37593,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37606,7 +37606,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37619,7 +37619,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37632,7 +37632,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37645,7 +37645,7 @@
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37671,7 +37671,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 2.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37879,7 +37879,7 @@
         "dolzina_modrih": 1.2,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -37938,7 +37938,7 @@
         "ime": "Urasa Kokusai",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 170.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 0.6,
@@ -37957,14 +37957,14 @@
         "dolzina_modrih": 1.2,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.3,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
         "ime": "Zao Sarukura",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 170.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 0.6,
@@ -37977,7 +37977,7 @@
         "ime": "Tajima Bokujo Koen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.2,
@@ -37990,7 +37990,7 @@
         "ime": "Hiraya Kogen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 80.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 0.3,
@@ -38003,7 +38003,7 @@
         "ime": "Åmåls Skicenter",
         "celina": "Europe",
         "drzava": "Sweden",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 140.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.5,
@@ -38016,33 +38016,33 @@
         "ime": "Stavadalen Skisenter",
         "celina": "Europe",
         "drzava": "Norway",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 282.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
         "ime": "Finse Skisenter",
         "celina": "Europe",
         "drzava": "Norway",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 201.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
         "ime": "Asahi Prime",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.0,
@@ -38055,7 +38055,7 @@
         "ime": "Dackestupet",
         "celina": "Europe",
         "drzava": "Sweden",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 82.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.6,
@@ -38068,7 +38068,7 @@
         "ime": "Tobetsucho Nakagoya",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 125.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.5,
@@ -38081,7 +38081,7 @@
         "ime": "Longfengshan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 40.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.0,
@@ -38094,7 +38094,7 @@
         "ime": "Polanki – Szczawa",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 140.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.0,
@@ -38107,7 +38107,7 @@
         "ime": "Aktiven Skiheis  (temporarily closed)",
         "celina": "Europe",
         "drzava": "Norway",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 180.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 0.5,
@@ -38120,7 +38120,7 @@
         "ime": "Björnberget",
         "celina": "Europe",
         "drzava": "Sweden",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 232.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.0,
@@ -38146,13 +38146,13 @@
         "ime": "Orofure",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 136.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -38172,7 +38172,7 @@
         "ime": "Podjavorník",
         "celina": "Europe",
         "drzava": "Slovakia",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.1,
@@ -38185,7 +38185,7 @@
         "ime": "Seoul Resort  (temporarily closed)",
         "celina": "Asia",
         "drzava": "South Korea",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 150.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 0.8,
@@ -38198,7 +38198,7 @@
         "ime": "Veresvirág",
         "celina": "Europe",
         "drzava": "Romania",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 215.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.0,
@@ -38211,13 +38211,13 @@
         "ime": "Horonobecho Higashiyama",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
-        "visinska_razlika": "no data",
+        "ocena": NaN,
+        "visinska_razlika": NaN,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
@@ -38237,7 +38237,7 @@
         "ime": "Wielka Sowa – Potoczek (Pieszyce)",
         "celina": "Europe",
         "drzava": "Poland",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 314.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 2.0,
@@ -38250,7 +38250,7 @@
         "ime": "Tarbiatbadani",
         "celina": "Asia",
         "drzava": "Iran",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 105.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 2.0,
@@ -38263,20 +38263,20 @@
         "ime": "Nesar – Bijar",
         "celina": "Asia",
         "drzava": "Iran",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 250.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
         "ime": "Chelgerd",
         "celina": "Asia",
         "drzava": "Iran",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 2.0,
@@ -38289,7 +38289,7 @@
         "ime": "Angarskyy Pass",
         "celina": "Europe",
         "drzava": "Ukraine",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 100.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 2.0,
@@ -38302,20 +38302,20 @@
         "ime": "Alvares",
         "celina": "Asia",
         "drzava": "Iran",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 150.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 2.0,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2799,
         "ime": "Tysovets",
         "celina": "Europe",
         "drzava": "Ukraine",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 200.0,
         "skupna_dolzina": 2.0,
         "dolzina_modrih": 0.0,
@@ -38386,7 +38386,7 @@
         "dolzina_modrih": 1.6,
         "dolzina_rdecih": 0.3,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2949,
@@ -38399,7 +38399,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2949,
@@ -38425,7 +38425,7 @@
         "dolzina_modrih": 0.3,
         "dolzina_rdecih": 1.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2949,
@@ -38503,7 +38503,7 @@
         "dolzina_modrih": 0.8,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.5,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2949,
@@ -38581,7 +38581,7 @@
         "dolzina_modrih": 1.4,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2949,
@@ -38646,7 +38646,7 @@
         "dolzina_modrih": 1.9,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2949,
@@ -38731,7 +38731,7 @@
         "ime": "Urabandai Kogen",
         "celina": "Asia",
         "drzava": "Japan",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 201.0,
         "skupna_dolzina": 1.9,
         "dolzina_modrih": 0.2,
@@ -38750,7 +38750,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.4,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -38789,7 +38789,7 @@
         "dolzina_modrih": 0.4,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.6,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -38841,7 +38841,7 @@
         "dolzina_modrih": 0.9,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -38867,7 +38867,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 1.1,
         "dolzina_crnih": 0.7,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -38997,7 +38997,7 @@
         "dolzina_modrih": 0.8,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.4,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39023,7 +39023,7 @@
         "dolzina_modrih": 0.8,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.4,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39062,7 +39062,7 @@
         "dolzina_modrih": 1.2,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39075,7 +39075,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39166,7 +39166,7 @@
         "dolzina_modrih": 0.6,
         "dolzina_rdecih": 1.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39179,7 +39179,7 @@
         "dolzina_modrih": 0.8,
         "dolzina_rdecih": 1.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39205,7 +39205,7 @@
         "dolzina_modrih": 0.9,
         "dolzina_rdecih": 0.9,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39218,7 +39218,7 @@
         "dolzina_modrih": 1.6,
         "dolzina_rdecih": 0.2,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39257,7 +39257,7 @@
         "dolzina_modrih": 1.5,
         "dolzina_rdecih": 0.3,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39322,7 +39322,7 @@
         "dolzina_modrih": 1.8,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39335,7 +39335,7 @@
         "dolzina_modrih": 0.0,
         "dolzina_rdecih": 1.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39400,7 +39400,7 @@
         "dolzina_modrih": 1.8,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 2982,
@@ -39446,7 +39446,7 @@
         "ime": "Yunfoshan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 98.0,
         "skupna_dolzina": 1.8,
         "dolzina_modrih": 1.0,
@@ -39459,7 +39459,7 @@
         "ime": "Řeka  (temporarily closed)",
         "celina": "Europe",
         "drzava": "Czech Republic",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 456.0,
         "skupna_dolzina": 1.8,
         "dolzina_modrih": 0.5,
@@ -39472,7 +39472,7 @@
         "ime": "Yunju – Fangshan",
         "celina": "Asia",
         "drzava": "China",
-        "ocena": 0,
+        "ocena": NaN,
         "visinska_razlika": 55.0,
         "skupna_dolzina": 1.8,
         "dolzina_modrih": 1.0,
@@ -39491,7 +39491,7 @@
         "dolzina_modrih": 1.1,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,
@@ -39517,7 +39517,7 @@
         "dolzina_modrih": 0.8,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.4,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,
@@ -39530,7 +39530,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,
@@ -39543,7 +39543,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,
@@ -39556,7 +39556,7 @@
         "dolzina_modrih": 1.7,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,
@@ -39569,7 +39569,7 @@
         "dolzina_modrih": 1.7,
         "dolzina_rdecih": 0.0,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,
@@ -39595,7 +39595,7 @@
         "dolzina_modrih": 1.0,
         "dolzina_rdecih": 0.5,
         "dolzina_crnih": 0.2,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,
@@ -39621,7 +39621,7 @@
         "dolzina_modrih": 0.7,
         "dolzina_rdecih": 0.6,
         "dolzina_crnih": 0.4,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,
@@ -39634,7 +39634,7 @@
         "dolzina_modrih": 0.9,
         "dolzina_rdecih": 0.8,
         "dolzina_crnih": 0.0,
-        "stevilo_zicnic": "no data"
+        "stevilo_zicnic": NaN
     },
     {
         "mesto_po_velikosti": 3038,

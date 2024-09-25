@@ -5,6 +5,7 @@ import requests
 import sys
 import html
 import re
+import numpy as np
 
 
 
@@ -130,15 +131,14 @@ def izloci_podatke_smucisca(blok):
     if smucisce['celina'] == 'Russia':
         smucisce['drzava'] = 'Russia'
         smucisce['celina'] = 'Europe/Asia'
-    smucisce['drzava'] = pocisti_celine_in_drzave(smucisce['drzava']) if smucisce['drzava'] not in (None, '') else 'no data.'
-    smucisce['ocena'] = float(smucisce['ocena']) if smucisce['ocena'] not in (None, '') else int('0')
-    smucisce['visinska_razlika'] = float(smucisce['visinska_razlika']) if smucisce['visinska_razlika'] not in (None, '') else 'no data'
+    smucisce['drzava'] = pocisti_celine_in_drzave(smucisce['drzava']) if smucisce['drzava'] not in (None, '') else 'no data'
+    smucisce['ocena'] = float(smucisce['ocena']) if smucisce['ocena'] not in (None, '') else np.nan
+    smucisce['visinska_razlika'] = float(smucisce['visinska_razlika']) if smucisce['visinska_razlika'] not in (None, '') else np.nan
     smucisce['skupna_dolzina'] = float(smucisce['skupna_dolzina'])
-    smucisce['dolzina_modrih'] = float(smucisce['dolzina_modrih']) if smucisce['dolzina_modrih'] not in (None, '') else 'no data'
-    smucisce['dolzina_rdecih'] = float(smucisce['dolzina_rdecih']) if smucisce['dolzina_rdecih'] not in (None, '') else 'no data'
-    smucisce['dolzina_crnih'] = float(smucisce['dolzina_crnih']) if smucisce['dolzina_crnih'] not in (None, '') else 'no data'
-    smucisce['stevilo_zicnic'] = int(smucisce['stevilo_zicnic']) if smucisce['stevilo_zicnic'] not in (None, '') else 'no data'
-
+    smucisce['dolzina_modrih'] = float(smucisce['dolzina_modrih']) if smucisce['dolzina_modrih'] not in (None, '') else np.nan
+    smucisce['dolzina_rdecih'] = float(smucisce['dolzina_rdecih']) if smucisce['dolzina_rdecih'] not in (None, '') else np.nan
+    smucisce['dolzina_crnih'] = float(smucisce['dolzina_crnih']) if smucisce['dolzina_crnih'] not in (None, '') else np.nan
+    smucisce['stevilo_zicnic'] = int(smucisce['stevilo_zicnic']) if smucisce['stevilo_zicnic'] not in (None, '') else np.nan
     return smucisce
 
 
