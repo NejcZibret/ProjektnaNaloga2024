@@ -50,7 +50,7 @@ if not os.path.exists('smucisca'):
     os.makedirs('smucisca')
     
 
-for i in range(1, 17):
+for i in range(1, 21):
     if i == 1:
         url = 'https://www.skiresort.info/ski-resorts/sorted/slope-length/'
     else:
@@ -156,7 +156,7 @@ def izloci_vsa_smucisca(vsebina):
 
 
 seznam_smucisc = []
-for i in range(1, 17):
+for i in range(1, 21):
     with open(os.path.join('smucisca', f'smucisca{i}.html'), 'r', encoding='utf-8') as f:
         stran = f.read()
     smucisca_iz_datoteke = izloci_vsa_smucisca(stran)
