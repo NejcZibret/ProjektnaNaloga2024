@@ -95,7 +95,7 @@
 93,Bad Kleinkirchheim,Europe,Austria,3.8,968.0,103.0,18.0,77.0,8.0,22
 93,Aspen Mountain,North America,USA,3.6,996.0,103.0,0.0,49.0,54.0,9
 96,Kleine Scheidegg/Männlichen – Grindelwald/Wengen,Europe,Switzerland,4.2,1456.0,102.0,33.0,56.0,13.0,23
-96,Rosa Khutor,Europe,Southern Russia,3.6,1569.0,102.0,62.0,24.0,16.0,27
+96,Rosa Khutor,Europe,Russia,3.6,1569.0,102.0,62.0,24.0,16.0,27
 98,Obertauern,Europe,Austria,4.4,683.0,100.0,61.0,35.0,4.0,26
 98,Ponte di Legno/Tonale/Presena Glacier/Temù (Pontedilegno-Tonale),Europe,Italy,4.2,1879.0,100.0,24.0,60.0,16.0,30
 98,Saas-Fee,Europe,Switzerland,4.0,1773.0,100.0,20.0,60.0,20.0,23
@@ -228,7 +228,7 @@
 217,Alpe du Grand-Serre – La Morte,Europe,France,3.1,817.0,55.0,36.0,17.0,2.0,15
 228,Schilthorn – Mürren/Lauterbrunnen,Europe,Switzerland,3.7,2174.0,54.0,19.0,23.0,12.0,17
 229,Ylläs,Europe,Finland,4.0,464.0,53.0,21.0,26.0,6.0,26
-230,Gazprom Mountain Resort,Europe,Southern Russia,3.2,1307.0,52.8,17.3,26.3,9.2,23
+230,Gazprom Mountain Resort,Europe,Russia,3.2,1307.0,52.8,17.3,26.3,9.2,23
 231,Thredbo,Australia and Oceania,Australia,3.8,672.0,52.0,15.0,25.0,12.0,15
 231,Jahorina,Europe,Bosnia and Herzegovina,3.7,590.0,52.0,25.0,24.0,3.0,18
 231,Riserva Bianca – Limone Piemonte,Europe,Italy,3.3,1014.0,52.0,7.0,28.0,17.0,15
@@ -473,7 +473,7 @@
 465,Bolton Valley,North America,USA,3.5,519.0,30.0,15.0,10.0,5.0,6
 465,Kiroro,Asia,Japan,3.3,660.0,30.0,8.6,10.6,10.8,10
 465,Charmey,Europe,Switzerland,3.3,751.0,30.0,19.5,7.5,3.0,5
-465,Krasnaya Polyana Resort,Europe,Southern Russia,3.2,1212.0,30.0,7.5,20.0,2.5,13
+465,Krasnaya Polyana Resort,Europe,Russia,3.2,1212.0,30.0,7.5,20.0,2.5,13
 465,Kanin – Sella Nevea/Bovec,Europe,Slovenia,3.2,1189.0,30.0,6.0,22.0,2.0,10
 465,Ovronnaz,Europe,Switzerland,3.2,1027.0,30.0,5.0,20.0,5.0,7
 465,Maiko Snow Resort,Asia,Japan,3.2,660.0,30.0,12.0,12.0,6.0,12
@@ -489,7 +489,7 @@
 465,Pesciüm – Airolo,Europe,Switzerland,3.1,1075.0,30.0,1.0,15.0,14.0,8
 465,Moléson,Europe,Switzerland,3.0,869.0,30.0,19.0,4.0,7.0,6
 465,Beaver Mountain,North America,USA,3.0,505.0,30.0,10.0,12.0,8.0,4
-465,Kolasportland,Europe,Northwest Russia,3.0,462.0,30.0,15.0,14.0,1.0,7
+465,Kolasportland,Europe,Russia,3.0,462.0,30.0,15.0,14.0,1.0,7
 465,Tsaghkadzor,Asia,Armenia,3.0,853.0,30.0,14.0,14.0,2.0,7
 465,La Colmiane,Europe,France,3.0,350.0,30.0,21.0,6.0,3.0,7
 465,Gaissau-Hintersee  (temporarily closed),Europe,Austria,3.0,817.0,30.0,20.0,9.0,1.0,8
@@ -545,8 +545,8 @@
 544,La Covatilla – Sierra de Béjar,Europe,Spain,2.9,391.0,26.8,8.6,18.2,0.0,4
 545,Golm,Europe,Austria,4.0,1450.0,26.7,13.3,11.9,1.5,9
 545,Port Ainé,Europe,Spain,3.0,743.0,26.7,10.7,11.7,4.3,6
-545,Big Wood,Europe,Northwest Russia,3.0,667.0,26.7,13.5,8.5,4.7,9
-548,Arkhyz,Europe,North Caucasus,3.3,1190.0,26.6,16.4,6.4,3.8,8
+545,Big Wood,Europe,Russia,3.0,667.0,26.7,13.5,8.5,4.7,9
+548,Arkhyz,Europe,Russia,3.3,1190.0,26.6,16.4,6.4,3.8,8
 549,Lermoos – Grubigstein,Europe,Austria,4.0,1096.0,26.5,14.4,10.2,1.9,8
 549,Lofsdalen,Europe,Sweden,3.0,492.0,26.5,16.5,7.2,2.8,9
 551,Lachtal,Europe,Austria,3.7,622.0,26.2,7.2,16.0,3.0,10
@@ -570,7 +570,7 @@
 566,Goldeck – Spittal an der Drau,Europe,Austria,3.5,1595.0,25.0,11.5,8.0,5.5,6
 566,Bürchen/Törbel – Moosalp,Europe,Switzerland,3.3,1056.0,25.0,5.0,15.0,5.0,8
 566,Yanqing National Alpine Ski Centre,Asia,China,3.3,1100.0,25.0,5.0,10.0,10.0,9
-566,Gorny Vozdukh,Asia,Far Eastern Federal District,3.2,645.0,25.0,15.5,7.5,2.0,7
+566,Gorny Vozdukh,Asia,Russia,3.2,645.0,25.0,15.5,7.5,2.0,7
 566,Vals – Dachberg,Europe,Switzerland,3.2,1565.0,25.0,5.0,15.0,5.0,6
 566,Gulmarg (Kongdoori-Apharwat),Asia,India,3.2,1330.0,25.0,2.5,5.0,17.5,6
 566,Tsugaike Kogen,Asia,Japan,3.2,904.0,25.0,13.5,6.5,5.0,18
@@ -624,7 +624,7 @@
 620,Zoncolan – Ravascletto/Sutrio,Europe,Italy,3.8,1070.0,23.0,9.0,10.0,4.0,11
 620,Malbun,Europe,Liechtenstein,3.5,400.0,23.0,11.0,9.0,3.0,7
 620,Weissee Gletscherwelt – Uttendorf,Europe,Austria,3.5,1118.0,23.0,6.0,15.0,2.0,8
-620,Mt. Elbrus,Europe,North Caucasus,3.1,1497.0,23.0,6.0,12.0,5.0,7
+620,Mt. Elbrus,Europe,Russia,3.1,1497.0,23.0,6.0,12.0,5.0,7
 620,Kasberg – Grünau im Almtal,Europe,Austria,3.0,980.0,23.0,13.0,8.0,2.0,12
 620,Mount Seymour,North America,Canada,3.0,330.0,23.0,9.0,9.0,5.0,4
 620,Pleasant Mountain,North America,USA,3.0,390.0,23.0,4.0,12.0,7.0,6
@@ -650,7 +650,7 @@
 647,Treble Cone,Australia and Oceania,New Zealand,3.5,700.0,22.0,4.0,9.0,9.0,3
 647,Wanlong,Asia,China,3.2,550.0,22.0,4.0,12.0,6.0,6
 647,Valdezcaray,Europe,Spain,3.1,587.0,22.0,10.0,10.0,2.0,10
-647,Zavjalikha,Europe,Ural Federal District,nan,426.0,22.0,nan,nan,nan,4
+647,Zavjalikha,Europe,Russia,nan,426.0,22.0,nan,nan,nan,4
 647,Formiguères,Europe,France,3.0,590.0,22.0,15.0,6.0,1.0,6
 647,Foppolo/Carona (Brembo Ski),Europe,Italy,3.0,1003.0,22.0,4.0,16.0,2.0,9
 647,Joetsu Kokusai,Asia,Japan,3.0,716.0,22.0,8.0,10.0,4.0,20
@@ -663,7 +663,7 @@
 647,Murray Ridge,North America,Canada,2.7,510.0,22.0,7.0,7.0,8.0,2
 663,Muju Deogyusan Resort,Asia,South Korea,3.1,796.0,21.8,4.8,10.3,6.7,15
 664,Sillian – Thurntaler (Hochpustertal),Europe,Austria,3.9,1307.0,21.7,5.6,15.0,1.1,7
-664,Adzhigardak,Europe,Ural Federal District,2.6,408.0,21.7,12.2,5.8,3.7,8
+664,Adzhigardak,Europe,Russia,2.6,408.0,21.7,12.2,5.8,3.7,8
 666,Zieleniec,Europe,Poland,2.9,285.0,21.6,13.0,7.8,0.8,31
 667,Hoshino Resorts Tomamu,Asia,Japan,3.2,585.0,21.5,10.5,8.3,2.7,6
 667,Crévoux,Europe,France,2.7,936.0,21.5,12.3,7.5,1.7,6
@@ -708,7 +708,7 @@
 692,Sapporo Teine,Asia,Japan,3.1,683.0,20.0,7.0,8.0,5.0,10
 692,Akitaken – Tazawako,Asia,Japan,3.1,608.0,20.0,6.0,6.0,8.0,6
 692,Myoko Akakura,Asia,Japan,3.1,804.0,20.0,9.0,8.4,2.6,21
-692,Dombay,Europe,North Caucasus,3.0,1532.0,20.0,14.0,5.2,0.8,13
+692,Dombay,Europe,Russia,3.0,1532.0,20.0,14.0,5.2,0.8,13
 692,Torgnon,Europe,Italy,3.0,731.0,20.0,6.0,12.0,2.0,5
 692,Kaiseregg/Riggisalp – Schwarzsee,Europe,Switzerland,3.0,704.0,20.0,10.5,6.5,3.0,6
 692,Iwate Kogen,Asia,Japan,3.0,583.0,20.0,6.0,8.0,6.0,7
@@ -729,7 +729,7 @@
 692,Karakol,Asia,Kyrgyzstan,2.9,1150.0,20.0,4.0,8.0,8.0,4
 692,Belleayre Mountain,North America,USA,2.9,428.0,20.0,5.0,11.0,4.0,8
 692,Alpine Ski Club – Collingwood,North America,Canada,2.9,220.0,20.0,10.0,6.0,4.0,5
-692,Mt. Cheget,Europe,North Caucasus,2.9,1140.0,20.0,6.0,10.0,4.0,5
+692,Mt. Cheget,Europe,Russia,2.9,1140.0,20.0,6.0,10.0,4.0,5
 692,Maverick Mountain,North America,USA,2.9,616.0,20.0,6.0,8.0,6.0,nan
 692,Aizu Kogen Takatsue,Asia,Japan,2.9,707.0,20.0,6.0,8.0,6.0,9
 692,Darlux – Bergün,Europe,Switzerland,2.9,1185.0,20.0,4.0,15.0,1.0,3
@@ -836,8 +836,8 @@
 834,Çambaşı,Asia,Turkey,3.2,245.0,17.3,6.2,6.1,5.0,2
 836,Sampeyre,Europe,Italy,2.8,865.0,17.2,9.4,6.8,1.0,2
 837,Spieljoch – Fügen,Europe,Austria,3.9,1444.0,17.1,3.6,10.8,2.7,11
-837,Holdomi,Asia,Far Eastern Federal District,3.0,492.0,17.1,11.2,3.8,2.1,3
-837,Teletskiy,Asia,Siberia,2.8,851.0,17.1,12.7,4.4,0.0,4
+837,Holdomi,Asia,Russia,3.0,492.0,17.1,11.2,3.8,2.1,3
+837,Teletskiy,Asia,Russia,2.8,851.0,17.1,12.7,4.4,0.0,4
 840,Hörnerbahn – Bolsterlang,Europe,Germany,3.7,771.0,17.0,8.0,7.0,2.0,5
 840,Kitzbüheler Horn,Europe,Austria,3.1,1230.0,17.0,6.0,9.0,2.0,10
 840,Masikryong,Asia,North Korea,2.9,713.0,17.0,6.0,8.0,3.0,5
@@ -907,7 +907,7 @@
 906,Zuoz – Pizzet/Albanas,Europe,Switzerland,3.6,745.0,15.0,9.0,3.0,3.0,5
 906,Vent,Europe,Austria,3.5,746.0,15.0,5.0,10.0,0.0,4
 906,Fjällby – Björkliden,Europe,Sweden,3.3,500.0,15.0,6.0,7.0,2.0,5
-906,Manzherok,Asia,Siberia,3.1,850.0,15.0,9.0,5.0,1.0,4
+906,Manzherok,Asia,Russia,3.1,850.0,15.0,9.0,5.0,1.0,4
 906,Antagnod,Europe,Italy,3.1,577.0,15.0,10.5,4.0,0.5,2
 906,Bláfjöll,Europe,Iceland,3.0,240.0,15.0,10.0,5.0,0.0,14
 906,Le Relais – Lac Beauport,North America,Canada,3.0,205.0,15.0,4.0,5.0,6.0,5
@@ -930,7 +930,7 @@
 906,Pomerelle,North America,USA,2.8,282.0,15.0,4.0,7.0,4.0,2
 906,Champex-Lac (Orsières),Europe,Switzerland,2.8,726.0,15.0,10.5,3.0,1.5,4
 906,Morin Heights,North America,Canada,2.8,220.0,15.0,5.0,5.0,5.0,5
-906,Abzakovo,Europe,Volga Federal District,2.8,370.0,15.0,8.0,6.0,1.0,8
+906,Abzakovo,Europe,Russia,2.8,370.0,15.0,8.0,6.0,1.0,8
 906,Catamount,North America,USA,2.8,305.0,15.0,8.0,4.0,3.0,5
 906,Poley Mountain,North America,Canada,2.8,201.0,15.0,6.0,4.0,5.0,4
 906,Elk Mountain,North America,USA,2.8,300.0,15.0,3.0,8.0,4.0,7
@@ -947,7 +947,7 @@
 906,Idre Himmelfjäll,Europe,Sweden,2.7,323.0,15.0,11.3,3.0,0.7,11
 906,Axalp ob Brienz,Europe,Switzerland,2.7,537.0,15.0,11.0,1.5,2.5,6
 906,Las Araucarias/Llaima – Vilcún,South America,Chile,2.7,392.0,15.0,10.0,4.0,1.0,4
-906,Baikalsk – Sobolinaya,Asia,Siberia,2.7,479.0,15.0,6.6,4.9,3.5,7
+906,Baikalsk – Sobolinaya,Asia,Russia,2.7,479.0,15.0,6.6,4.9,3.5,7
 906,Kranzberg – Mittenwald,Europe,Germany,2.6,370.0,15.0,6.0,7.0,2.0,10
 906,Tusten – Molde,Europe,Norway,2.6,518.0,15.0,10.0,3.0,2.0,4
 906,Schwefelberg – Badmatte/Louigrat  (temporarily closed),Europe,Switzerland,2.6,318.0,15.0,5.0,8.0,2.0,nan
@@ -1144,7 +1144,7 @@
 1142,Ørsta Skisenter,Europe,Norway,2.7,550.0,11.2,6.6,4.2,0.4,4
 1142,Wendelstein – Brannenburg/Osterhofen,Europe,Germany,2.6,932.0,11.2,0.0,7.0,4.2,4
 1142,Valbella – Gallio  (temporarily closed),Europe,Italy,2.5,211.0,11.2,8.0,2.5,0.7,6
-1146,Bobrovy Log – Krasnoyarsk,Asia,Siberia,2.8,359.0,11.1,4.7,3.3,3.1,6
+1146,Bobrovy Log – Krasnoyarsk,Asia,Russia,2.8,359.0,11.1,4.7,3.3,3.1,6
 1147,Biberwier – Marienberg,Europe,Austria,3.4,820.0,11.0,7.3,3.7,0.0,5
 1147,Donovaly (Park Snow),Europe,Slovakia,3.3,447.0,11.0,5.0,5.9,0.1,23
 1147,Grasgehren – Bolgengrat,Europe,Germany,3.3,217.0,11.0,2.5,8.5,0.0,5
@@ -1280,7 +1280,7 @@
 1215,Hesperus Ski Area  (temporarily closed),North America,USA,2.7,183.0,10.0,3.0,5.0,2.0,2
 1215,Snow Ridge,North America,USA,2.7,152.0,10.0,1.0,4.0,5.0,5
 1215,Oukaïmeden,Africa,Morocco,2.7,652.0,10.0,5.0,3.0,2.0,7
-1215,Euroasia,Europe,Ural Federal District,2.7,240.0,10.0,7.6,2.4,0.0,2
+1215,Euroasia,Europe,Russia,2.7,240.0,10.0,7.6,2.4,0.0,2
 1215,Fairmont Hot Springs,North America,Canada,2.6,305.0,10.0,4.0,4.0,2.0,3
 1215,Ebenalp-Horn – Wasserauen/Schwende,Europe,Switzerland,2.6,872.0,10.0,1.0,7.5,1.5,7
 1215,White Hills,North America,Canada,2.6,227.0,10.0,1.2,4.2,4.6,2
@@ -1440,7 +1440,7 @@
 1430,Golte,Europe,Slovenia,2.6,420.0,8.5,2.9,4.9,0.7,7
 1430,Mt. Lemmon Ski Valley,North America,USA,2.6,228.0,8.5,2.5,4.0,2.0,3
 1430,Forca Canapine  (temporarily closed),Europe,Italy,2.6,310.0,8.5,2.0,5.0,1.5,4
-1430,Krasnoe Ozero,Europe,Northwest Russia,2.5,120.0,8.5,4.0,3.6,0.9,9
+1430,Krasnoe Ozero,Europe,Russia,2.5,120.0,8.5,4.0,3.6,0.9,9
 1430,Meråker Alpinsenter,Europe,Norway,2.4,440.0,8.5,3.5,3.5,1.5,6
 1430,Rouge Gazon  (temporarily closed),Europe,France,2.4,147.0,8.5,5.0,3.0,0.5,6
 1430,Dombås,Europe,Norway,2.4,338.0,8.5,4.1,4.4,0.0,2
@@ -1458,7 +1458,7 @@
 1453,Almåsa,Europe,Sweden,2.4,296.0,8.3,5.1,1.4,1.8,2
 1453,Toggenburg Ski Center  (temporarily closed),North America,USA,nan,160.0,8.3,3.2,2.0,3.1,5
 1459,Tanvaldský Špičák,Europe,Czech Republic,2.7,270.0,8.2,5.3,2.3,0.6,9
-1459,Solnechnaya Dolina (Sunny Valley),Europe,Ural Federal District,2.5,210.0,8.2,3.1,5.1,0.0,9
+1459,Solnechnaya Dolina (Sunny Valley),Europe,Russia,2.5,210.0,8.2,3.1,5.1,0.0,9
 1461,Le Revard,Europe,France,2.6,268.0,8.1,5.0,2.0,1.1,5
 1462,Nesselwang – Alpspitze (Alpspitzbahn),Europe,Germany,3.5,563.0,8.0,6.0,2.0,0.0,6
 1462,Oberaudorf – Hocheck,Europe,Germany,3.2,362.0,8.0,3.0,4.0,1.0,7
@@ -1536,7 +1536,7 @@
 1532,Majelletta,Europe,Italy,2.5,345.0,7.8,2.5,3.0,2.3,4
 1532,Champ du Feu,Europe,France,2.4,178.0,7.8,5.0,2.8,0.0,9
 1537,Mont Kanasuta,North America,Canada,2.6,147.0,7.7,2.5,2.2,3.0,2
-1537,Mratkino – Beloretsk,Europe,Volga Federal District,2.6,270.0,7.7,4.7,3.0,0.0,4
+1537,Mratkino – Beloretsk,Europe,Russia,2.6,270.0,7.7,4.7,3.0,0.0,4
 1537,Síaréna Vibe Park – Eplény,Europe,Hungary,2.6,176.0,7.7,5.4,1.0,1.3,9
 1537,Le Noirmont (Jura sur Léman),Europe,France,2.5,477.0,7.7,4.0,2.4,1.3,6
 1537,Buron – Wertach,Europe,Germany,2.5,528.0,7.7,4.4,2.3,1.0,3
@@ -1558,14 +1558,14 @@
 1548,Ski Brule,North America,USA,2.6,95.0,7.5,2.0,4.0,1.5,11
 1548,Nanshan,Asia,China,2.6,181.0,7.5,4.0,2.7,0.8,16
 1548,Galtis – Arjeplog,Europe,Sweden,2.4,270.0,7.5,3.0,4.0,0.5,3
-1548,Sinyaya Sopka – Artyom,Asia,Far Eastern Federal District,2.4,335.0,7.5,4.0,3.5,0.0,3
+1548,Sinyaya Sopka – Artyom,Asia,Russia,2.4,335.0,7.5,4.0,3.5,0.0,3
 1561,Marbach – Marbachegg,Europe,Switzerland,2.8,589.0,7.4,5.0,2.4,0.0,5
 1561,Predeal,Europe,Romania,2.8,411.0,7.4,1.8,4.4,1.2,2
 1561,Oze Tokura,Asia,Japan,2.7,318.0,7.4,2.5,2.3,2.6,7
 1561,Serre-Eyraud (Orcières),Europe,France,2.5,620.0,7.4,3.2,3.2,1.0,3
 1565,Hidaka Kokusai,Asia,Japan,2.7,500.0,7.3,1.1,4.8,1.4,4
 1565,Las Vegas Ski and Snowboard Resort – Lee Canyon,North America,USA,2.6,206.0,7.3,0.3,5.0,2.0,5
-1565,Novososedovo,Asia,Siberia,2.5,210.0,7.3,2.8,2.5,2.0,5
+1565,Novososedovo,Asia,Russia,2.5,210.0,7.3,2.8,2.5,2.0,5
 1565,Hurdal,Europe,Norway,2.4,260.0,7.3,4.3,2.2,0.8,4
 1565,Spieserlifte – Unterjoch,Europe,Germany,2.4,295.0,7.3,3.3,4.0,0.0,4
 1570,Goderdzi,Asia,Georgia,3.0,642.0,7.2,4.9,2.3,0.0,3
@@ -1580,7 +1580,7 @@
 1577,Kaida Kogen Mia,Asia,Japan,2.9,563.0,7.0,3.0,2.0,2.0,2
 1577,Tornik – Zlatibor,Europe,Serbia,2.9,380.0,7.0,1.6,4.2,1.2,6
 1577,Auronzo di Cadore – Monte Agudo,Europe,Italy,2.9,725.0,7.0,3.0,3.0,1.0,3
-1577,Magnitogorsk,Europe,Volga Federal District,2.9,453.0,7.0,3.5,3.5,0.0,3
+1577,Magnitogorsk,Europe,Russia,2.9,453.0,7.0,3.5,3.5,0.0,3
 1577,Hatsvali – Mestia,Asia,Georgia,2.9,480.0,7.0,1.4,2.6,3.0,4
 1577,Moiwa,Asia,Japan,2.8,470.0,7.0,4.0,3.0,0.0,3
 1577,Kraličák – Hynčice pod Sušinou/Stříbrnice,Europe,Czech Republic,2.8,240.0,7.0,2.5,3.6,0.9,6
@@ -1658,7 +1658,7 @@
 1657,Vrchlabí – Kněžický vrch,Europe,Czech Republic,2.7,171.0,6.6,3.7,2.9,0.0,7
 1657,Paoli Peaks,North America,USA,2.6,85.0,6.6,2.6,3.0,1.0,6
 1657,Radusa,Europe,Bosnia and Herzegovina,2.6,467.0,6.6,1.0,5.0,0.6,4
-1657,SOK – Krasnaya Glinka,Europe,Volga Federal District,2.5,168.0,6.6,5.9,0.7,0.0,9
+1657,SOK – Krasnaya Glinka,Europe,Russia,2.5,168.0,6.6,5.9,0.7,0.0,9
 1661,Shirakabako Royal Hill,Asia,Japan,2.7,263.0,6.5,2.7,2.6,1.2,3
 1661,Gambarie d'Aspromonte,Europe,Italy,2.6,475.0,6.5,2.7,2.5,1.3,5
 1661,Hohenbogen – Neukirchen bei Hl. Blut,Europe,Germany,2.6,393.0,6.5,2.0,4.2,0.3,4
@@ -1666,14 +1666,14 @@
 1661,Nordic Mountain,North America,USA,2.5,81.0,6.5,2.0,3.0,1.5,6
 1661,Platak,Europe,Croatia,2.5,263.0,6.5,3.9,2.6,0.0,7
 1661,Kohútka,Europe,Czech Republic,2.5,198.0,6.5,2.1,3.6,0.8,7
-1661,Zolotaya Dolina,Europe,Northwest Russia,2.4,123.0,6.5,3.8,1.7,1.0,7
+1661,Zolotaya Dolina,Europe,Russia,2.4,123.0,6.5,3.8,1.7,1.0,7
 1661,Häkärinteet,Europe,Finland,2.4,83.0,6.5,3.0,1.5,2.0,5
 1661,Grövelfjäll,Europe,Sweden,2.4,160.0,6.5,4.0,1.8,0.7,5
 1661,San Isidro-Zona Salencias,Europe,Spain,2.4,168.0,6.5,2.9,3.6,0.0,4
 1661,Stavtjørn,Europe,Norway,2.4,307.0,6.5,2.5,4.0,0.0,4
 1673,Gschwandtkopf – Seefeld,Europe,Austria,3.2,300.0,6.4,6.4,0.0,0.0,10
 1673,Wakabuna Kogen,Asia,Japan,2.6,334.0,6.4,2.8,2.3,1.3,4
-1673,Sorochany – Kurovo,Europe,Central Russia,2.6,81.0,6.4,3.0,1.8,1.6,8
+1673,Sorochany – Kurovo,Europe,Russia,2.6,81.0,6.4,3.0,1.8,1.6,8
 1673,Skálafell  (temporarily closed),Europe,Iceland,2.5,287.0,6.4,5.0,1.4,0.0,4
 1677,Kristberg – Silbertal,Europe,Austria,3.0,700.0,6.3,1.8,1.2,3.3,4
 1677,Oak Valley,Asia,South Korea,2.8,262.0,6.3,2.1,3.3,0.9,3
@@ -1703,7 +1703,7 @@
 1700,Sky Resort – Ulaanbaatar,Asia,Mongolia,3.0,220.0,6.0,3.0,2.0,1.0,4
 1700,Cuiyunshan,Asia,China,nan,316.0,6.0,nan,nan,nan,2
 1700,Cape Smokey,North America,Canada,2.8,305.0,6.0,1.0,3.0,2.0,2
-1700,Gora Belaya,Europe,Ural Federal District,2.8,247.0,6.0,0.5,5.5,0.0,3
+1700,Gora Belaya,Europe,Russia,2.8,247.0,6.0,0.5,5.5,0.0,3
 1700,Ilgaz Mountain Resort – Kastamonu,Asia,Turkey,2.8,260.0,6.0,3.0,2.5,0.5,4
 1700,Elysian Gangchon Resort,Asia,South Korea,2.8,173.0,6.0,1.0,3.0,2.0,6
 1700,Ojiro,Asia,Japan,2.8,300.0,6.0,2.0,3.0,1.0,4
@@ -1744,7 +1744,7 @@
 1700,Wapiti Valley,North America,Canada,2.5,90.0,6.0,2.0,3.0,1.0,2
 1700,Jasenská Dolina – Belá-Dulice,Europe,Slovakia,2.5,190.0,6.0,3.0,3.0,0.0,6
 1700,Le Chazelet,Europe,France,2.5,430.0,6.0,3.0,3.0,0.0,7
-1700,Kukisvumchorr,Europe,Northwest Russia,2.4,504.0,6.0,2.2,2.0,1.8,4
+1700,Kukisvumchorr,Europe,Russia,2.4,504.0,6.0,2.2,2.0,1.8,4
 1700,Schilt – Mollis,Europe,Switzerland,2.4,502.0,6.0,3.0,3.0,0.0,2
 1700,L'Orient,Europe,Switzerland,2.4,273.0,6.0,2.0,3.0,1.0,2
 1700,Ben Lomond,Australia and Oceania,Australia,2.4,110.0,6.0,2.0,3.0,1.0,7
@@ -1753,7 +1753,7 @@
 1700,Madarasi Hargita,Europe,Romania,2.4,200.0,6.0,2.5,2.0,1.5,4
 1700,Bortelid,Europe,Norway,2.4,232.0,6.0,3.0,2.0,1.0,6
 1700,Ørskogfjell Skisenter,Europe,Norway,2.4,388.0,6.0,3.0,2.0,1.0,2
-1700,Arsgora,Asia,Far Eastern Federal District,2.4,509.0,6.0,0.3,5.7,0.0,2
+1700,Arsgora,Asia,Russia,2.4,509.0,6.0,0.3,5.7,0.0,2
 1700,Podobovets,Europe,Ukraine,2.4,360.0,6.0,2.0,3.0,1.0,3
 1700,Solheisen,Europe,Norway,2.4,334.0,6.0,3.0,1.0,2.0,3
 1700,Jaunpass – Boltigen,Europe,Switzerland,2.4,202.0,6.0,3.8,1.2,1.0,4
@@ -1798,7 +1798,7 @@
 1789,Mt. Southington,North America,USA,2.6,111.0,5.8,2.0,3.0,0.8,7
 1789,Nashoba Valley,North America,USA,2.5,70.0,5.8,1.0,3.0,1.8,7
 1789,Brokke,Europe,Norway,2.5,230.0,5.8,3.6,2.2,0.0,4
-1789,Davegor,Asia,Siberia,2.4,192.0,5.8,2.7,1.5,1.6,nan
+1789,Davegor,Asia,Russia,2.4,192.0,5.8,2.7,1.5,1.6,nan
 1789,Fačkovské sedlo,Europe,Slovakia,2.4,271.0,5.8,1.3,2.5,2.0,4
 1789,Maseben – Langtaufers (Vallelunga),Europe,Italy,2.3,408.0,5.8,2.9,2.9,0.0,nan
 1789,Menzenschwand (St. Blasien) – Spießhorn,Europe,Germany,2.3,370.0,5.8,2.6,3.2,0.0,3
@@ -1831,13 +1831,13 @@
 1827,Passolanciano,Europe,Italy,2.5,350.0,5.5,2.7,2.0,0.8,3
 1827,Vatra Dornei,Europe,Romania,2.5,435.0,5.5,0.7,4.8,0.0,5
 1827,Rachowiec – Zwardoń,Europe,Poland,2.5,152.0,5.5,2.8,2.1,0.6,3
-1827,Gora Ezhovaya – Kirovgrad,Europe,Ural Federal District,2.4,300.0,5.5,3.1,2.4,0.0,7
+1827,Gora Ezhovaya – Kirovgrad,Europe,Russia,2.4,300.0,5.5,3.1,2.4,0.0,7
 1827,Passo Fedaia – Pian dei Fiacconi (Marmolada)  (temporarily closed),Europe,Italy,2.4,570.0,5.5,0.0,5.5,0.0,nan
 1827,Rena,Europe,Norway,2.4,240.0,5.5,0.7,3.5,1.3,2
 1827,Skarðsdalur – Siglufjörður,Europe,Iceland,2.4,450.0,5.5,3.7,1.5,0.3,4
 1827,Mystery Mountain,North America,Canada,2.4,65.0,5.5,2.2,2.2,1.1,4
 1827,SarvesAlta,Europe,Norway,2.3,210.0,5.5,2.8,2.0,0.7,2
-1827,Zolotaya Gora,Asia,Siberia,2.3,161.0,5.5,4.0,1.5,0.0,2
+1827,Zolotaya Gora,Asia,Russia,2.3,161.0,5.5,4.0,1.5,0.0,2
 1840,Ala di Stura  (temporarily closed),Europe,Italy,2.6,890.0,5.4,1.7,3.0,0.7,4
 1840,Dunsjöliften – Ljungdalsberget,Europe,Sweden,2.6,240.0,5.4,2.2,1.8,1.4,2
 1840,Usséglio – Pian Benot,Europe,Italy,2.5,422.0,5.4,0.6,2.7,2.1,4
@@ -1845,7 +1845,7 @@
 1840,Benecko,Europe,Czech Republic,2.5,286.0,5.4,2.8,1.7,0.9,15
 1840,Hallbjønn,Europe,Norway,2.4,281.0,5.4,1.9,3.2,0.3,2
 1840,Ammarnäs,Europe,Sweden,2.4,355.0,5.4,0.7,2.7,2.0,2
-1840,Medvezhonok,Asia,Siberia,2.4,272.0,5.4,3.6,1.3,0.5,nan
+1840,Medvezhonok,Asia,Russia,2.4,272.0,5.4,3.6,1.3,0.5,nan
 1840,Čertovica,Europe,Slovakia,2.4,340.0,5.4,3.0,2.0,0.4,6
 1840,Ankenesfjellet – Ankenesstranda (Narvik),Europe,Norway,2.3,321.0,5.4,3.2,2.2,0.0,2
 1850,Snow Trails,North America,USA,2.6,70.0,5.3,1.5,2.8,1.0,6
@@ -1857,7 +1857,7 @@
 1850,Haldenköpfle,Europe,Germany,2.3,125.0,5.3,2.6,2.7,0.0,3
 1850,Rówienki – Jawornik (Wisła),Europe,Poland,nan,95.0,5.3,nan,nan,nan,3
 1858,Katzenkopf – Leutasch,Europe,Austria,2.5,223.0,5.2,3.2,1.5,0.5,3
-1858,Salma,Europe,Northwest Russia,2.4,240.0,5.2,2.6,2.2,0.4,3
+1858,Salma,Europe,Russia,2.4,240.0,5.2,2.6,2.2,0.4,3
 1858,Nerskogen,Europe,Norway,2.3,354.0,5.2,3.5,1.7,0.0,3
 1861,Fort Wainwright/Birch Hill – Fairbanks,North America,USA,2.5,160.0,5.1,1.1,2.5,1.5,2
 1861,Skaidi,Europe,Norway,2.4,235.0,5.1,2.0,2.2,0.9,2
@@ -1953,7 +1953,7 @@
 1864,Pany (Luzein),Europe,Switzerland,2.3,220.0,5.0,3.0,2.0,0.0,2
 1864,Tri Town,North America,Canada,2.3,99.0,5.0,2.4,1.6,1.0,2
 1864,Les Prés d'Orvin,Europe,Switzerland,2.3,200.0,5.0,2.5,2.5,0.0,5
-1864,Edelweiss – Petropavlovsk-Kamchatskiy,Asia,Far Eastern Federal District,2.3,335.0,5.0,1.5,3.5,0.0,5
+1864,Edelweiss – Petropavlovsk-Kamchatskiy,Asia,Russia,2.3,335.0,5.0,1.5,3.5,0.0,5
 1864,Heiden – Bischofsberg,Europe,Switzerland,2.3,130.0,5.0,4.0,1.0,0.0,2
 1864,Namari Onsen,Asia,Japan,nan,244.0,5.0,2.0,1.5,1.5,3
 1864,Pirika,Asia,Japan,nan,277.0,5.0,1.5,2.0,1.5,nan
@@ -1994,7 +1994,7 @@
 1989,Paluda – Dalaas,Europe,Austria,2.3,300.0,4.7,2.0,1.5,1.2,nan
 1989,Ballon d'Alsace,Europe,France,2.3,421.0,4.7,2.1,1.8,0.8,11
 1989,Gugel – Mlynky,Europe,Slovakia,2.3,266.0,4.7,1.4,2.5,0.8,3
-1989,Otdelnaya Gora,Asia,Siberia,2.3,322.0,4.7,1.4,2.4,0.9,nan
+1989,Otdelnaya Gora,Asia,Russia,2.3,322.0,4.7,1.4,2.4,0.9,nan
 1997,Hawrań – Jurgów,Europe,Poland,2.7,214.0,4.6,1.3,2.3,1.0,8
 1997,Czantoria – Ustroń,Europe,Poland,2.7,462.0,4.6,2.6,2.0,0.0,5
 1997,Monte Bue – Santo Stefano d'Aveto,Europe,Italy,2.5,510.0,4.6,2.1,2.5,0.0,5
@@ -2007,7 +2007,7 @@
 1997,Granberget – Leksand,Europe,Sweden,2.3,200.0,4.6,3.2,1.4,0.0,3
 1997,Bellefontaine,Europe,France,2.3,228.0,4.6,4.0,0.6,0.0,4
 1997,Kisofukushima,Asia,Japan,nan,704.0,4.6,2.6,2.0,0.0,4
-2009,Moroznaya Gora,Asia,Far Eastern Federal District,2.9,508.0,4.5,2.5,2.0,0.0,2
+2009,Moroznaya Gora,Asia,Russia,2.9,508.0,4.5,2.5,2.0,0.0,2
 2009,Fujimi Panorama,Asia,Japan,2.7,730.0,4.5,1.0,2.5,1.0,7
 2009,Yurduntepe,Asia,Turkey,2.7,475.0,4.5,4.1,0.4,0.0,2
 2009,Frontignano 360 – Ussita,Europe,Italy,2.6,898.0,4.5,4.0,0.3,0.2,3
@@ -2044,7 +2044,7 @@
 2039,Treetops,North America,USA,2.5,65.0,4.4,0.3,1.9,2.2,5
 2039,Sawmill Mountain Resort,North America,USA,2.5,110.0,4.4,0.9,2.5,1.0,4
 2039,Titcomb Mountain,North America,USA,2.3,84.0,4.4,1.0,1.1,2.3,2
-2039,Minyar,Europe,Ural Federal District,2.3,168.0,4.4,2.5,1.2,0.7,3
+2039,Minyar,Europe,Russia,2.3,168.0,4.4,2.5,1.2,0.7,3
 2039,Bear Mountain – Dawson Creek,North America,Canada,2.3,128.0,4.4,1.8,1.8,0.8,nan
 2039,Plejsy – Krompachy  (temporarily closed),Europe,Slovakia,2.3,442.0,4.4,0.7,2.6,1.1,5
 2039,Blizzard Mountain,North America,USA,2.3,217.0,4.4,1.7,2.0,0.7,nan
@@ -2058,7 +2058,7 @@
 2053,Mátraszentistván Sipark,Europe,Hungary,2.4,148.0,4.3,2.0,1.7,0.6,8
 2053,Čičmany – Javorinka,Europe,Slovakia,2.3,323.0,4.3,2.2,1.2,0.9,5
 2053,Novako – Jáchymov-Nové Město,Europe,Czech Republic,2.3,130.0,4.3,1.1,2.6,0.6,3
-2053,Kirpichiki – Petropavlovsk-Kamchatskiy,Asia,Far Eastern Federal District,2.3,194.0,4.3,1.8,2.5,0.0,3
+2053,Kirpichiki – Petropavlovsk-Kamchatskiy,Asia,Russia,2.3,194.0,4.3,1.8,2.5,0.0,3
 2053,Ochodzita – Koniaków,Europe,Poland,2.3,140.0,4.3,2.0,2.3,0.0,3
 2053,Ca et là Ski Resort Oze  (temporarily closed),Asia,Japan,nan,476.0,4.3,1.0,2.0,1.3,3
 2063,Rarău – Câmpulung Moldovenesc,Europe,Romania,2.8,450.0,4.2,1.4,2.8,0.0,nan
@@ -2090,7 +2090,7 @@
 2084,Saint-Georges,North America,Canada,2.3,84.0,4.1,1.1,1.5,1.5,3
 2084,Rauma,Europe,Norway,2.3,302.0,4.1,1.4,2.0,0.7,nan
 2084,Cottonwood Butte,North America,USA,2.3,257.0,4.1,0.1,2.2,1.8,2
-2084,Divnyi – Divnogorsk,Asia,Siberia,2.3,270.0,4.1,2.5,0.9,0.7,4
+2084,Divnyi – Divnogorsk,Asia,Russia,2.3,270.0,4.1,2.5,0.9,0.7,4
 2084,Šachty – Vysoké nad Jizerou,Europe,Czech Republic,2.3,180.0,4.1,1.6,2.5,0.0,5
 2084,Savalen,Europe,Norway,2.3,198.0,4.1,1.9,2.2,0.0,3
 2084,Gebrei,Europe,no data,2.3,110.0,4.1,2.9,1.2,0.0,3
@@ -2128,7 +2128,7 @@
 2098,Timberline Summit Pass,North America,USA,2.5,93.0,4.0,2.0,2.0,0.0,nan
 2098,Andes Tower Hills,North America,USA,2.5,89.0,4.0,2.2,1.6,0.2,4
 2098,Mt. Ashwabay – Salmo,North America,USA,2.5,83.0,4.0,1.5,1.2,1.3,2
-2098,Tsey,Europe,North Caucasus,2.5,450.0,4.0,1.0,3.0,0.0,2
+2098,Tsey,Europe,Russia,2.5,450.0,4.0,1.0,3.0,0.0,2
 2098,Powder Ridge,North America,USA,2.5,76.0,4.0,2.0,1.5,0.5,6
 2098,Snow Valley – Barrie,North America,Canada,2.5,90.0,4.0,2.0,1.0,1.0,8
 2098,Homole – Jaworki,Europe,Poland,2.5,116.0,4.0,1.1,2.0,0.9,3
@@ -2162,7 +2162,7 @@
 2098,Kappruet,Europe,Sweden,2.3,140.0,4.0,2.7,1.0,0.3,nan
 2098,MeriTeijo Ski,Europe,Finland,2.3,80.0,4.0,2.9,0.8,0.3,4
 2098,Pian Neiretto,Europe,Italy,2.3,300.0,4.0,0.8,2.0,1.2,2
-2098,Volen – Yakhroma,Europe,Central Russia,2.3,50.0,4.0,3.0,0.7,0.3,6
+2098,Volen – Yakhroma,Europe,Russia,2.3,50.0,4.0,3.0,0.7,0.3,6
 2098,Mullsjö Alpin,Europe,Sweden,2.3,95.0,4.0,2.1,1.4,0.5,5
 2098,Fairview Ski Hill,North America,Canada,2.3,175.0,4.0,1.4,0.8,1.8,4
 2098,Wachtberglifts – Weyregg am Attersee,Europe,Austria,2.3,208.0,4.0,2.0,2.0,0.0,3
@@ -2198,7 +2198,7 @@
 2098,Mount Mawson,Australia and Oceania,Australia,2.2,72.0,4.0,1.0,2.0,1.0,3
 2098,Hirtenteich – Essingen-Lauterburg/Aalen,Europe,Germany,2.2,120.0,4.0,2.5,1.5,0.0,3
 2098,Twin Towers  (temporarily closed),North America,Canada,nan,80.0,4.0,2.0,2.0,0.0,nan
-2098,Stepanovo,Europe,Central Russia,nan,40.0,4.0,0.4,3.6,0.0,3
+2098,Stepanovo,Europe,Russia,nan,40.0,4.0,0.4,3.6,0.0,3
 2098,Fereydunshahr,Asia,Iran,nan,370.0,4.0,2.0,2.0,0.0,2
 2098,Hakusan Shiramine Onsen,Asia,Japan,nan,400.0,4.0,2.0,2.0,0.0,3
 2098,Abali,Asia,Iran,nan,250.0,4.0,2.0,2.0,0.0,9
@@ -2231,7 +2231,7 @@
 2225,Jinlongshan – Zhalantun,Asia,China,2.5,172.0,3.8,2.8,1.0,0.0,nan
 2225,Mount Peter,North America,USA,2.4,85.0,3.8,1.0,2.0,0.8,7
 2225,Strachan – Ždiar,Europe,Slovakia,2.4,149.0,3.8,2.4,1.4,0.0,3
-2225,Yurmanka,Asia,Siberia,2.4,158.0,3.8,3.2,0.6,0.0,5
+2225,Yurmanka,Asia,Russia,2.4,158.0,3.8,3.2,0.6,0.0,5
 2225,Eschenberg – Niedersfeld,Europe,Germany,2.3,145.0,3.8,1.2,2.4,0.2,3
 2225,Bocksliden,Europe,Sweden,2.3,152.0,3.8,2.2,0.9,0.7,2
 2225,Kalpalinna,Europe,Finland,2.3,54.0,3.8,2.0,0.8,1.0,4
@@ -2240,7 +2240,7 @@
 2225,Stollenbach bei Oberried – Toter Mann,Europe,Germany,2.3,215.0,3.8,2.0,1.8,0.0,4
 2225,Studenov,Europe,Czech Republic,2.3,302.0,3.8,2.4,1.4,0.0,4
 2225,Terraski Park – Shava,Europe,no data,2.3,77.0,3.8,1.9,1.9,0.0,2
-2225,Snegorka,Asia,Far Eastern Federal District,2.3,318.0,3.8,1.8,2.0,0.0,3
+2225,Snegorka,Asia,Russia,2.3,318.0,3.8,1.8,2.0,0.0,3
 2225,Semkovo,Europe,Bulgaria,2.2,185.0,3.8,1.6,1.0,1.2,8
 2244,Palenica – Szczawnica,Europe,Poland,2.6,264.0,3.7,2.2,1.5,0.0,4
 2244,Minakami Kogen Fujiwara,Asia,Japan,2.5,150.0,3.7,2.0,1.2,0.5,3
@@ -2253,7 +2253,7 @@
 2244,Tindastóll – Sauðárkrókur,Europe,Iceland,2.3,473.0,3.7,0.9,2.8,0.0,2
 2244,Hinterreit,Europe,Austria,2.3,420.0,3.7,2.7,1.0,0.0,3
 2244,Eagle Valley  (temporarily closed),Asia,South Korea,nan,80.0,3.7,1.2,1.5,1.0,3
-2244,Flus,Europe,Ural Federal District,2.1,76.0,3.7,2.5,1.2,0.0,7
+2244,Flus,Europe,Russia,2.1,76.0,3.7,2.5,1.2,0.0,7
 2256,Eckbauer – Garmisch-Partenkirchen,Europe,Germany,nan,500.0,3.6,0.0,3.0,0.6,3
 2256,Bichlalm,Europe,Austria,2.6,693.0,3.6,3.6,0.0,0.0,nan
 2256,Ratzi – Spiringen,Europe,Switzerland,2.5,890.0,3.6,2.0,1.6,0.0,2
@@ -2263,7 +2263,7 @@
 2256,Nowa Osada – Wisła,Europe,Poland,2.4,196.0,3.6,2.6,1.0,0.0,4
 2256,Logoisk,Europe,Belarus,2.4,50.0,3.6,2.8,0.8,0.0,2
 2256,Strednica – Ždiar,Europe,Slovakia,2.4,114.0,3.6,2.3,1.3,0.0,7
-2256,Kwan – Kaluga,Europe,Central Russia,2.3,83.0,3.6,2.6,1.0,0.0,7
+2256,Kwan – Kaluga,Europe,Russia,2.3,83.0,3.6,2.6,1.0,0.0,7
 2256,Čierny Balog,Europe,Slovakia,2.3,249.0,3.6,0.3,3.3,0.0,3
 2256,Ottenleue – Sangernboden,Europe,Switzerland,2.3,150.0,3.6,1.7,1.1,0.8,nan
 2256,Ski Sport Alm – Burladingen,Europe,Germany,2.3,165.0,3.6,1.5,1.2,0.9,2
@@ -2271,18 +2271,18 @@
 2256,Malá Úpa,Europe,Czech Republic,2.3,258.0,3.6,1.4,2.2,0.0,8
 2256,Sonnenberg – St. Andreasberg,Europe,Germany,2.3,96.0,3.6,1.4,0.8,1.4,4
 2256,Rucas di Bagnolo,Europe,Italy,2.3,300.0,3.6,0.9,2.7,0.0,2
-2256,Krasnaya Sopka – Petropavlovsk-Kamchatskiy,Asia,Far Eastern Federal District,2.3,300.0,3.6,1.5,2.1,0.0,2
+2256,Krasnaya Sopka – Petropavlovsk-Kamchatskiy,Asia,Russia,2.3,300.0,3.6,1.5,2.1,0.0,2
 2256,Petříkovice,Europe,Czech Republic,2.3,160.0,3.6,0.1,3.5,0.0,3
-2256,Medvezhya Dolina,Asia,Far Eastern Federal District,2.3,402.0,3.6,2.6,1.0,0.0,3
+2256,Medvezhya Dolina,Asia,Russia,2.3,402.0,3.6,2.6,1.0,0.0,3
 2256,U Čápa – Kořenov-Příchovice,Europe,Czech Republic,2.2,101.0,3.6,3.6,0.0,0.0,3
-2256,Tyytari Park – Retselya,Europe,Northwest Russia,2.2,65.0,3.6,3.6,0.0,0.0,6
+2256,Tyytari Park – Retselya,Europe,Russia,2.2,65.0,3.6,3.6,0.0,0.0,6
 2278,Beskid Sport Arena (Szczyrk),Europe,Poland,2.7,240.0,3.5,1.5,1.2,0.8,4
 2278,Asahi Shizen,Asia,Japan,2.5,320.0,3.5,1.5,1.0,1.0,4
 2278,Hiroshima Kenmin no Mori  (temporarily closed),Asia,Japan,2.5,250.0,3.5,1.2,1.1,1.2,3
 2278,Hirayu Onsen,Asia,Japan,2.5,470.0,3.5,0.8,1.7,1.0,2
 2278,Kuzuryu,Asia,Japan,2.5,320.0,3.5,0.9,1.9,0.7,4
 2278,Hagurosan,Asia,Japan,2.5,143.0,3.5,1.7,1.2,0.6,2
-2278,Gladenkaya – Sajanagorsk,Asia,Siberia,2.5,900.0,3.5,0.0,3.5,0.0,3
+2278,Gladenkaya – Sajanagorsk,Asia,Russia,2.5,900.0,3.5,0.0,3.5,0.0,3
 2278,Victor Constant – West Point,North America,USA,2.5,155.0,3.5,0.3,2.5,0.7,2
 2278,Hochplatte – Marquartstein  (temporarily closed),Europe,Germany,2.4,431.0,3.5,3.5,0.0,0.0,nan
 2278,Keltepe,Asia,Turkey,2.4,250.0,3.5,2.0,1.5,0.0,2
@@ -2297,9 +2297,9 @@
 2278,Český Jiřetín,Europe,Czech Republic,2.3,170.0,3.5,1.5,2.0,0.0,4
 2278,Le Désert d'Entremont,Europe,France,2.3,200.0,3.5,2.0,1.0,0.5,3
 2278,Nad Nádražím/Belveder – Železná Ruda,Europe,Czech Republic,2.3,110.0,3.5,1.6,1.9,0.0,6
-2278,Biryuzovaya Katun,Asia,Siberia,2.3,255.0,3.5,1.9,0.9,0.7,2
+2278,Biryuzovaya Katun,Asia,Russia,2.3,255.0,3.5,1.9,0.9,0.7,2
 2278,Les Bagenelles – Sainte-Marie-aux-Mines,Europe,France,2.3,238.0,3.5,2.7,0.8,0.0,2
-2278,Uktus Mountain – Ekaterinburg,Europe,Ural Federal District,2.3,101.0,3.5,3.1,0.4,0.0,4
+2278,Uktus Mountain – Ekaterinburg,Europe,Russia,2.3,101.0,3.5,3.1,0.4,0.0,4
 2278,Olešnice v Orlických horách,Europe,Czech Republic,2.3,85.0,3.5,2.3,1.2,0.0,4
 2278,Homole Poniklá  (temporarily closed),Europe,Czech Republic,2.3,150.0,3.5,2.5,1.0,0.0,2
 2278,Oberegg – Skilift St. Anton,Europe,Switzerland,2.2,255.0,3.5,3.5,0.0,0.0,nan
@@ -2316,7 +2316,7 @@
 2307,Fagerfjell,Europe,Norway,2.3,150.0,3.4,2.8,0.6,0.0,3
 2307,Brusnica – Fojnica,Europe,Bosnia and Herzegovina,2.3,212.0,3.4,1.4,2.0,0.0,2
 2307,Bogdán,Europe,Romania,2.3,196.0,3.4,2.6,0.8,0.0,2
-2307,Pavlovka,Europe,Volga Federal District,2.3,140.0,3.4,2.6,0.8,0.0,2
+2307,Pavlovka,Europe,Russia,2.3,140.0,3.4,2.6,0.8,0.0,2
 2319,Kasprowy Wierch – Zakopane,Europe,Poland,2.7,973.0,3.3,0.0,0.0,3.3,4
 2319,Kawaba,Asia,Japan,2.7,580.0,3.3,0.5,2.0,0.8,6
 2319,Horotachi,Asia,Japan,2.5,183.0,3.3,1.1,1.5,0.7,nan
@@ -2369,7 +2369,7 @@
 2355,Jastrzębica – Przyłęków,Europe,Poland,2.3,188.0,3.1,2.2,0.9,0.0,nan
 2355,Ivan-Gora,Europe,no data,2.3,84.0,3.1,2.1,1.0,0.0,2
 2355,Sølen – Ulvåberget,Europe,Norway,2.3,164.0,3.1,2.2,0.9,0.0,nan
-2355,Wolf Mountain – Volchikha (Rewda),Europe,Ural Federal District,nan,186.0,3.1,2.9,0.2,0.0,4
+2355,Wolf Mountain – Volchikha (Rewda),Europe,Russia,nan,186.0,3.1,2.9,0.2,0.0,4
 2372,Cmiljača – Bjelasica,Europe,Montenegro,nan,337.0,3.0,nan,nan,nan,nan
 2372,Sattel – Hochstuckli,Europe,Switzerland,2.8,691.0,3.0,2.0,1.0,0.0,6
 2372,La Grave – La Meije,Europe,France,2.7,2064.0,3.0,3.0,0.0,0.0,3
@@ -2427,7 +2427,7 @@
 2372,Park kralja Matjaža – Črna na Koroškem,Europe,Slovenia,2.3,214.0,3.0,1.0,1.0,1.0,nan
 2372,Ghisoni,Europe,France,2.3,290.0,3.0,1.3,0.9,0.8,3
 2372,Vorderthal – Skilift Wägital,Europe,Switzerland,2.3,510.0,3.0,2.0,1.0,0.0,nan
-2372,Tyagatchev's Mountain – Shukolovo,Europe,Central Russia,2.3,50.0,3.0,2.0,1.0,0.0,13
+2372,Tyagatchev's Mountain – Shukolovo,Europe,Russia,2.3,50.0,3.0,2.0,1.0,0.0,13
 2372,Les Rafforts – Héry sur Ugine,Europe,France,2.3,312.0,3.0,1.0,1.0,1.0,2
 2372,Storstenshöjden  (temporarily closed),Europe,Sweden,2.3,99.0,3.0,2.3,0.6,0.1,6
 2372,Dent de Jaman – Montreux,Europe,Switzerland,2.3,384.0,3.0,0.0,3.0,0.0,2
@@ -2436,7 +2436,7 @@
 2372,Oslo Skisenter Grefsenkollen,Europe,Norway,2.3,55.0,3.0,1.3,0.7,1.0,4
 2372,Bačova Roveň – Vyšná Boca,Europe,Slovakia,2.3,360.0,3.0,0.2,1.4,1.4,3
 2372,Nagy-Hideg-hegy  (temporarily closed),Europe,Hungary,2.3,100.0,3.0,1.5,1.0,0.5,3
-2372,Snegny,Europe,Northwest Russia,2.3,86.0,3.0,1.5,1.0,0.5,5
+2372,Snegny,Europe,Russia,2.3,86.0,3.0,1.5,1.0,0.5,5
 2372,Sommartel – Le Locle,Europe,Switzerland,2.3,184.0,3.0,1.6,0.6,0.8,2
 2372,Plumas Eureka Ski Bowl,North America,USA,2.3,199.0,3.0,2.0,0.7,0.3,3
 2372,Aela – Maloja,Europe,Switzerland,2.3,335.0,3.0,0.5,1.5,1.0,2
@@ -2471,7 +2471,7 @@
 2372,Prati di Mezzo – Picinisco,Europe,Italy,2.3,122.0,3.0,2.0,1.0,0.0,2
 2372,Hazarbaba,Asia,Turkey,2.3,306.0,3.0,2.0,1.0,0.0,nan
 2372,Turek,Europe,Czech Republic,2.3,132.0,3.0,2.0,1.0,0.0,2
-2372,Uyazy-Tau,Europe,Volga Federal District,2.3,145.0,3.0,1.4,1.6,0.0,2
+2372,Uyazy-Tau,Europe,Russia,2.3,145.0,3.0,1.4,1.6,0.0,2
 2372,Casone di Profecchia,Europe,Italy,2.3,162.0,3.0,2.5,0.5,0.0,3
 2372,Coppervale,North America,USA,2.3,225.0,3.0,1.0,2.0,0.0,nan
 2372,Embach – Hörndl,Europe,Austria,2.3,284.0,3.0,2.0,1.0,0.0,2
@@ -2499,11 +2499,11 @@
 2372,Ruskola  (temporarily closed),Europe,Sweden,2.2,129.0,3.0,2.0,1.0,0.0,2
 2372,La Côte-aux-Fées,Europe,Switzerland,2.2,100.0,3.0,3.0,0.0,0.0,nan
 2372,Mødalstrekket,Europe,Norway,2.2,190.0,3.0,3.0,0.0,0.0,nan
-2372,Chindirchero,Europe,North Caucasus,2.2,512.0,3.0,3.0,0.0,0.0,9
+2372,Chindirchero,Europe,Russia,2.2,512.0,3.0,3.0,0.0,0.0,9
 2372,Palot (Pisogne),Europe,Italy,2.2,290.0,3.0,3.0,0.0,0.0,2
 2372,Boogie Mountain – Espanola,North America,Canada,2.2,55.0,3.0,2.4,0.6,0.0,2
 2372,Degersheim – Fuchsacker,Europe,Switzerland,2.2,219.0,3.0,3.0,0.0,0.0,3
-2372,Gora Zmeinaya – Obluchye,Asia,Far Eastern Federal District,2.2,164.0,3.0,2.1,0.9,0.0,2
+2372,Gora Zmeinaya – Obluchye,Asia,Russia,2.2,164.0,3.0,2.1,0.9,0.0,2
 2372,Oberwilhams – Missen-Wilhams,Europe,Germany,2.2,130.0,3.0,3.0,0.0,0.0,3
 2372,Uzana (Узана),Europe,Bulgaria,2.2,130.0,3.0,1.9,1.1,0.0,10
 2372,Nagyvillám Sípálya – Visegrád,Europe,Hungary,2.2,120.0,3.0,2.0,1.0,0.0,9
@@ -2531,7 +2531,7 @@
 2526,Solfa Oda,Asia,Japan,2.4,213.0,2.9,0.9,1.5,0.5,2
 2526,The Omni Homestead,North America,USA,2.4,180.0,2.9,1.5,1.2,0.2,2
 2526,Minnedosa Ski Valley,North America,Canada,2.4,80.0,2.9,1.0,1.2,0.7,2
-2526,Blagodat – Belokuricha,Asia,Siberia,2.4,496.0,2.9,1.3,1.6,0.0,3
+2526,Blagodat – Belokuricha,Asia,Russia,2.4,496.0,2.9,1.3,1.6,0.0,3
 2526,Miroslav – Lipová Lázně,Europe,Czech Republic,2.4,180.0,2.9,2.1,0.8,0.0,3
 2526,Taivalvaara,Europe,Finland,2.2,43.0,2.9,2.2,0.5,0.2,2
 2526,Kasárne Javorníky – Makov,Europe,Slovakia,2.2,165.0,2.9,0.6,1.6,0.7,5
@@ -2558,26 +2558,26 @@
 2542,Knaben,Europe,Norway,2.2,182.0,2.8,1.0,1.6,0.2,nan
 2542,Kütiorg,Europe,Estonia,2.2,74.0,2.8,0.5,1.5,0.8,2
 2542,Glück Auf – Langewiese,Europe,Germany,2.2,70.0,2.8,0.3,1.6,0.9,2
-2542,Klyuchi,Asia,Siberia,2.2,70.0,2.8,0.9,1.4,0.5,3
+2542,Klyuchi,Asia,Russia,2.2,70.0,2.8,0.9,1.4,0.5,3
 2542,Čelimbaša,Europe,Croatia,2.2,235.0,2.8,1.4,0.9,0.5,nan
 2542,Kegelberg – Erlbach,Europe,Germany,2.2,190.0,2.8,1.2,1.6,0.0,3
 2542,Hvalin/Khvalyn,Europe,no data,2.2,181.0,2.8,1.8,1.0,0.0,3
 2542,Hornlift – Fröhnd,Europe,Germany,2.2,300.0,2.8,1.6,1.2,0.0,nan
 2542,Prästberget,Europe,Sweden,2.2,170.0,2.8,0.0,2.3,0.5,nan
 2542,Holzhau,Europe,Germany,2.2,130.0,2.8,1.0,1.8,0.0,3
-2542,Pilnaya,Europe,Ural Federal District,2.2,99.0,2.8,1.8,1.0,0.0,2
+2542,Pilnaya,Europe,Russia,2.2,99.0,2.8,1.8,1.0,0.0,2
 2542,Mont Sauvage,North America,Canada,2.2,123.0,2.8,1.6,1.2,0.0,nan
 2542,Chyrowa,Europe,Poland,2.2,190.0,2.8,1.9,0.9,0.0,3
 2542,Skizentrum Pfronten,Europe,Germany,2.2,382.0,2.8,0.6,2.2,0.0,6
-2542,Kush-Tau,Europe,Volga Federal District,2.2,185.0,2.8,1.2,1.6,0.0,3
-2542,Nekrasovo,Europe,Central Russia,2.2,35.0,2.8,2.1,0.7,0.0,4
+2542,Kush-Tau,Europe,Russia,2.2,185.0,2.8,1.2,1.6,0.0,3
+2542,Nekrasovo,Europe,Russia,2.2,35.0,2.8,2.1,0.7,0.0,4
 2542,Forsteralm,Europe,Austria,2.2,145.0,2.8,2.8,0.0,0.0,3
 2542,Kitashiga Kogen Kumaruyama,Asia,Japan,nan,398.0,2.8,nan,nan,nan,8
 2575,Terakoya Resort,Asia,Japan,2.6,156.0,2.7,0.5,2.2,0.0,2
 2575,Nagaoka Shiei,Asia,Japan,2.4,250.0,2.7,1.5,1.0,0.2,2
 2575,Gokazan – Yūbetsu,Asia,Japan,2.4,95.0,2.7,1.0,1.1,0.6,nan
 2575,Daisetsuzan Kurodake – Sounkyo,Asia,Japan,2.4,220.0,2.7,1.5,1.2,0.0,2
-2575,Igora,Europe,Northwest Russia,2.4,120.0,2.7,2.5,0.2,0.0,4
+2575,Igora,Europe,Russia,2.4,120.0,2.7,2.5,0.2,0.0,4
 2575,Kitami Wakamatsu Shimin,Asia,Japan,nan,163.0,2.7,nan,nan,nan,2
 2575,Flottsbro Alpin,Europe,Sweden,2.4,100.0,2.7,1.3,1.4,0.0,3
 2575,Krahule,Europe,Slovakia,2.3,167.0,2.7,0.9,1.8,0.0,6
@@ -2641,7 +2641,7 @@
 2622,Zagroń,Europe,Poland,2.4,145.0,2.5,2.1,0.4,0.0,2
 2622,Campo Rotondo – Cappadocia,Europe,Italy,2.4,200.0,2.5,0.5,2.0,0.0,2
 2622,Seebodenalp – Küssnacht,Europe,Switzerland,2.4,189.0,2.5,2.0,0.5,0.0,3
-2622,Ohta Park,Europe,Northwest Russia,2.4,60.0,2.5,2.5,0.0,0.0,8
+2622,Ohta Park,Europe,Russia,2.4,60.0,2.5,2.5,0.0,0.0,8
 2622,Hrubá Voda,Europe,Czech Republic,2.4,212.0,2.5,1.4,0.9,0.2,4
 2622,Luossabacken – Kiruna,Europe,Sweden,2.4,156.0,2.5,1.5,1.0,0.0,3
 2622,Ozolkalns,Europe,Latvia,2.3,75.0,2.5,1.5,1.0,0.0,4
@@ -2663,7 +2663,7 @@
 2622,Pawlin – Malá Morávka,Europe,Czech Republic,2.2,120.0,2.5,2.0,0.5,0.0,3
 2622,Alberschwende – Brüggelekopf  (temporarily closed),Europe,Austria,2.2,480.0,2.5,1.0,1.5,0.0,2
 2622,Kaiserau – Admont,Europe,Austria,2.2,240.0,2.5,1.6,0.9,0.0,5
-2622,Teplaya Gora,Europe,Ural Federal District,2.2,109.0,2.5,1.4,1.1,0.0,3
+2622,Teplaya Gora,Europe,Russia,2.2,109.0,2.5,1.4,1.1,0.0,3
 2622,Güzeltepe – Muş,Asia,Turkey,2.2,252.0,2.5,1.5,1.0,0.0,nan
 2622,Rankenlift,Europe,Germany,2.2,171.0,2.5,1.5,1.0,0.0,2
 2622,Jonas Park – Ostružná,Europe,Czech Republic,2.2,80.0,2.5,1.2,1.3,0.0,4
@@ -2700,7 +2700,7 @@
 2687,Beskid – Spytkowice,Europe,Poland,2.4,136.0,2.4,2.4,0.0,0.0,3
 2687,Teplica – Brezovica,Europe,Slovakia,2.3,187.0,2.4,1.0,0.7,0.7,nan
 2687,Solbakken – Sisimiut,North America,Greenland,2.2,120.0,2.4,0.3,1.4,0.7,nan
-2687,Inya – Nowosibirsk,Asia,Siberia,2.2,100.0,2.4,1.1,0.9,0.4,3
+2687,Inya – Nowosibirsk,Asia,Russia,2.2,100.0,2.4,1.1,0.9,0.4,3
 2687,Tiffindell,Africa,South Africa,2.2,230.0,2.4,0.6,0.8,1.0,6
 2687,Prabouré – Saint-Anthème,Europe,France,2.2,180.0,2.4,1.2,1.2,0.0,4
 2687,Drienica,Europe,Slovakia,2.2,360.0,2.4,1.4,1.0,0.0,4
@@ -2760,8 +2760,8 @@
 2742,Štědrákova Lhota  (temporarily closed),Europe,Czech Republic,2.2,150.0,2.2,0.3,1.9,0.0,3
 2742,Cranor Ski Hill – Gunnison,North America,USA,2.2,96.0,2.2,1.8,0.4,0.0,nan
 2742,Rajkovo – Majdanpek,Europe,Serbia,2.2,190.0,2.2,1.0,1.2,0.0,nan
-2742,Gora Dolgaya – Nizhny Tagil,Europe,Ural Federal District,2.2,112.0,2.2,0.2,2.0,0.0,nan
-2742,Puzhalova Gora – Gorokhovets,Europe,Central Russia,2.2,70.0,2.2,1.6,0.6,0.0,4
+2742,Gora Dolgaya – Nizhny Tagil,Europe,Russia,2.2,112.0,2.2,0.2,2.0,0.0,nan
+2742,Puzhalova Gora – Gorokhovets,Europe,Russia,2.2,70.0,2.2,1.6,0.6,0.0,4
 2742,Kessellifts – Inzell,Europe,Germany,2.2,95.0,2.2,1.2,1.0,0.0,3
 2742,Oberiberg,Europe,Switzerland,2.2,275.0,2.2,2.2,0.0,0.0,4
 2742,Parc de l'Île Melville – Val Mauricie,North America,Canada,2.2,75.0,2.2,1.9,0.3,0.0,3
@@ -2793,9 +2793,9 @@
 2778,Landsomberget,Europe,Sweden,2.2,191.0,2.1,1.2,0.9,0.0,nan
 2778,Kiviõli,Europe,Estonia,2.2,55.0,2.1,1.8,0.3,0.0,2
 2778,Erbeskopf – Thalfang,Europe,Germany,2.2,130.0,2.1,0.6,1.5,0.0,3
-2778,Rider – Miass,Europe,Ural Federal District,2.2,80.0,2.1,1.0,1.1,0.0,3
+2778,Rider – Miass,Europe,Russia,2.2,80.0,2.1,1.0,1.1,0.0,3
 2778,Horní Kouty,Europe,Czech Republic,2.2,114.0,2.1,1.5,0.6,0.0,2
-2778,Sport Extrime – Zlatoust,Europe,Ural Federal District,2.2,157.0,2.1,2.1,0.0,0.0,2
+2778,Sport Extrime – Zlatoust,Europe,Russia,2.2,157.0,2.1,2.1,0.0,0.0,2
 2778,Hartenrod,Europe,Germany,2.2,126.0,2.1,1.2,0.9,0.0,2
 2799,Schöneck (Skiwelt),Europe,Germany,2.9,140.0,2.0,0.7,0.8,0.5,5
 2799,Silberberg – Bodenmais,Europe,Germany,2.7,153.0,2.0,2.0,0.0,0.0,3
@@ -2812,7 +2812,7 @@
 2799,Adanac Ski Hill,North America,Canada,2.4,70.0,2.0,1.3,0.6,0.1,nan
 2799,Witów,Europe,Poland,2.4,140.0,2.0,2.0,0.0,0.0,3
 2799,Brandywine,North America,USA,2.4,80.0,2.0,1.0,0.7,0.3,7
-2799,Yalgora,Europe,Northwest Russia,2.4,100.0,2.0,0.9,0.6,0.5,2
+2799,Yalgora,Europe,Russia,2.4,100.0,2.0,0.9,0.6,0.5,2
 2799,Niki Chomin,Asia,Japan,2.4,156.0,2.0,0.8,1.2,0.0,nan
 2799,Čerťák – Václavov u Bruntálu,Europe,Czech Republic,2.4,120.0,2.0,1.3,0.7,0.0,nan
 2799,Detroit Mountain,North America,USA,2.4,50.0,2.0,1.0,1.0,0.0,2
@@ -3012,16 +3012,16 @@
 2982,Sundsvall – Sidsjöbacken,Europe,Sweden,2.2,97.0,1.8,1.3,0.5,0.0,2
 2982,Lindbäcksstadion,Europe,Sweden,2.2,107.0,1.8,1.3,0.5,0.0,2
 2982,Vurmovka,Europe,Czech Republic,2.2,100.0,1.8,0.6,1.2,0.0,nan
-2982,Gornyy,Asia,Siberia,2.2,130.0,1.8,0.8,1.0,0.0,nan
+2982,Gornyy,Asia,Russia,2.2,130.0,1.8,0.8,1.0,0.0,nan
 2982,Schönfeld – Thomatal,Europe,Austria,2.2,360.0,1.8,1.0,0.8,0.0,2
 2982,St. Hemma – Edelschrott,Europe,Austria,2.2,128.0,1.8,0.9,0.9,0.0,nan
 2982,Persåsbacken,Europe,Sweden,2.2,165.0,1.8,1.6,0.2,0.0,nan
 2982,Ascutney Mountain,North America,USA,2.2,549.0,1.8,1.2,0.6,0.0,2
-2982,Tseleevo,Europe,Central Russia,2.2,65.0,1.8,0.7,1.1,0.0,3
+2982,Tseleevo,Europe,Russia,2.2,65.0,1.8,0.7,1.1,0.0,3
 2982,Alpinlift – Hausen an der Lauchert (Trochtelfingen),Europe,Germany,2.2,100.0,1.8,1.5,0.3,0.0,nan
 2982,Kubova Huť,Europe,Czech Republic,2.2,115.0,1.8,0.8,1.0,0.0,3
 2982,Aš,Europe,Czech Republic,2.2,130.0,1.8,1.0,0.8,0.0,3
-2982,Yakhroma Park,Europe,Central Russia,2.2,46.0,1.8,1.4,0.4,0.0,5
+2982,Yakhroma Park,Europe,Russia,2.2,46.0,1.8,1.4,0.4,0.0,5
 2982,Zlatá Olešnice,Europe,Czech Republic,2.2,130.0,1.8,0.8,1.0,0.0,2
 2982,Herrenschwand,Europe,Germany,2.2,225.0,1.8,1.8,0.0,0.0,nan
 2982,Simas Lifte – St. Peter/St. Corona  (temporarily closed),Europe,Austria,2.2,266.0,1.8,0.0,1.8,0.0,nan
@@ -3055,14 +3055,14 @@
 3038,Hlubočky,Europe,Czech Republic,2.2,90.0,1.7,0.7,1.0,0.0,3
 3038,Monte Poieto – Aviatico,Europe,Italy,2.2,178.0,1.7,1.1,0.6,0.0,2
 3038,Stupava,Europe,Czech Republic,2.2,90.0,1.7,0.3,1.4,0.0,4
-3038,Krasnaya Gorka – Melekhovo,Europe,Central Russia,2.2,54.0,1.7,1.4,0.3,0.0,4
+3038,Krasnaya Gorka – Melekhovo,Europe,Russia,2.2,54.0,1.7,1.4,0.3,0.0,4
 3038,Poseka – Ravne na Koroškem,Europe,Slovenia,2.2,155.0,1.7,0.0,1.7,0.0,nan
 3038,Bromberg Alm – Böbing,Europe,Germany,2.2,119.0,1.7,1.5,0.2,0.0,2
 3038,Potštát,Europe,Czech Republic,2.2,83.0,1.7,0.3,1.4,0.0,3
 3038,Skyline – Friendship,North America,USA,2.2,96.0,1.7,1.0,0.4,0.3,2
 3038,Klínek – Předklášteří,Europe,Czech Republic,2.2,97.0,1.7,1.2,0.5,0.0,2
 3038,Urnäsch – Osteregg,Europe,Switzerland,2.2,230.0,1.7,1.7,0.0,0.0,2
-3038,Kometa – Vladivostok,Asia,Far Eastern Federal District,2.2,153.0,1.7,1.0,0.7,0.0,3
+3038,Kometa – Vladivostok,Asia,Russia,2.2,153.0,1.7,1.0,0.7,0.0,3
 3038,Feistritzsattel – Trattenbach,Europe,Austria,2.1,200.0,1.7,0.0,1.7,0.0,2
 3038,Stanzach,Europe,Austria,2.1,109.0,1.7,1.0,0.7,0.0,3
 3038,Bjørnestad,Europe,Norway,nan,200.0,1.7,1.0,0.0,0.7,nan
@@ -3077,7 +3077,7 @@
 3069,Mariánky – Mariánské Lázne,Europe,Czech Republic,2.4,110.0,1.6,1.0,0.6,0.0,3
 3069,Capracotta,Europe,Italy,2.4,270.0,1.6,1.5,0.1,0.0,2
 3069,Păltiniș,Europe,Romania,2.3,267.0,1.6,0.0,1.6,0.0,2
-3069,Nikolaevskaya Sopka,Asia,Siberia,nan,120.0,1.6,nan,nan,nan,2
+3069,Nikolaevskaya Sopka,Asia,Russia,nan,120.0,1.6,nan,nan,nan,2
 3069,Lądek-Zdrój,Europe,Poland,2.3,130.0,1.6,1.0,0.6,0.0,6
 3069,Buřín – Hodkovice nad Mohelkou,Europe,Czech Republic,2.2,85.0,1.6,0.6,0.5,0.5,nan
 3069,Yxbacken,Europe,Sweden,2.2,107.0,1.6,0.8,0.4,0.4,3
@@ -3091,7 +3091,7 @@
 3069,Enzklösterle,Europe,Germany,2.2,230.0,1.6,0.4,1.2,0.0,2
 3069,Bollekollen – Bollebygd,Europe,Sweden,2.2,92.0,1.6,0.9,0.7,0.0,2
 3069,Måttsundsbacken,Europe,Sweden,2.2,125.0,1.6,0.6,1.0,0.0,3
-3069,Malskaya Dolina – Rogovo,Europe,Northwest Russia,2.2,66.0,1.6,0.7,0.6,0.3,2
+3069,Malskaya Dolina – Rogovo,Europe,Russia,2.2,66.0,1.6,0.7,0.6,0.3,2
 3069,Băişoara – Staţiunea Muntele Băişorii,Europe,Romania,2.2,218.0,1.6,1.3,0.3,0.0,nan
 3069,Sami Swoi – Gliczarów Dolny,Europe,Poland,2.2,120.0,1.6,0.9,0.7,0.0,nan
 3069,xPark Františkov – Jindřichov,Europe,Czech Republic,2.2,95.0,1.6,0.9,0.7,0.0,2
@@ -3104,11 +3104,11 @@
 3069,Mount Fairweather – Atikokan,North America,Canada,2.2,106.0,1.6,0.5,0.8,0.3,2
 3069,Govedartsi,Europe,Bulgaria,2.2,360.0,1.6,0.0,1.6,0.0,nan
 3069,Aboda Klint – Högsby,Europe,Sweden,2.2,47.0,1.6,1.6,0.0,0.0,2
-3069,Trekhgorye,Europe,Ural Federal District,2.2,38.0,1.6,1.6,0.0,0.0,3
+3069,Trekhgorye,Europe,Russia,2.2,38.0,1.6,1.6,0.0,0.0,3
 3069,Engstingen,Europe,Germany,2.1,70.0,1.6,0.8,0.8,0.0,6
 3069,Hasamäki,Europe,Finland,2.1,50.0,1.6,1.6,0.0,0.0,2
 3069,Varkaus,Europe,Finland,2.1,26.0,1.6,0.4,1.2,0.0,2
-3069,Podolino,Europe,Central Russia,2.1,57.0,1.6,1.2,0.4,0.0,3
+3069,Podolino,Europe,Russia,2.1,57.0,1.6,1.2,0.4,0.0,3
 3069,Mareszka – Krempna,Europe,Poland,nan,70.0,1.6,0.8,0.8,0.0,nan
 3069,Kocierz,Europe,Poland,nan,80.0,1.6,1.6,0.0,0.0,2
 3113,Ski Dubai – Mall of the Emirates (indoor ski area),Asia,United Arab Emirates,3.0,85.0,1.5,1.0,0.3,0.2,3
@@ -3141,7 +3141,7 @@
 3113,Ovifat,Europe,Belgium,2.2,67.0,1.5,1.0,0.4,0.1,4
 3113,Liepkalnis – Vilnius (Žiemos trasa),Europe,Lithuania,2.2,35.0,1.5,0.8,0.5,0.2,10
 3113,Serena,Europe,Finland,2.2,51.0,1.5,0.7,0.3,0.5,6
-3113,Foxrock (Lis'ya Gora) – Balashikha,Europe,Central Russia,2.2,90.0,1.5,0.3,0.8,0.4,6
+3113,Foxrock (Lis'ya Gora) – Balashikha,Europe,Russia,2.2,90.0,1.5,0.3,0.8,0.4,6
 3113,Vogelskopf (Baiersbronn),Europe,Germany,2.2,100.0,1.5,0.0,0.9,0.6,nan
 3113,Machůzky  (temporarily closed),Europe,Czech Republic,2.2,202.0,1.5,0.4,1.1,0.0,2
 3113,Kalte Herberge – Urach,Europe,Germany,2.2,80.0,1.5,1.0,0.5,0.0,3
@@ -3153,8 +3153,8 @@
 3113,Junsele,Europe,Sweden,2.2,92.0,1.5,1.0,0.5,0.0,nan
 3113,Annaberg – Andělská Hora,Europe,Czech Republic,2.2,161.0,1.5,0.9,0.6,0.0,2
 3113,Svedjebacken,Europe,Sweden,2.2,98.0,1.5,1.0,0.5,0.0,nan
-3113,Alpina – Zaozernyy,Asia,Far Eastern Federal District,2.2,113.0,1.5,1.2,0.3,0.0,2
-3113,Kashtak – Krasnoyarsk,Asia,Siberia,2.2,266.0,1.5,0.0,1.1,0.4,nan
+3113,Alpina – Zaozernyy,Asia,Russia,2.2,113.0,1.5,1.2,0.3,0.0,2
+3113,Kashtak – Krasnoyarsk,Asia,Russia,2.2,266.0,1.5,0.0,1.1,0.4,nan
 3113,Busovača,Europe,Bosnia and Herzegovina,2.2,130.0,1.5,0.5,1.0,0.0,2
 3113,Elmadağ,Asia,Turkey,2.2,155.0,1.5,1.0,0.5,0.0,nan
 3113,Kazimierz,Europe,Poland,2.2,60.0,1.5,1.0,0.5,0.0,4
@@ -3189,7 +3189,7 @@
 3113,Mukinje Plitvice,Europe,Croatia,2.2,53.0,1.5,1.5,0.0,0.0,nan
 3113,Falkfångarfjället,Europe,Sweden,2.2,150.0,1.5,0.0,1.5,0.0,nan
 3113,Payam – Yam,Asia,Iran,2.2,195.0,1.5,1.5,0.0,0.0,nan
-3113,Snoubord-Park – Novosibirsk,Asia,Siberia,2.2,26.0,1.5,1.5,0.0,0.0,nan
+3113,Snoubord-Park – Novosibirsk,Asia,Russia,2.2,26.0,1.5,1.5,0.0,0.0,nan
 3113,Lailias – Serres,Europe,Greece,2.2,247.0,1.5,1.0,0.5,0.0,3
 3113,Lechnerberg,Europe,Austria,2.2,65.0,1.5,1.5,0.0,0.0,2
 3113,Nasbinals,Europe,France,2.2,200.0,1.5,1.5,0.0,0.0,nan
@@ -3200,16 +3200,16 @@
 3113,Hirvensalo,Europe,Finland,2.2,50.0,1.5,1.5,0.0,0.0,3
 3113,Chata pod Klínem – Ramzová,Europe,Czech Republic,2.2,74.0,1.5,1.5,0.0,0.0,3
 3113,Serafínov (Skalité)  (temporarily closed),Europe,Slovakia,2.2,130.0,1.5,0.0,1.5,0.0,4
-3113,Foma,Asia,Far Eastern Federal District,2.2,79.0,1.5,1.5,0.0,0.0,4
+3113,Foma,Asia,Russia,2.2,79.0,1.5,1.5,0.0,0.0,4
 3113,Foncine le Haut,Europe,France,2.1,125.0,1.5,1.0,0.5,0.0,3
 3113,Vålådalens Fjällstation,Europe,Sweden,2.1,150.0,1.5,1.5,0.0,0.0,2
 3113,Am Gründelwald – Jöhstadt,Europe,Germany,2.1,100.0,1.5,0.9,0.6,0.0,2
 3113,Hausberglift – Waidring,Europe,Austria,2.1,100.0,1.5,1.5,0.0,0.0,2
 3113,Hanaslöv,Europe,Sweden,2.1,70.0,1.5,0.7,0.8,0.0,2
 3113,Siebenseelift – Wildalpen,Europe,Austria,2.1,170.0,1.5,1.5,0.0,0.0,2
-3113,Kostenski,Europe,Central Russia,2.1,80.0,1.5,0.8,0.7,0.0,3
+3113,Kostenski,Europe,Russia,2.1,80.0,1.5,0.8,0.7,0.0,3
 3113,Åslia,Europe,Sweden,2.1,100.0,1.5,1.5,0.0,0.0,2
-3113,Spin – Tolyatti,Europe,Volga Federal District,2.1,70.0,1.5,1.5,0.0,0.0,3
+3113,Spin – Tolyatti,Europe,Russia,2.1,70.0,1.5,1.5,0.0,0.0,3
 3113,Falcon Ridge,North America,Canada,2.1,36.0,1.5,1.2,0.3,0.0,5
 3113,Obudovica – Zlatibor,Europe,Serbia,2.1,40.0,1.5,1.5,0.0,0.0,6
 3113,Veľká Javorina,Europe,Slovakia,nan,90.0,1.5,1.2,0.3,0.0,4
@@ -3223,7 +3223,7 @@
 3220,Koshi Kogen,Asia,Japan,2.4,104.0,1.4,0.8,0.5,0.1,nan
 3220,Maeyama,Asia,Japan,2.4,nan,1.4,0.7,0.4,0.3,nan
 3220,Bistrița,Europe,Romania,2.4,256.0,1.4,1.1,0.3,0.0,nan
-3220,Armkhi,Europe,North Caucasus,2.4,250.0,1.4,0.2,1.2,0.0,2
+3220,Armkhi,Europe,Russia,2.4,250.0,1.4,0.2,1.2,0.0,2
 3220,Maple Ski Ridge,North America,USA,2.4,86.0,1.4,0.3,0.8,0.3,4
 3220,Nemira – Slănic-Moldova,Europe,Romania,2.4,240.0,1.4,1.4,0.0,0.0,nan
 3220,Magura Skipark – Malastow,Europe,Poland,2.4,260.0,1.4,0.0,1.4,0.0,nan
@@ -3258,7 +3258,7 @@
 3220,Little Ski Hill,North America,USA,2.2,120.0,1.4,1.4,0.0,0.0,nan
 3220,Sachrovka,Europe,Czech Republic,2.2,100.0,1.4,1.4,0.0,0.0,nan
 3220,Compedal – Assling,Europe,Austria,2.2,365.0,1.4,0.0,1.4,0.0,nan
-3220,Pidan Sikhote – Lukyanovka,Asia,Far Eastern Federal District,2.2,343.0,1.4,0.0,1.4,0.0,nan
+3220,Pidan Sikhote – Lukyanovka,Asia,Russia,2.2,343.0,1.4,0.0,1.4,0.0,nan
 3220,Vyshka,Europe,Ukraine,2.2,95.0,1.4,1.4,0.0,0.0,nan
 3220,Bobliwo,Europe,Poland,2.2,55.0,1.4,1.4,0.0,0.0,nan
 3220,Mont Gibloux,Europe,Switzerland,2.2,187.0,1.4,1.0,0.4,0.0,2
@@ -3266,7 +3266,7 @@
 3220,Hochplett – Oberaschau,Europe,Austria,2.2,109.0,1.4,1.4,0.0,0.0,3
 3220,Hoforsbacken,Europe,Sweden,2.2,89.0,1.4,1.0,0.4,0.0,2
 3220,Hranice – Boží Dar,Europe,Czech Republic,2.1,47.0,1.4,1.4,0.0,0.0,4
-3220,Hillpark,Europe,Central Russia,2.1,29.0,1.4,1.4,0.0,0.0,3
+3220,Hillpark,Europe,Russia,2.1,29.0,1.4,1.4,0.0,0.0,3
 3220,Niestachów,Europe,Poland,2.1,75.0,1.4,1.4,0.0,0.0,5
 3220,Hoher Meissner – Eschwege/Hessisch Lichtenau,Europe,Germany,2.1,130.0,1.4,1.4,0.0,0.0,2
 3220,Mulligan's Hollow Ski Bowl,North America,USA,2.1,45.0,1.4,0.4,0.6,0.4,5
@@ -3336,9 +3336,9 @@
 3328,Hyland Hills,North America,USA,2.4,50.0,1.2,0.6,0.4,0.2,5
 3328,Heihe Longzhu Yuandong,Asia,China,2.4,70.0,1.2,0.8,0.4,0.0,2
 3328,Heiliger Huegel – Hubertus,North America,USA,2.4,77.0,1.2,0.6,0.4,0.2,2
-3328,Chechnya (dry slopes),Europe,North Caucasus,2.4,nan,1.2,1.2,0.0,0.0,nan
+3328,Chechnya (dry slopes),Europe,Russia,2.4,nan,1.2,1.2,0.0,0.0,nan
 3328,Luka nad Jihlavou,Europe,Czech Republic,2.4,95.0,1.2,0.6,0.6,0.0,2
-3328,Veduchi,Europe,North Caucasus,2.4,196.0,1.2,1.2,0.0,0.0,2
+3328,Veduchi,Europe,Russia,2.4,196.0,1.2,1.2,0.0,0.0,2
 3328,Munakas – Nüpli (Otepää),Europe,Estonia,2.3,70.0,1.2,0.9,0.0,0.3,2
 3328,Kopanki Pelister,Europe,North Macedonia,2.3,355.0,1.2,0.6,0.6,0.0,2
 3328,Góra Kamieńsk,Europe,Poland,2.3,115.0,1.2,0.6,0.6,0.0,3
@@ -3358,7 +3358,7 @@
 3328,Pichl (Gsies),Europe,Italy,2.2,168.0,1.2,0.8,0.0,0.4,nan
 3328,Cisowa,Europe,Poland,2.2,60.0,1.2,0.7,0.5,0.0,nan
 3328,Wurmsteinlift – Flossenbürg,Europe,Germany,2.2,116.0,1.2,0.7,0.5,0.0,nan
-3328,Kurtyayevo – Olimp,Europe,Northwest Russia,2.2,51.0,1.2,0.4,0.8,0.0,nan
+3328,Kurtyayevo – Olimp,Europe,Russia,2.2,51.0,1.2,0.4,0.8,0.0,nan
 3328,Mont Villa Saguenay,North America,Canada,2.2,54.0,1.2,0.9,0.3,0.0,2
 3328,Whitetail Ridge – Fort McCoy,North America,USA,2.2,51.0,1.2,0.7,0.5,0.0,nan
 3328,Szus – Koniaków,Europe,Poland,2.2,80.0,1.2,0.7,0.5,0.0,nan
@@ -3366,18 +3366,18 @@
 3328,Hohe Acht – Jammelshofen (Kaltenborn),Europe,Germany,2.2,70.0,1.2,0.8,0.4,0.0,2
 3328,Szymkówka,Europe,Poland,2.2,126.0,1.2,0.8,0.4,0.0,2
 3328,Sägenhof – Urach,Europe,Germany,2.2,140.0,1.2,0.6,0.6,0.0,nan
-3328,Mechka,Europe,Northwest Russia,2.2,22.0,1.2,0.7,0.5,0.0,3
+3328,Mechka,Europe,Russia,2.2,22.0,1.2,0.7,0.5,0.0,3
 3328,Weardale Ski Club,Europe,United Kingdom,2.2,100.0,1.2,1.0,0.2,0.0,2
 3328,Monte Corno – Lusiana,Europe,Italy,2.2,140.0,1.2,0.7,0.5,0.0,nan
 3328,Icoana – Cavnic‎,Europe,Romania,2.2,140.0,1.2,1.0,0.2,0.0,2
 3328,Biocel Zlatník,Europe,Czech Republic,2.2,80.0,1.2,0.3,0.9,0.0,3
-3328,Avalman – Barnaul,Asia,Siberia,2.2,73.0,1.2,0.8,0.4,0.0,4
+3328,Avalman – Barnaul,Asia,Russia,2.2,73.0,1.2,0.8,0.4,0.0,4
 3328,Rąblów,Europe,Poland,2.2,55.0,1.2,0.5,0.7,0.0,5
 3328,Kaustinen  (temporarily closed),Europe,Finland,2.2,30.0,1.2,1.0,0.2,0.0,3
 3328,Klepáčov,Europe,Czech Republic,2.2,120.0,1.2,0.3,0.9,0.0,5
 3328,Vučje,Europe,Montenegro,2.2,160.0,1.2,0.2,1.0,0.0,3
 3328,Le Monty – Lierneux,Europe,Belgium,2.2,73.0,1.2,1.2,0.0,0.0,2
-3328,Mishina Gora – Belokurikha,Asia,Siberia,2.2,240.0,1.2,0.2,1.0,0.0,2
+3328,Mishina Gora – Belokurikha,Asia,Russia,2.2,240.0,1.2,0.2,1.0,0.0,2
 3328,Péra – Trun,Europe,Switzerland,2.2,120.0,1.2,1.2,0.0,0.0,nan
 3328,Tesák,Europe,Czech Republic,2.2,40.0,1.2,1.2,0.0,0.0,2
 3328,Ramsele,Europe,Sweden,2.2,80.0,1.2,1.2,0.0,0.0,nan
@@ -3417,7 +3417,7 @@
 3328,Lučivná Snowpark,Europe,Slovakia,nan,110.0,1.2,0.1,1.1,0.0,3
 3328,Jurasówka – Siemiechów,Europe,Poland,nan,50.0,1.2,0.2,1.0,0.0,2
 3328,Chokai Okojoland  (temporarily closed),Asia,Japan,nan,142.0,1.2,0.7,0.5,0.0,nan
-3328,Chylkovo,Europe,Central Russia,2.1,75.0,1.2,0.7,0.5,0.0,4
+3328,Chylkovo,Europe,Russia,2.1,75.0,1.2,0.7,0.5,0.0,4
 3328,Challenge Mountain – Walloon Lake,North America,USA,2.1,104.0,1.2,0.9,0.3,0.0,nan
 3328,Krušetnica,Europe,Slovakia,nan,150.0,1.2,0.8,0.4,0.0,2
 3328,Mt. Eustis – Littleton  (temporarily closed),North America,USA,2.1,85.0,1.2,0.5,0.7,0.0,nan
@@ -3427,12 +3427,12 @@
 3328,Shanghai Snow World,Asia,China,nan,nan,1.2,1.2,0.0,0.0,nan
 3427,Ichinose Diamond,Asia,Japan,2.6,105.0,1.1,1.1,0.0,0.0,2
 3427,Asahi,Asia,Japan,2.4,120.0,1.1,0.6,0.5,0.0,nan
-3427,Kandry-Kul,Europe,Volga Federal District,2.4,76.0,1.1,0.9,0.2,0.0,nan
+3427,Kandry-Kul,Europe,Russia,2.4,76.0,1.1,0.9,0.2,0.0,nan
 3427,Poniwiec,Europe,Poland,2.4,250.0,1.1,0.2,0.9,0.0,2
 3427,Prislop – Borșa,Europe,Romania,2.4,174.0,1.1,1.1,0.0,0.0,nan
 3427,Văliug – Casa Baraj,Europe,Romania,2.4,122.0,1.1,0.8,0.0,0.3,2
 3427,Monte Purito – Selvino,Europe,Italy,2.3,165.0,1.1,0.1,1.0,0.0,3
-3427,Malinovka,Europe,Northwest Russia,2.3,96.0,1.1,1.1,0.0,0.0,2
+3427,Malinovka,Europe,Russia,2.3,96.0,1.1,1.1,0.0,0.0,2
 3427,Winter Park – Kewaunee County,North America,USA,2.2,41.0,1.1,0.5,0.5,0.1,nan
 3427,Shirbad,Asia,Iran,2.2,200.0,1.1,0.6,0.3,0.2,nan
 3427,Kniplia – Gjerdrum,Europe,Norway,2.2,82.0,1.1,0.7,0.4,0.0,nan
@@ -3468,7 +3468,7 @@
 3427,Kokuszka,Europe,Poland,2.2,140.0,1.1,0.5,0.6,0.0,2
 3427,Misinatető (Pécs),Europe,Hungary,2.2,130.0,1.1,0.0,1.1,0.0,nan
 3427,Gamlestølen – Jomfruslettbakken,Europe,Norway,2.2,104.0,1.1,1.1,0.0,0.0,nan
-3427,Tsentrosoyuz,Asia,Siberia,2.2,190.0,1.1,0.0,1.1,0.0,nan
+3427,Tsentrosoyuz,Asia,Russia,2.2,190.0,1.1,0.0,1.1,0.0,nan
 3427,Paczóltowice (Krakow Valley),Europe,Poland,2.2,60.0,1.1,1.1,0.0,0.0,3
 3427,Pridolci,Europe,Bosnia and Herzegovina,2.2,134.0,1.1,0.1,1.0,0.0,2
 3427,Stará Ves u Rýmařova,Europe,Czech Republic,2.2,90.0,1.1,1.1,0.0,0.0,2
@@ -3482,7 +3482,7 @@
 3427,Ellegglifte – Faistenoy (Oy-Mittelberg),Europe,Germany,2.1,62.0,1.1,1.1,0.0,0.0,2
 3427,Argental – Weitnau,Europe,Germany,2.1,120.0,1.1,1.1,0.0,0.0,2
 3427,Babica,Europe,Poland,2.1,70.0,1.1,1.1,0.0,0.0,3
-3427,S-Nezhnaya – Lukyanovka,Asia,Far Eastern Federal District,2.1,83.0,1.1,0.5,0.6,0.0,2
+3427,S-Nezhnaya – Lukyanovka,Asia,Russia,2.1,83.0,1.1,0.5,0.6,0.0,2
 3427,Cerro Wayle  (temporarily closed),South America,Argentina,nan,300.0,1.1,0.3,0.2,0.6,3
 3427,Nasu Onsen,Asia,Japan,nan,110.0,1.1,0.5,0.6,0.0,3
 3427,Imabetsu Choei,Asia,Japan,nan,119.0,1.1,0.6,0.5,0.0,nan
@@ -3569,7 +3569,7 @@
 3492,Bodental – Unterbergen (Ferlach),Europe,Austria,2.2,145.0,1.0,0.5,0.5,0.0,4
 3492,Razula,Europe,Czech Republic,2.2,202.0,1.0,0.2,0.8,0.0,3
 3492,Kareš,Europe,Czech Republic,2.2,95.0,1.0,0.3,0.7,0.0,4
-3492,Ak Yort – Ufa,Europe,Volga Federal District,2.2,80.0,1.0,0.7,0.3,0.0,3
+3492,Ak Yort – Ufa,Europe,Russia,2.2,80.0,1.0,0.7,0.3,0.0,3
 3492,Batorz,Europe,Poland,2.2,50.0,1.0,0.5,0.5,0.0,3
 3492,Kazkova Polyana,Europe,Ukraine,2.2,57.0,1.0,0.3,0.7,0.0,3
 3492,Heimenschwand – Buchholterberg,Europe,Switzerland,2.2,178.0,1.0,1.0,0.0,0.0,nan
@@ -3580,7 +3580,7 @@
 3492,Föhrlimatt – Wegenstetten,Europe,Switzerland,2.2,75.0,1.0,1.0,0.0,0.0,nan
 3492,Velflink – Pernink,Europe,Czech Republic,2.2,59.0,1.0,1.0,0.0,0.0,3
 3492,Hätzingen – Loh,Europe,Switzerland,2.2,86.0,1.0,1.0,0.0,0.0,nan
-3492,Alekseevka,Asia,Far Eastern Federal District,2.2,176.0,1.0,1.0,0.0,0.0,nan
+3492,Alekseevka,Asia,Russia,2.2,176.0,1.0,1.0,0.0,0.0,nan
 3492,Kleinlobming,Europe,Austria,2.2,236.0,1.0,0.2,0.8,0.0,2
 3492,Schwellbrunn,Europe,Switzerland,2.2,62.0,1.0,1.0,0.0,0.0,nan
 3492,Mt. Pisgah,North America,USA,2.2,87.0,1.0,1.0,0.0,0.0,nan
@@ -3649,203 +3649,203 @@
 3492,Krpáčovo,Europe,Slovakia,2.2,110.0,1.0,1.0,0.0,0.0,3
 3492,Bergwiese – Schwarzenbach am Wald,Europe,Germany,2.2,80.0,1.0,0.8,0.2,0.0,2
 3492,Tajov,Europe,Slovakia,2.2,100.0,1.0,1.0,0.0,0.0,3
-3492,Winterloch – Heigenbrücken,Europe,Germany,2.2,135.0,1.0,1.0,0.0,0.0,2
-3492,La Bonade – Grand Combe Chateleu (Val de Morteau),Europe,France,2.2,220.0,1.0,1.0,0.0,0.0,2
-3492,Nella – Bartošovice,Europe,Czech Republic,2.1,76.0,1.0,1.0,0.0,0.0,2
-3492,Lamm – Kniebis,Europe,Germany,2.1,40.0,1.0,1.0,0.0,0.0,2
-3492,Niedernsill,Europe,Austria,2.1,152.0,1.0,1.0,0.0,0.0,2
-3492,Wasen im Emmental,Europe,Switzerland,2.1,70.0,1.0,1.0,0.0,0.0,2
-3492,Kozara,Europe,Bosnia and Herzegovina,2.1,115.0,1.0,1.0,0.0,0.0,2
-3492,Ghöch,Europe,Switzerland,2.1,60.0,1.0,0.8,0.2,0.0,2
-3492,Basse Ruche,Europe,Switzerland,2.1,38.0,1.0,1.0,0.0,0.0,2
-3492,Planberg- and Wiesenlifte – Pertisau,Europe,Austria,2.1,91.0,1.0,0.4,0.6,0.0,4
-3492,Schwannerlift – Weerberg,Europe,Austria,2.1,100.0,1.0,1.0,0.0,0.0,2
-3492,Orawka – Jabłonka,Europe,Poland,2.1,65.0,1.0,1.0,0.0,0.0,2
-3492,Fajtův kopec – Velké Meziříčí,Europe,Czech Republic,2.1,67.0,1.0,1.0,0.0,0.0,2
-3492,Veterans Memorial – Franklin,North America,USA,2.1,69.0,1.0,0.6,0.4,0.0,2
-3492,Pokljuka – Goreljek,Europe,Slovenia,2.1,47.0,1.0,1.0,0.0,0.0,3
-3492,Bialy Potok,Europe,Poland,2.1,55.0,1.0,1.0,0.0,0.0,4
-3492,Schorschi-Lifte – St. Georgen am Walde,Europe,Austria,2.1,37.0,1.0,1.0,0.0,0.0,2
-3492,Hotz – Oberweng (Spital am Pyhrn),Europe,Austria,2.1,59.0,1.0,1.0,0.0,0.0,2
-3492,Passo Penice,Europe,Italy,2.1,72.0,1.0,1.0,0.0,0.0,2
-3492,Gwynne Valley,North America,Canada,2.1,26.0,1.0,0.7,0.3,0.0,2
-3492,Horní Vltavice,Europe,Czech Republic,2.1,110.0,1.0,0.8,0.2,0.0,3
-3492,Liebenau,Europe,Austria,2.1,64.0,1.0,1.0,0.0,0.0,2
-3492,Alpe di Neggia,Europe,Switzerland,2.1,200.0,1.0,1.0,0.0,0.0,2
-3492,Lajoux,Europe,France,2.1,63.0,1.0,1.0,0.0,0.0,3
-3492,Hart Highlands – Prince George,North America,Canada,2.1,40.0,1.0,1.0,0.0,0.0,3
-3492,La Goule/Mont Miroir – Maîche,Europe,France,2.1,84.0,1.0,1.0,0.0,0.0,2
-3492,Kronberg – Attergau,Europe,Austria,2.1,88.0,1.0,0.5,0.5,0.0,2
-3492,Realp,Europe,Switzerland,2.1,110.0,1.0,1.0,0.0,0.0,2
-3492,Sinswang (Oberstaufen),Europe,Germany,2.1,85.0,1.0,1.0,0.0,0.0,5
-3492,Bäretswil,Europe,Switzerland,2.1,110.0,1.0,1.0,0.0,0.0,3
-3492,La Pesse,Europe,France,2.1,41.0,1.0,1.0,0.0,0.0,2
-3492,Kuhberglifte – Lenzkirch-Saig,Europe,Germany,2.1,56.0,1.0,1.0,0.0,0.0,2
-3492,Benzeck – Blindau (Reit im Winkl),Europe,Germany,2.1,80.0,1.0,1.0,0.0,0.0,4
-3492,Hanson Hills,North America,USA,2.1,40.0,1.0,0.8,0.2,0.0,4
-3492,Brantling,North America,USA,2.1,70.0,1.0,0.7,0.3,0.0,4
-3492,Wissen,Europe,Germany,2.1,57.0,1.0,0.7,0.3,0.0,nan
-3492,Kirchberglifte – Kreuth,Europe,Germany,2.1,110.0,1.0,1.0,0.0,0.0,4
-3492,Auf der Rieder – Eschenlohe,Europe,Germany,2.1,50.0,1.0,0.5,0.2,0.3,nan
-3492,Fox Hill,North America,USA,2.1,69.0,1.0,0.5,0.3,0.2,4
-3492,Kirigamine,Asia,Japan,nan,50.0,1.0,0.5,0.4,0.1,2
-3492,Red Hill – Moultonborough,North America,USA,2.1,69.0,1.0,0.4,0.4,0.2,nan
-3492,Shirataka Choei,Asia,Japan,nan,107.0,1.0,0.2,0.4,0.4,nan
-3492,Ringo Kyowakoku,Asia,Japan,nan,80.0,1.0,0.5,0.4,0.1,nan
-3492,Kakisu Trase,Europe,Latvia,nan,nan,1.0,0.7,0.1,0.2,nan
-3492,Arft,Europe,Germany,2.1,55.0,1.0,0.5,0.5,0.0,2
-3492,Kettilsås,Europe,Sweden,nan,85.0,1.0,0.6,0.4,0.0,3
-3492,Kalhyttan/Dammshöjden – Filipstad,Europe,Sweden,nan,83.0,1.0,0.6,0.4,0.0,nan
-3492,Springe,Europe,Germany,2.1,98.0,1.0,0.3,0.7,0.0,3
-3492,Polaczkówka – Rabka-Zdroj  (temporarily closed),Europe,Poland,nan,130.0,1.0,0.6,0.4,0.0,2
-3492,Krasnaya Gorka – Podolsk,Europe,Central Russia,2.1,43.0,1.0,0.8,0.2,0.0,4
-3492,Ráztoka,Europe,Slovakia,nan,200.0,1.0,0.3,0.7,0.0,2
-3492,U Steni – Gliczarów Górny,Europe,Poland,nan,85.0,1.0,0.7,0.3,0.0,3
-3492,Siglany – Wisła,Europe,Poland,nan,100.0,1.0,0.9,0.1,0.0,2
-3492,Homôlka – Valaská Belá,Europe,Slovakia,nan,130.0,1.0,1.0,0.0,0.0,3
-3492,Osovje,Europe,Slovenia,2.0,82.0,1.0,0.0,1.0,0.0,nan
-3492,U Żura – Chabówka,Europe,Poland,nan,50.0,1.0,1.0,0.0,0.0,2
-3492,Four Lakes,North America,USA,2.0,20.0,1.0,1.0,0.0,0.0,7
-3492,Leavenworth Ski Hill,North America,USA,2.0,70.0,1.0,1.0,0.0,0.0,2
-3492,Powers Bluff,North America,USA,2.0,36.0,1.0,1.0,0.0,0.0,nan
-3492,Mönchdorf (Königswiesen),Europe,Austria,2.0,70.0,1.0,1.0,0.0,0.0,2
-3492,Middagsåsen Skisenter,Europe,Norway,nan,80.0,1.0,1.0,0.0,0.0,2
-3492,Yuzhno-Sakhalinsk,Asia,Far Eastern Federal District,nan,190.0,1.0,0.0,1.0,0.0,2
-3492,Kocián – Loucná nad Desnou,Europe,Czech Republic,nan,70.0,1.0,1.0,0.0,0.0,nan
-3492,Feleacu,Europe,Romania,nan,95.0,1.0,1.0,0.0,0.0,nan
-3492,Novo-Peredelkino – Moscow,Europe,Central Russia,nan,70.0,1.0,1.0,0.0,0.0,3
-3492,Valdelen,South America,Argentina,nan,150.0,1.0,1.0,0.0,0.0,4
-3492,Astenberg – Wiesing,Europe,Austria,2.0,25.0,1.0,1.0,0.0,0.0,nan
-3492,Zhdenievo,Europe,Ukraine,nan,150.0,1.0,1.0,0.0,0.0,nan
-3492,Allenheads,Europe,United Kingdom,2.0,115.0,1.0,1.0,0.0,0.0,2
-3492,Les Loges – La Vue des Alpes,Europe,Switzerland,2.0,25.0,1.0,1.0,0.0,0.0,2
-3492,Huacachina (sand ski area),South America,Peru,2.0,120.0,1.0,0.0,0.0,1.0,nan
-3492,Haugstein – Engelhartszell (planned),Europe,Austria,2.0,75.0,1.0,1.0,0.0,0.0,nan
-3492,Rahva – Bitlis,Asia,Turkey,nan,nan,1.0,1.0,0.0,0.0,2
-3492,Sapgör – Bitlis,Asia,Turkey,nan,nan,1.0,0.0,0.0,1.0,nan
-3492,The Little Star Ski Club – Moscow,Europe,Central Russia,nan,nan,1.0,1.0,0.0,0.0,nan
-3726,Hijiri Kogen,Asia,Japan,2.4,120.0,0.9,0.3,0.3,0.3,nan
-3726,Kutchancho Asahigaoka,Asia,Japan,2.4,95.0,0.9,0.5,0.3,0.1,nan
-3726,Tadami,Asia,Japan,2.3,150.0,0.9,0.3,0.6,0.0,nan
-3726,Fujisato Choei,Asia,Japan,2.3,100.0,0.9,0.5,0.4,0.0,nan
-3726,Hirogawara  (temporarily closed),Asia,Japan,2.3,94.0,0.9,0.9,0.0,0.0,nan
-3726,SNØ (indoor ski area),Europe,Norway,2.3,80.0,0.9,0.6,0.3,0.0,3
-3726,Siguldas Pilsētas,Europe,Latvia,2.2,83.0,0.9,0.6,0.3,0.0,4
-3726,Mount Martin – Deep River,North America,Canada,2.2,23.0,0.9,0.3,0.3,0.3,nan
-3726,Janova Hora,Europe,Czech Republic,2.1,146.0,0.9,0.4,0.5,0.0,2
-3726,Luisino Údolí,Europe,Czech Republic,2.1,110.0,0.9,0.4,0.5,0.0,2
-3726,Båsenbergabacken,Europe,Sweden,2.1,36.0,0.9,0.6,0.3,0.0,2
-3726,Skönviksbacken,Europe,Sweden,2.1,145.0,0.9,0.2,0.7,0.0,2
-3726,Gjøvik,Europe,Norway,2.1,87.0,0.9,0.5,0.4,0.0,nan
-3726,Lommedalen,Europe,Norway,2.1,147.0,0.9,0.2,0.7,0.0,2
-3726,Mezihoří,Europe,Czech Republic,2.1,83.0,0.9,0.5,0.4,0.0,2
-3726,Indian Lake,North America,USA,2.1,67.0,0.9,0.6,0.3,0.0,nan
-3726,Morávka Sviňorky  (temporarily closed),Europe,Czech Republic,2.1,158.0,0.9,0.3,0.6,0.0,nan
-3726,Peklák,Europe,Czech Republic,2.1,150.0,0.9,0.1,0.8,0.0,3
-3726,Parchatka,Europe,Poland,2.1,51.0,0.9,0.5,0.4,0.0,3
-3726,Ski Park Liptovská Teplička,Europe,Slovakia,2.1,101.0,0.9,0.4,0.5,0.0,3
-3726,Žiar – Dolinky,Europe,Slovakia,2.1,92.0,0.9,0.9,0.0,0.0,2
-3726,Kľačno,Europe,Slovakia,2.1,108.0,0.9,0.9,0.0,0.0,2
-3726,Murzasichle,Europe,Poland,2.1,50.0,0.9,0.9,0.0,0.0,7
-3726,Makovica – Nižná Polianka,Europe,Slovakia,2.1,190.0,0.9,0.0,0.9,0.0,nan
-3726,Ponijeri – Kakanj,Europe,Bosnia and Herzegovina,2.1,151.0,0.9,0.9,0.0,0.0,nan
-3726,Saualpe – Eberstein,Europe,Austria,2.1,110.0,0.9,0.9,0.0,0.0,nan
-3726,Alpalouka,Europe,Czech Republic,2.1,160.0,0.9,0.9,0.0,0.0,2
-3726,Vitberget – Skellefteå,Europe,Sweden,2.1,84.0,0.9,0.9,0.0,0.0,2
-3726,Granbergsbacken,Europe,Sweden,2.1,82.0,0.9,0.9,0.0,0.0,nan
-3726,Brandtner Lifte – Hartkirchen,Europe,Austria,2.1,74.0,0.9,0.5,0.4,0.0,2
-3726,Rejdová,Europe,Slovakia,2.1,175.0,0.9,0.9,0.0,0.0,3
-3726,Neukirchen (Lautertal),Europe,Germany,2.1,85.0,0.9,0.7,0.0,0.2,2
-3726,Rittenberg – Ferčekovce (Spišská Nová Ves),Europe,Slovakia,2.1,95.0,0.9,0.0,0.9,0.0,3
-3726,Rusava,Europe,Czech Republic,2.1,60.0,0.9,0.5,0.4,0.0,4
-3726,Chongqing Fairy Mountain,Asia,China,2.1,36.0,0.9,0.9,0.0,0.0,4
-3726,Chełmowa Góra – Krasnobród,Europe,Poland,2.1,70.0,0.9,0.9,0.0,0.0,nan
-3726,Pizzoferrato-Valle di Sole/Gamberale,Europe,Italy,2.1,75.0,0.9,0.9,0.0,0.0,nan
-3726,Kolcovo,Asia,Siberia,2.1,45.0,0.9,0.9,0.0,0.0,nan
-3726,Voevodyno,Europe,Ukraine,2.1,100.0,0.9,0.9,0.0,0.0,nan
-3726,Žari,Europe,Serbia,2.1,136.0,0.9,0.0,0.9,0.0,nan
-3726,Iset – Motaikha,Europe,Ural Federal District,2.1,102.0,0.9,0.9,0.0,0.0,nan
-3726,Karsee (Wangen im Allgäu),Europe,Germany,2.1,50.0,0.9,0.9,0.0,0.0,nan
-3726,Pardałówka Ugory – Zakopane,Europe,Poland,2.1,45.0,0.9,0.9,0.0,0.0,2
-3726,Javorník na Šumavě,Europe,Czech Republic,2.1,70.0,0.9,0.9,0.0,0.0,3
-3726,Glk Al'mir,Asia,Far Eastern Federal District,2.1,176.0,0.9,0.9,0.0,0.0,2
-3726,Pozděchov,Europe,Czech Republic,2.1,83.0,0.9,0.9,0.0,0.0,3
-3726,Kesselmannlifte – Faistenau,Europe,Austria,2.1,55.0,0.9,0.9,0.0,0.0,2
-3726,Sonnenlifts – Röfleuten (Pfronten),Europe,Germany,2.1,250.0,0.9,0.4,0.5,0.0,2
-3726,Louekallio,Europe,Finland,2.1,55.0,0.9,0.6,0.3,0.0,2
-3726,Klackbergsbacken,Europe,Sweden,2.1,70.0,0.9,0.9,0.0,0.0,2
-3726,Kempaland – Bukovec,Europe,Czech Republic,2.1,115.0,0.9,0.9,0.0,0.0,2
-3726,Mortos Kalns,Europe,Lithuania,2.1,47.0,0.9,0.3,0.4,0.2,4
-3726,Breitnau,Europe,Germany,2.1,69.0,0.9,0.9,0.0,0.0,2
-3726,Xindu (dry slopes),Asia,China,nan,27.0,0.9,0.4,0.4,0.1,nan
-3726,Nishine Choeishigarai,Asia,Japan,nan,85.0,0.9,0.7,0.2,0.0,3
-3726,Sahalie Ski Club,North America,USA,2.0,55.0,0.9,0.7,0.2,0.0,2
-3726,Vilkaviškis  (temporarily closed),Europe,Lithuania,nan,45.0,0.9,0.3,0.6,0.0,3
-3726,Ski Ivan – Kupres,Europe,Bosnia and Herzegovina,2.0,38.0,0.9,0.9,0.0,0.0,nan
-3726,Standing Rocks,North America,USA,2.0,37.0,0.9,0.9,0.0,0.0,3
-3726,Ski Land Stará Myjava,Europe,Slovakia,nan,90.0,0.9,0.9,0.0,0.0,3
-3726,Ödengrub – Kemnath bei Fuhrn/Schwarzenfeld,Europe,Germany,2.0,57.0,0.9,0.9,0.0,0.0,2
-3726,Javorovača  (temporarily closed),Europe,Montenegro,nan,60.0,0.9,0.9,0.0,0.0,2
-3726,Unisław,Europe,Poland,nan,25.0,0.9,0.9,0.0,0.0,3
-3726,Palenica – Ustrón  (temporarily closed),Europe,Poland,nan,232.0,0.9,0.0,0.9,0.0,nan
-3790,Wittenburg (alpincenter Hamburg-Wittenburg) (indoor ski area),Europe,Germany,3.1,56.0,0.8,0.5,0.2,0.1,3
-3790,Sahnehang,Europe,Germany,2.6,56.0,0.8,0.8,0.0,0.0,2
-3790,Klausenlift – Mehlmeisel,Europe,Germany,2.5,150.0,0.8,0.1,0.7,0.0,5
-3790,Nakazato Snow Wood,Asia,Japan,2.3,167.0,0.8,0.5,0.3,0.0,2
-3790,Popovy Dol – Tryokhgorny,Europe,Ural Federal District,2.3,95.0,0.8,0.4,0.4,0.0,nan
-3790,Yokomuki Onsen,Asia,Japan,2.3,63.0,0.8,0.5,0.3,0.0,nan
-3790,Dębowiec – Bielsko-Biała,Europe,Poland,2.3,105.0,0.8,0.8,0.0,0.0,2
-3790,Im Salzwinkel – Zainingen (Römerstein)  (temporarily closed),Europe,Germany,2.3,60.0,0.8,0.8,0.0,0.0,3
-3790,Fallbachhang – Oberhof,Europe,Germany,2.3,117.0,0.8,0.8,0.0,0.0,2
-3790,Zlatar,Europe,Serbia,2.3,216.0,0.8,0.8,0.0,0.0,2
-3790,Four Seasons,North America,USA,2.3,25.0,0.8,0.4,0.4,0.0,2
-3790,Navarino Hills  (temporarily closed),North America,USA,2.2,30.0,0.8,0.5,0.3,0.0,4
-3790,Spring Hill Winter Park,North America,Canada,2.2,45.0,0.8,0.8,0.0,0.0,3
-3790,Böttental – Mehrstetten,Europe,Germany,2.2,45.0,0.8,0.4,0.2,0.2,nan
-3790,Vuorenmaa,Europe,Finland,2.2,57.0,0.8,0.4,0.3,0.1,nan
-3790,Frankenlift – Wurzbach,Europe,Germany,2.1,70.0,0.8,0.5,0.3,0.0,nan
-3790,Talma,Europe,Finland,2.1,35.0,0.8,0.5,0.3,0.0,5
-3790,Lucifer – Josefův Důl,Europe,Czech Republic,2.1,137.0,0.8,0.3,0.5,0.0,4
-3790,Schmiedhornlift – Wald (Faistenau),Europe,Austria,2.1,186.0,0.8,0.6,0.0,0.2,2
-3790,Beartown,North America,USA,2.1,41.0,0.8,0.5,0.3,0.0,2
-3790,Ingierkollen – Kolbotn,Europe,Norway,2.1,103.0,0.8,0.4,0.4,0.0,2
-3790,Hesselbacher Gletscher – Bad Laasphe,Europe,Germany,2.1,86.0,0.8,0.4,0.4,0.0,nan
-3790,Kohleck (Waldzell),Europe,Austria,2.1,85.0,0.8,0.5,0.3,0.0,nan
-3790,Kordes,Europe,Latvia,2.1,84.0,0.8,0.2,0.3,0.3,2
-3790,Ski-Club Rhön Fulda – Schwedenschanze (Simmelsberg),Europe,Germany,2.1,79.0,0.8,0.5,0.3,0.0,nan
-3790,Kalitos Kalnas – Anykščiai,Europe,Lithuania,2.1,36.0,0.8,0.5,0.3,0.0,5
-3790,Kiev – Protasov yar,Europe,Ukraine,2.1,38.0,0.8,0.5,0.3,0.0,2
-3790,Siepraw,Europe,Poland,2.1,50.0,0.8,0.6,0.2,0.0,5
-3790,Jannebacken – Stugun,Europe,Sweden,2.1,100.0,0.8,0.5,0.3,0.0,nan
-3790,Schönheide – Stützengrün,Europe,Germany,2.1,53.0,0.8,0.5,0.3,0.0,nan
-3790,Quoggy Jo Ski Center – Presque Isle,North America,USA,2.1,58.0,0.8,0.8,0.0,0.0,nan
-3790,Terenten (Terento),Europe,Italy,2.1,169.0,0.8,0.8,0.0,0.0,nan
-3790,Val-d'Or,North America,Canada,2.1,18.0,0.8,0.8,0.0,0.0,nan
-3790,Montagna Grande di Viggiano,Europe,Italy,2.1,107.0,0.8,0.8,0.0,0.0,2
-3790,Černá Voda,Europe,Czech Republic,2.1,88.0,0.8,0.8,0.0,0.0,nan
-3790,Jezerné – Tabačka,Europe,Czech Republic,2.1,70.0,0.8,0.8,0.0,0.0,nan
-3790,Sauris di Sotto,Europe,Italy,2.1,118.0,0.8,0.8,0.0,0.0,2
-3790,Äänemäki – Äänekoski,Europe,Finland,2.1,65.0,0.8,0.2,0.6,0.0,2
-3790,Sisorarfiit – Nuuk,North America,Greenland,2.1,127.0,0.8,0.8,0.0,0.0,3
-3790,Tørudbakken – Brumunddal,Europe,Norway,2.1,98.0,0.8,0.8,0.0,0.0,nan
-3790,Winterberglifte – Schonach im Schwarzwald,Europe,Germany,2.1,100.0,0.8,0.8,0.0,0.0,nan
-3790,Wolfsberglift – Siegsdorf,Europe,Germany,2.1,131.0,0.8,0.8,0.0,0.0,nan
-3790,Koldemoåsen,Europe,Sweden,2.1,122.0,0.8,0.8,0.0,0.0,2
-3790,Rohrhardsberg – Schonach,Europe,Germany,2.1,155.0,0.8,0.0,0.8,0.0,nan
-3790,Karasjok,Europe,Norway,2.1,131.0,0.8,0.8,0.0,0.0,nan
-3790,Litsbacken,Europe,Sweden,2.1,120.0,0.8,0.8,0.0,0.0,nan
-3790,Chmelná,Europe,Czech Republic,2.1,58.0,0.8,0.8,0.0,0.0,nan
-3790,Grainet – Haidel,Europe,Germany,2.1,94.0,0.8,0.0,0.8,0.0,nan
-3790,Wildstättlift – Wattenberg,Europe,Austria,2.1,117.0,0.8,0.8,0.0,0.0,nan
-3790,Birkenlift,Europe,Austria,2.1,47.0,0.8,0.8,0.0,0.0,4
-3790,Zuflucht (Baiersbronn),Europe,Germany,2.1,70.0,0.8,0.8,0.0,0.0,nan
-3790,Brandlwiese – Kaumberg,Europe,Austria,2.1,70.0,0.8,0.8,0.0,0.0,nan
-3790,Taisten (Tesido),Europe,Italy,2.1,168.0,0.8,0.8,0.0,0.0,nan
-3790,Pianeta Neve – Piamprato/Valprato Soana,Europe,Italy,2.1,88.0,0.8,0.8,0.0,0.0,2
-3790,Torfhauslifte – Altenau,Europe,Germany,2.1,80.0,0.8,0.8,0.0,0.0,nan
-3790,Toko Land – Biały Dunajec,Europe,Poland,2.1,116.0,0.8,0.8,0.0,0.0,2
-3790,Kleingladenbach,Europe,Germany,2.1,180.0,0.8,0.1,0.7,0.0,2
-3790,Grenchenberg – Grenchen,Europe,Switzerland,2.1,110.0,0.8,0.8,0.0,0.0,2
-3790,Dalseter – Espedalen,Europe,Norway,2.1,140.0,0.8,0.8,0.0,0.0,nan
-3790,Gähwil,Europe,Switzerland,2.1,145.0,0.8,0.8,0.0,0.0,nan
-3790,Saporo – Kraslice,Europe,Czech Republic,2.1,150.0,0.8,0.8,0.0,0.0,nan
+3491,La Bonade – Grand Combe Chateleu (Val de Morteau),Europe,France,2.2,220.0,1.0,1.0,0.0,0.0,2
+3491,Nella – Bartošovice,Europe,Czech Republic,2.1,76.0,1.0,1.0,0.0,0.0,2
+3491,Ghöch,Europe,Switzerland,2.1,60.0,1.0,0.8,0.2,0.0,2
+3491,Wasen im Emmental,Europe,Switzerland,2.1,70.0,1.0,1.0,0.0,0.0,2
+3491,Kozara,Europe,Bosnia and Herzegovina,2.1,115.0,1.0,1.0,0.0,0.0,2
+3491,Niedernsill,Europe,Austria,2.1,152.0,1.0,1.0,0.0,0.0,2
+3491,Basse Ruche,Europe,Switzerland,2.1,38.0,1.0,1.0,0.0,0.0,2
+3491,Schwannerlift – Weerberg,Europe,Austria,2.1,100.0,1.0,1.0,0.0,0.0,2
+3491,Planberg- and Wiesenlifte – Pertisau,Europe,Austria,2.1,91.0,1.0,0.4,0.6,0.0,4
+3491,Lamm – Kniebis,Europe,Germany,2.1,40.0,1.0,1.0,0.0,0.0,2
+3491,Fajtův kopec – Velké Meziříčí,Europe,Czech Republic,2.1,67.0,1.0,1.0,0.0,0.0,2
+3491,Orawka – Jabłonka,Europe,Poland,2.1,65.0,1.0,1.0,0.0,0.0,2
+3491,Pokljuka – Goreljek,Europe,Slovenia,2.1,47.0,1.0,1.0,0.0,0.0,3
+3491,Veterans Memorial – Franklin,North America,USA,2.1,69.0,1.0,0.6,0.4,0.0,2
+3491,Bialy Potok,Europe,Poland,2.1,55.0,1.0,1.0,0.0,0.0,4
+3491,Liebenau,Europe,Austria,2.1,64.0,1.0,1.0,0.0,0.0,2
+3491,Horní Vltavice,Europe,Czech Republic,2.1,110.0,1.0,0.8,0.2,0.0,3
+3491,Hotz – Oberweng (Spital am Pyhrn),Europe,Austria,2.1,59.0,1.0,1.0,0.0,0.0,2
+3491,Schorschi-Lifte – St. Georgen am Walde,Europe,Austria,2.1,37.0,1.0,1.0,0.0,0.0,2
+3491,Passo Penice,Europe,Italy,2.1,72.0,1.0,1.0,0.0,0.0,2
+3491,Alpe di Neggia,Europe,Switzerland,2.1,200.0,1.0,1.0,0.0,0.0,2
+3491,Gwynne Valley,North America,Canada,2.1,26.0,1.0,0.7,0.3,0.0,2
+3491,La Goule/Mont Miroir – Maîche,Europe,France,2.1,84.0,1.0,1.0,0.0,0.0,2
+3491,Lajoux,Europe,France,2.1,63.0,1.0,1.0,0.0,0.0,3
+3491,Hart Highlands – Prince George,North America,Canada,2.1,40.0,1.0,1.0,0.0,0.0,3
+3491,Bäretswil,Europe,Switzerland,2.1,110.0,1.0,1.0,0.0,0.0,3
+3491,Kronberg – Attergau,Europe,Austria,2.1,88.0,1.0,0.5,0.5,0.0,2
+3491,Realp,Europe,Switzerland,2.1,110.0,1.0,1.0,0.0,0.0,2
+3491,Sinswang (Oberstaufen),Europe,Germany,2.1,85.0,1.0,1.0,0.0,0.0,5
+3491,La Pesse,Europe,France,2.1,41.0,1.0,1.0,0.0,0.0,2
+3491,Hanson Hills,North America,USA,2.1,40.0,1.0,0.8,0.2,0.0,4
+3491,Kuhberglifte – Lenzkirch-Saig,Europe,Germany,2.1,56.0,1.0,1.0,0.0,0.0,2
+3491,Benzeck – Blindau (Reit im Winkl),Europe,Germany,2.1,80.0,1.0,1.0,0.0,0.0,4
+3491,Brantling,North America,USA,2.1,70.0,1.0,0.7,0.3,0.0,4
+3491,Wissen,Europe,Germany,2.1,57.0,1.0,0.7,0.3,0.0,nan
+3491,Kirchberglifte – Kreuth,Europe,Germany,2.1,110.0,1.0,1.0,0.0,0.0,4
+3491,Auf der Rieder – Eschenlohe,Europe,Germany,2.1,50.0,1.0,0.5,0.2,0.3,nan
+3491,Shirataka Choei,Asia,Japan,nan,107.0,1.0,0.2,0.4,0.4,nan
+3491,Fox Hill,North America,USA,2.1,69.0,1.0,0.5,0.3,0.2,4
+3491,Red Hill – Moultonborough,North America,USA,2.1,69.0,1.0,0.4,0.4,0.2,nan
+3491,Ringo Kyowakoku,Asia,Japan,nan,80.0,1.0,0.5,0.4,0.1,nan
+3491,Kirigamine,Asia,Japan,nan,50.0,1.0,0.5,0.4,0.1,2
+3491,Kakisu Trase,Europe,Latvia,nan,nan,1.0,0.7,0.1,0.2,nan
+3491,Kettilsås,Europe,Sweden,nan,85.0,1.0,0.6,0.4,0.0,3
+3491,Arft,Europe,Germany,2.1,55.0,1.0,0.5,0.5,0.0,2
+3491,Siglany – Wisła,Europe,Poland,nan,100.0,1.0,0.9,0.1,0.0,2
+3491,Krasnaya Gorka – Podolsk,Europe,Russia,2.1,43.0,1.0,0.8,0.2,0.0,4
+3491,Kalhyttan/Dammshöjden – Filipstad,Europe,Sweden,nan,83.0,1.0,0.6,0.4,0.0,nan
+3491,Ráztoka,Europe,Slovakia,nan,200.0,1.0,0.3,0.7,0.0,2
+3491,U Steni – Gliczarów Górny,Europe,Poland,nan,85.0,1.0,0.7,0.3,0.0,3
+3491,Springe,Europe,Germany,2.1,98.0,1.0,0.3,0.7,0.0,3
+3491,Polaczkówka – Rabka-Zdroj  (temporarily closed),Europe,Poland,nan,130.0,1.0,0.6,0.4,0.0,2
+3491,U Żura – Chabówka,Europe,Poland,nan,50.0,1.0,1.0,0.0,0.0,2
+3491,Osovje,Europe,Slovenia,2.0,82.0,1.0,0.0,1.0,0.0,nan
+3491,Middagsåsen Skisenter,Europe,Norway,nan,80.0,1.0,1.0,0.0,0.0,2
+3491,Mönchdorf (Königswiesen),Europe,Austria,2.0,70.0,1.0,1.0,0.0,0.0,2
+3491,Powers Bluff,North America,USA,2.0,36.0,1.0,1.0,0.0,0.0,nan
+3491,Leavenworth Ski Hill,North America,USA,2.0,70.0,1.0,1.0,0.0,0.0,2
+3491,Four Lakes,North America,USA,2.0,20.0,1.0,1.0,0.0,0.0,7
+3491,Homôlka – Valaská Belá,Europe,Slovakia,nan,130.0,1.0,1.0,0.0,0.0,3
+3491,Zhdenievo,Europe,Ukraine,nan,150.0,1.0,1.0,0.0,0.0,nan
+3491,Allenheads,Europe,United Kingdom,2.0,115.0,1.0,1.0,0.0,0.0,2
+3491,Kocián – Loucná nad Desnou,Europe,Czech Republic,nan,70.0,1.0,1.0,0.0,0.0,nan
+3491,Feleacu,Europe,Romania,nan,95.0,1.0,1.0,0.0,0.0,nan
+3491,Valdelen,South America,Argentina,nan,150.0,1.0,1.0,0.0,0.0,4
+3491,Yuzhno-Sakhalinsk,Asia,Russia,nan,190.0,1.0,0.0,1.0,0.0,2
+3491,Les Loges – La Vue des Alpes,Europe,Switzerland,2.0,25.0,1.0,1.0,0.0,0.0,2
+3491,Astenberg – Wiesing,Europe,Austria,2.0,25.0,1.0,1.0,0.0,0.0,nan
+3491,Novo-Peredelkino – Moscow,Europe,Russia,nan,70.0,1.0,1.0,0.0,0.0,3
+3491,Sapgör – Bitlis,Asia,Turkey,nan,nan,1.0,0.0,0.0,1.0,nan
+3491,Haugstein – Engelhartszell (planned),Europe,Austria,2.0,75.0,1.0,1.0,0.0,0.0,nan
+3491,Rahva – Bitlis,Asia,Turkey,nan,nan,1.0,1.0,0.0,0.0,2
+3491,Huacachina (sand ski area),South America,Peru,2.0,120.0,1.0,0.0,0.0,1.0,nan
+3491,The Little Star Ski Club – Moscow,Europe,Russia,nan,nan,1.0,1.0,0.0,0.0,nan
+3725,Hijiri Kogen,Asia,Japan,2.4,120.0,0.9,0.3,0.3,0.3,nan
+3725,Kutchancho Asahigaoka,Asia,Japan,2.4,95.0,0.9,0.5,0.3,0.1,nan
+3725,Tadami,Asia,Japan,2.3,150.0,0.9,0.3,0.6,0.0,nan
+3725,Fujisato Choei,Asia,Japan,2.3,100.0,0.9,0.5,0.4,0.0,nan
+3725,Hirogawara  (temporarily closed),Asia,Japan,2.3,94.0,0.9,0.9,0.0,0.0,nan
+3725,SNØ (indoor ski area),Europe,Norway,2.3,80.0,0.9,0.6,0.3,0.0,3
+3725,Siguldas Pilsētas,Europe,Latvia,2.2,83.0,0.9,0.6,0.3,0.0,4
+3725,Mount Martin – Deep River,North America,Canada,2.2,23.0,0.9,0.3,0.3,0.3,nan
+3725,Gjøvik,Europe,Norway,2.1,87.0,0.9,0.5,0.4,0.0,nan
+3725,Skönviksbacken,Europe,Sweden,2.1,145.0,0.9,0.2,0.7,0.0,2
+3725,Janova Hora,Europe,Czech Republic,2.1,146.0,0.9,0.4,0.5,0.0,2
+3725,Lommedalen,Europe,Norway,2.1,147.0,0.9,0.2,0.7,0.0,2
+3725,Luisino Údolí,Europe,Czech Republic,2.1,110.0,0.9,0.4,0.5,0.0,2
+3725,Båsenbergabacken,Europe,Sweden,2.1,36.0,0.9,0.6,0.3,0.0,2
+3725,Mezihoří,Europe,Czech Republic,2.1,83.0,0.9,0.5,0.4,0.0,2
+3725,Indian Lake,North America,USA,2.1,67.0,0.9,0.6,0.3,0.0,nan
+3725,Morávka Sviňorky  (temporarily closed),Europe,Czech Republic,2.1,158.0,0.9,0.3,0.6,0.0,nan
+3725,Peklák,Europe,Czech Republic,2.1,150.0,0.9,0.1,0.8,0.0,3
+3725,Parchatka,Europe,Poland,2.1,51.0,0.9,0.5,0.4,0.0,3
+3725,Ponijeri – Kakanj,Europe,Bosnia and Herzegovina,2.1,151.0,0.9,0.9,0.0,0.0,nan
+3725,Kľačno,Europe,Slovakia,2.1,108.0,0.9,0.9,0.0,0.0,2
+3725,Žiar – Dolinky,Europe,Slovakia,2.1,92.0,0.9,0.9,0.0,0.0,2
+3725,Makovica – Nižná Polianka,Europe,Slovakia,2.1,190.0,0.9,0.0,0.9,0.0,nan
+3725,Ski Park Liptovská Teplička,Europe,Slovakia,2.1,101.0,0.9,0.4,0.5,0.0,3
+3725,Granbergsbacken,Europe,Sweden,2.1,82.0,0.9,0.9,0.0,0.0,nan
+3725,Saualpe – Eberstein,Europe,Austria,2.1,110.0,0.9,0.9,0.0,0.0,nan
+3725,Vitberget – Skellefteå,Europe,Sweden,2.1,84.0,0.9,0.9,0.0,0.0,2
+3725,Alpalouka,Europe,Czech Republic,2.1,160.0,0.9,0.9,0.0,0.0,2
+3725,Murzasichle,Europe,Poland,2.1,50.0,0.9,0.9,0.0,0.0,7
+3725,Karsee (Wangen im Allgäu),Europe,Germany,2.1,50.0,0.9,0.9,0.0,0.0,nan
+3725,Chongqing Fairy Mountain,Asia,China,2.1,36.0,0.9,0.9,0.0,0.0,4
+3725,Neukirchen (Lautertal),Europe,Germany,2.1,85.0,0.9,0.7,0.0,0.2,2
+3725,Voevodyno,Europe,Ukraine,2.1,100.0,0.9,0.9,0.0,0.0,nan
+3725,Iset – Motaikha,Europe,Russia,2.1,102.0,0.9,0.9,0.0,0.0,nan
+3725,Kolcovo,Asia,Russia,2.1,45.0,0.9,0.9,0.0,0.0,nan
+3725,Chełmowa Góra – Krasnobród,Europe,Poland,2.1,70.0,0.9,0.9,0.0,0.0,nan
+3725,Žari,Europe,Serbia,2.1,136.0,0.9,0.0,0.9,0.0,nan
+3725,Rusava,Europe,Czech Republic,2.1,60.0,0.9,0.5,0.4,0.0,4
+3725,Rittenberg – Ferčekovce (Spišská Nová Ves),Europe,Slovakia,2.1,95.0,0.9,0.0,0.9,0.0,3
+3725,Pizzoferrato-Valle di Sole/Gamberale,Europe,Italy,2.1,75.0,0.9,0.9,0.0,0.0,nan
+3725,Rejdová,Europe,Slovakia,2.1,175.0,0.9,0.9,0.0,0.0,3
+3725,Brandtner Lifte – Hartkirchen,Europe,Austria,2.1,74.0,0.9,0.5,0.4,0.0,2
+3725,Pardałówka Ugory – Zakopane,Europe,Poland,2.1,45.0,0.9,0.9,0.0,0.0,2
+3725,Javorník na Šumavě,Europe,Czech Republic,2.1,70.0,0.9,0.9,0.0,0.0,3
+3725,Glk Al'mir,Asia,Russia,2.1,176.0,0.9,0.9,0.0,0.0,2
+3725,Pozděchov,Europe,Czech Republic,2.1,83.0,0.9,0.9,0.0,0.0,3
+3725,Kesselmannlifte – Faistenau,Europe,Austria,2.1,55.0,0.9,0.9,0.0,0.0,2
+3725,Louekallio,Europe,Finland,2.1,55.0,0.9,0.6,0.3,0.0,2
+3725,Sonnenlifts – Röfleuten (Pfronten),Europe,Germany,2.1,250.0,0.9,0.4,0.5,0.0,2
+3725,Klackbergsbacken,Europe,Sweden,2.1,70.0,0.9,0.9,0.0,0.0,2
+3725,Kempaland – Bukovec,Europe,Czech Republic,2.1,115.0,0.9,0.9,0.0,0.0,2
+3725,Mortos Kalns,Europe,Lithuania,2.1,47.0,0.9,0.3,0.4,0.2,4
+3725,Breitnau,Europe,Germany,2.1,69.0,0.9,0.9,0.0,0.0,2
+3725,Xindu (dry slopes),Asia,China,nan,27.0,0.9,0.4,0.4,0.1,nan
+3725,Nishine Choeishigarai,Asia,Japan,nan,85.0,0.9,0.7,0.2,0.0,3
+3725,Sahalie Ski Club,North America,USA,2.0,55.0,0.9,0.7,0.2,0.0,2
+3725,Vilkaviškis  (temporarily closed),Europe,Lithuania,nan,45.0,0.9,0.3,0.6,0.0,3
+3725,Ski Ivan – Kupres,Europe,Bosnia and Herzegovina,2.0,38.0,0.9,0.9,0.0,0.0,nan
+3725,Ski Land Stará Myjava,Europe,Slovakia,nan,90.0,0.9,0.9,0.0,0.0,3
+3725,Standing Rocks,North America,USA,2.0,37.0,0.9,0.9,0.0,0.0,3
+3725,Ödengrub – Kemnath bei Fuhrn/Schwarzenfeld,Europe,Germany,2.0,57.0,0.9,0.9,0.0,0.0,2
+3725,Unisław,Europe,Poland,nan,25.0,0.9,0.9,0.0,0.0,3
+3725,Javorovača  (temporarily closed),Europe,Montenegro,nan,60.0,0.9,0.9,0.0,0.0,2
+3725,Palenica – Ustrón  (temporarily closed),Europe,Poland,nan,232.0,0.9,0.0,0.9,0.0,nan
+3789,Wittenburg (alpincenter Hamburg-Wittenburg) (indoor ski area),Europe,Germany,3.1,56.0,0.8,0.5,0.2,0.1,3
+3789,Sahnehang,Europe,Germany,2.6,56.0,0.8,0.8,0.0,0.0,2
+3789,Klausenlift – Mehlmeisel,Europe,Germany,2.5,150.0,0.8,0.1,0.7,0.0,5
+3789,Nakazato Snow Wood,Asia,Japan,2.3,167.0,0.8,0.5,0.3,0.0,2
+3789,Popovy Dol – Tryokhgorny,Europe,Russia,2.3,95.0,0.8,0.4,0.4,0.0,nan
+3789,Yokomuki Onsen,Asia,Japan,2.3,63.0,0.8,0.5,0.3,0.0,nan
+3789,Dębowiec – Bielsko-Biała,Europe,Poland,2.3,105.0,0.8,0.8,0.0,0.0,2
+3789,Im Salzwinkel – Zainingen (Römerstein)  (temporarily closed),Europe,Germany,2.3,60.0,0.8,0.8,0.0,0.0,3
+3789,Fallbachhang – Oberhof,Europe,Germany,2.3,117.0,0.8,0.8,0.0,0.0,2
+3789,Zlatar,Europe,Serbia,2.3,216.0,0.8,0.8,0.0,0.0,2
+3789,Four Seasons,North America,USA,2.3,25.0,0.8,0.4,0.4,0.0,2
+3789,Navarino Hills  (temporarily closed),North America,USA,2.2,30.0,0.8,0.5,0.3,0.0,4
+3789,Spring Hill Winter Park,North America,Canada,2.2,45.0,0.8,0.8,0.0,0.0,3
+3789,Böttental – Mehrstetten,Europe,Germany,2.2,45.0,0.8,0.4,0.2,0.2,nan
+3789,Vuorenmaa,Europe,Finland,2.2,57.0,0.8,0.4,0.3,0.1,nan
+3789,Beartown,North America,USA,2.1,41.0,0.8,0.5,0.3,0.0,2
+3789,Lucifer – Josefův Důl,Europe,Czech Republic,2.1,137.0,0.8,0.3,0.5,0.0,4
+3789,Schmiedhornlift – Wald (Faistenau),Europe,Austria,2.1,186.0,0.8,0.6,0.0,0.2,2
+3789,Ingierkollen – Kolbotn,Europe,Norway,2.1,103.0,0.8,0.4,0.4,0.0,2
+3789,Frankenlift – Wurzbach,Europe,Germany,2.1,70.0,0.8,0.5,0.3,0.0,nan
+3789,Talma,Europe,Finland,2.1,35.0,0.8,0.5,0.3,0.0,5
+3789,Hesselbacher Gletscher – Bad Laasphe,Europe,Germany,2.1,86.0,0.8,0.4,0.4,0.0,nan
+3789,Jannebacken – Stugun,Europe,Sweden,2.1,100.0,0.8,0.5,0.3,0.0,nan
+3789,Ski-Club Rhön Fulda – Schwedenschanze (Simmelsberg),Europe,Germany,2.1,79.0,0.8,0.5,0.3,0.0,nan
+3789,Kordes,Europe,Latvia,2.1,84.0,0.8,0.2,0.3,0.3,2
+3789,Kiev – Protasov yar,Europe,Ukraine,2.1,38.0,0.8,0.5,0.3,0.0,2
+3789,Schönheide – Stützengrün,Europe,Germany,2.1,53.0,0.8,0.5,0.3,0.0,nan
+3789,Kohleck (Waldzell),Europe,Austria,2.1,85.0,0.8,0.5,0.3,0.0,nan
+3789,Siepraw,Europe,Poland,2.1,50.0,0.8,0.6,0.2,0.0,5
+3789,Kalitos Kalnas – Anykščiai,Europe,Lithuania,2.1,36.0,0.8,0.5,0.3,0.0,5
+3789,Quoggy Jo Ski Center – Presque Isle,North America,USA,2.1,58.0,0.8,0.8,0.0,0.0,nan
+3789,Chmelná,Europe,Czech Republic,2.1,58.0,0.8,0.8,0.0,0.0,nan
+3789,Wolfsberglift – Siegsdorf,Europe,Germany,2.1,131.0,0.8,0.8,0.0,0.0,nan
+3789,Torfhauslifte – Altenau,Europe,Germany,2.1,80.0,0.8,0.8,0.0,0.0,nan
+3789,Sisorarfiit – Nuuk,North America,Greenland,2.1,127.0,0.8,0.8,0.0,0.0,3
+3789,Černá Voda,Europe,Czech Republic,2.1,88.0,0.8,0.8,0.0,0.0,nan
+3789,Zuflucht (Baiersbronn),Europe,Germany,2.1,70.0,0.8,0.8,0.0,0.0,nan
+3789,Terenten (Terento),Europe,Italy,2.1,169.0,0.8,0.8,0.0,0.0,nan
+3789,Toko Land – Biały Dunajec,Europe,Poland,2.1,116.0,0.8,0.8,0.0,0.0,2
+3789,Litsbacken,Europe,Sweden,2.1,120.0,0.8,0.8,0.0,0.0,nan
+3789,Dalseter – Espedalen,Europe,Norway,2.1,140.0,0.8,0.8,0.0,0.0,nan
+3789,Koldemoåsen,Europe,Sweden,2.1,122.0,0.8,0.8,0.0,0.0,2
+3789,Wildstättlift – Wattenberg,Europe,Austria,2.1,117.0,0.8,0.8,0.0,0.0,nan
+3789,Jezerné – Tabačka,Europe,Czech Republic,2.1,70.0,0.8,0.8,0.0,0.0,nan
+3789,Gähwil,Europe,Switzerland,2.1,145.0,0.8,0.8,0.0,0.0,nan
+3789,Grenchenberg – Grenchen,Europe,Switzerland,2.1,110.0,0.8,0.8,0.0,0.0,2
+3789,Grainet – Haidel,Europe,Germany,2.1,94.0,0.8,0.0,0.8,0.0,nan
+3789,Karasjok,Europe,Norway,2.1,131.0,0.8,0.8,0.0,0.0,nan
+3789,Rohrhardsberg – Schonach,Europe,Germany,2.1,155.0,0.8,0.0,0.8,0.0,nan
+3789,Val-d'Or,North America,Canada,2.1,18.0,0.8,0.8,0.0,0.0,nan
+3789,Sauris di Sotto,Europe,Italy,2.1,118.0,0.8,0.8,0.0,0.0,2
+3789,Brandlwiese – Kaumberg,Europe,Austria,2.1,70.0,0.8,0.8,0.0,0.0,nan
+3789,Winterberglifte – Schonach im Schwarzwald,Europe,Germany,2.1,100.0,0.8,0.8,0.0,0.0,nan
+3789,Montagna Grande di Viggiano,Europe,Italy,2.1,107.0,0.8,0.8,0.0,0.0,2
+3789,Pianeta Neve – Piamprato/Valprato Soana,Europe,Italy,2.1,88.0,0.8,0.8,0.0,0.0,2
+3789,Tørudbakken – Brumunddal,Europe,Norway,2.1,98.0,0.8,0.8,0.0,0.0,nan
+3789,Saporo – Kraslice,Europe,Czech Republic,2.1,150.0,0.8,0.8,0.0,0.0,nan
+3789,Äänemäki – Äänekoski,Europe,Finland,2.1,65.0,0.8,0.2,0.6,0.0,2
+3789,Birkenlift,Europe,Austria,2.1,47.0,0.8,0.8,0.0,0.0,4
+3789,Taisten (Tesido),Europe,Italy,2.1,168.0,0.8,0.8,0.0,0.0,nan
+3789,Kleingladenbach,Europe,Germany,2.1,180.0,0.8,0.1,0.7,0.0,2
+3789,Puijon Antikkala – Kuopio  (temporarily closed),Europe,Finland,2.1,88.0,0.8,0.8,0.0,0.0,nan
