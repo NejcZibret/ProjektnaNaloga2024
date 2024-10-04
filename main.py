@@ -9,9 +9,9 @@ import numpy as np
 
 
 
-# 1. DEL: REQUESTS
-# Pri prvem delu sem si pomagal z datoteko profesorja Pretnarja (orodja.py), s katero sem pridobil toliko strani, da sem dobil
-# podatke o 3050 smučiščih, če ti že niso bili predhodno pridobljeni.
+# 1. DEL: SHRANI
+# Pri prvem delu sem si pomagal z datoteko profesorja Matije Pretnarja orodja.py (uporabil jo je pri predmetu programiranje 1), s katero 
+# sem pridobil toliko strani, da sem dobil podatke o 3850 smučiščih, če ti že niso bili predhodno pridobljeni.
 
 
 def pripravi_imenik(ime_datoteke):
@@ -20,11 +20,12 @@ def pripravi_imenik(ime_datoteke):
     if imenik:
         os.makedirs(imenik, exist_ok=True)
         
+        
 def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
     '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom.'''
     try:
         print(f'Shranjujem {url} ...', end='')
-        sys.stdout.flush()
+        sys.stdout.flush()  # ukaz se takoj prikaže na konzoli 
         if os.path.isfile(ime_datoteke) and not vsili_prenos:
             print('Shranjeno že od prej!')
             return
@@ -40,7 +41,7 @@ def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
 
 
 def vsebina_datoteke(ime_datoteke):
-    '''Vrne niz z vsebino datoteke z danim imenom.'''
+    '''Prebere vsebino datoteke.'''
     with open(ime_datoteke, encoding='utf-8') as datoteka:
         return datoteka.read()
     
@@ -51,6 +52,7 @@ if not os.path.exists('smucisca'):
     
 
 for i in range(1, 21):
+    '''Sedaj uporabimo vse zgoraj, shranimo spletne strani v mapo smucisca.'''
     if i == 1:
         url = 'https://www.skiresort.info/ski-resorts/sorted/slope-length/'
     else:
@@ -65,7 +67,8 @@ for i in range(1, 21):
 
 
 # 2. DEL: FUNKCIJE Z UPORABO RE
-# Tukaj sem najprej poiskal blok ter znotraj bloka nato iskal podrobneje.
+# Tukaj sem najprej poiskal blok ter znotraj bloka nato iskal podrobneje vse podatke, ki sem jih želel zajeti pri moji analizi.
+# Tudi tu sem si pomagal s posnetki profesorja Pretnarja.
 
 
 # pomožna funkcija 1
@@ -85,8 +88,6 @@ def pocisti_celine_in_drzave(niz):
     pocisceno_ime = re.sub(r'\s+', ' ', pocisceno_ime)  
 
     return pocisceno_ime
-
-
 
 
 # blok smučišča
@@ -110,7 +111,7 @@ vzorec_smučišča = re.compile(
     r'<tbody>\s*<tr>.*?(<div class="rating-list js-star-ranking stars-middle".*?data-rank="(?P<ocena>\d(\.\d)?)".*?)?</tr>(\s*<tr>.*?<td><span>'
     r'(?P<visinska_razlika>\d+(\.\d)?) m</span>.*?</tr>)?.*?'
        
-    # dolžina prog in število
+    # dolžina prog in število žičnic
     r'<td>\s*<span\s*class="slopeinfoitem\s*'
     r'active">(?P<skupna_dolzina>\d+(\.\d+)?)\skm</span>.*?(<span class="slopeinfoitem blue">(?P<dolzina_modrih>\d+(\.\d+)?)\skm</span>.*?)?'
     r'(<span class="slopeinfoitem red">(?P<dolzina_rdecih>\d+(\.\d+)?)\skm</span>.*?)?'
