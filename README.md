@@ -15,7 +15,7 @@ Moja projektna naloga pri predmetu UVP, program finančna matematika, študijsko
 Ker je bilo nekaj smučišč, ki niso imela podanega katerega izmed podatkov, sem manjkajoče številske podatke nadomestil z 'NaN', če ni bilo podatka o državi pa sem dodelil vrednost 'no data'.
 
 # Navodila za uporabo
-Uporabnik si lahko ogleda analizo podatkov tako, da preprosto odpre dokument analiza.ipynb. Podatki so iz csv datoteke, ki je vključena v repozitorij. Analiza podatkov je predstavljena v Jupyter Notebook-u.
+Uporabnik si lahko ogleda analizo podatkov tako, da preprosto odpre dokument analiza.ipynb. Podatki so iz csv datoteke, ki je vključena v repozitorij. Analiza podatkov je predstavljena v Jupyter Notebook-u. Ta je sestavljen iz štirih sklopov. Vsak ima na začetku splošne podatke, nato pa še moje hipoteze. Te sem s pomočjo podatkov potrdil ali ovrgel.
 
 Če hoče uporabnik sam zagnati program, enostavno le zažene main.py. Ta bo najprej pobral spletne strani (v primeru, da te še niso), nato izluščil podatke s pomočjo regularnih izrazov in na koncu še vse skupaj zapisal v json in csv. Nato uporabnik požene še vse celice v datoteki analiza.ipynb.
 
