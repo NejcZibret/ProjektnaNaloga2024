@@ -1,8 +1,8 @@
 # PROJEKTNA NALOGA: SMUČIŠČA
 
+# Opis
 Avtor: Nejc Žibret
 
-# Opis
 Moja projektna naloga pri predmetu UVP, program finančna matematika, študijsko leto 2023/24, zajema dva dela: zajemanje podatkov in analizo podatkov o svetovnih smučiščih. Zanjo sem uporabil programski jezik Python, svoje podatke pa sem vzel iz spletne strani Skiresorts.info. Pobral sem podatke o 3850 smučiščih. Ostala smučišča se mi niso zdela analize vredna, ker so se mi zdela prekratka. Za vsako smučišče sem zajel:
 - podatek o njegovem položaju na lestvici velikosti smučišč,
 - ime smučišča,
