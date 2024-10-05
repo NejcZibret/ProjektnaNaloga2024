@@ -11,8 +11,9 @@ Moja projektna naloga pri predmetu UVP, program finančna matematika, študijsko
 - oceno,
 - višinsko razliko,
 - dolžine prog (skupno ter dolžine modrih, rdečih in črnih posamično),
-- skupno število žičnic.\n
-Ker je bilo nekaj smučišč, ki niso imela podanega katerega izmed podatkov, sem manjkajoče številske podatke nadomestil z 'NaN', če ni bilo podatka o državi pa sem dodelil vrednost 'no data'.
+- skupno število žičnic.
+
+Ker je bilo nekaj smučišč, ki niso imela podanega katerega izmed podatkov, sem manjkajoče številske podatke nadomestil z 'NaN', če ni bilo podatka o državi, pa sem dodelil vrednost 'no data'.
 
 # Navodila za uporabo
 Uporabnik si lahko ogleda analizo podatkov tako, da preprosto odpre dokument analiza.ipynb. Podatki so iz csv datoteke, ki je vključena v repozitorij. Analiza podatkov je predstavljena v Jupyter Notebook-u. Ta je sestavljen iz štirih sklopov. Vsak ima na začetku splošne podatke, nato pa še moje hipoteze. Te sem s pomočjo podatkov potrdil ali ovrgel.
