@@ -11,7 +11,7 @@ Moja projektna naloga pri predmetu UVP, program finančna matematika, študijsko
 - oceno,
 - višinsko razliko,
 - dolžine prog (skupno ter dolžine modrih, rdečih in črnih posamično),
-- skupno število žičnic.
+- skupno število žičnic.\n
 Ker je bilo nekaj smučišč, ki niso imela podanega katerega izmed podatkov, sem manjkajoče številske podatke nadomestil z 'NaN', če ni bilo podatka o državi pa sem dodelil vrednost 'no data'.
 
 # Navodila za uporabo
