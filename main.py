@@ -9,7 +9,7 @@ import numpy as np
 
 
 
-# 1. DEL: SHRANI
+# 1. DEL: HTML DATOTEKE
 # Pri prvem delu sem si pomagal z datoteko profesorja Matije Pretnarja orodja.py (uporabil jo je pri predmetu programiranje 1), s katero 
 # sem pridobil toliko strani, da sem dobil podatke o 3850 smučiščih, če ti že niso bili predhodno pridobljeni.
 
@@ -27,7 +27,7 @@ def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
         print(f'Shranjujem {url} ...', end='')
         sys.stdout.flush()  # ukaz se takoj prikaže na konzoli 
         if os.path.isfile(ime_datoteke) and not vsili_prenos:
-            print('Shranjeno že od prej!')
+            print(' Shranjeno že od prej!')
             return
         r = requests.get(url)
         r.raise_for_status()
@@ -37,7 +37,7 @@ def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
         pripravi_imenik(ime_datoteke)
         with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
             datoteka.write(r.text)
-            print('Shranjeno!')
+            print(' Shranjeno!')
 
 
 def vsebina_datoteke(ime_datoteke):
@@ -123,8 +123,8 @@ vzorec_smučišča = re.compile(
 
 # izločanje podatkov smučišča
 def izloci_podatke_smucisca(blok):
-    najdba = vzorec_smučišča.search(blok) # to je prvi match
-    smucisce = najdba.groupdict() # vrne slovar vseh vzorcev, poimenovanih zgoraj
+    najdba = vzorec_smučišča.search(blok) 
+    smucisce = najdba.groupdict() # vrne slovar vseh vzorcev, poimenovanih v regularnih izrazih zgoraj
     
     smucisce['mesto_po_velikosti'] = int(smucisce['mesto_po_velikosti'])
     smucisce['ime'] = pocisti_imena_smucisc(smucisce['ime'])
@@ -151,12 +151,12 @@ def izloci_podatke_smucisca(blok):
 # izločanje vseh smučišč s strani
 def izloci_vsa_smucisca(vsebina):
     bloki = vzorec_bloka.findall(vsebina)
-    seznam_smucisc = []
+    lokalni_seznam_smucisc = []
     # iz vsakega bloka izločim ime, dodam v seznam_smucisc
     for blok in bloki:
         pociscen_blok = izloci_podatke_smucisca(blok)
-        seznam_smucisc.append(pociscen_blok)
-    return seznam_smucisc
+        lokalni_seznam_smucisc.append(pociscen_blok)
+    return lokalni_seznam_smucisc
 
 
 seznam_smucisc = []
@@ -169,14 +169,16 @@ for i in range(1, 21):
 
 
 
-# 3. DEL: JSON IN CSV 
+# 3. DEL: CSV
+# Iz vseh podatkov sem tukaj naredil najprej json, nato še csv datoteko. 
 
 
+# zapišem json, dodam zamike in zagotovim pravilen prikaz črk različnih jezikov
 with open('smucisca.json', 'w', encoding='utf-8') as f:
     json.dump(seznam_smucisc, f, ensure_ascii=False, indent=4)
     
     
-
+# napišem csv datoteko
 with open('smucisca.csv', 'w', encoding='utf-8-sig', newline='') as f:
     pisatelj = csv.writer(f)
     pisatelj.writerow(['položaj', 'ime', 'celina', 'država', 'ocena', 'višinska_razlika', 'proge', 'modre', 'rdeče', 'črne', 'žičnice'])
@@ -195,6 +197,8 @@ with open('smucisca.csv', 'w', encoding='utf-8-sig', newline='') as f:
         pisatelj.writerow([položaj, ime, celina, država, ocena, višinska_razlika, proge, modre, rdeče, črne, žičnice])
         
 
+# preverim, ali deluje pravilno
 print(f'Vseh smučišč je: {len(seznam_smucisc)}')
+
         
 
