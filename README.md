@@ -18,18 +18,7 @@ Ker je bilo nekaj smučišč, ki niso imela podanega katerega izmed podatkov, se
 # Navodila za uporabo
 Uporabnik si lahko ogleda analizo podatkov tako, da preprosto odpre dokument analiza.ipynb. Podatki so iz csv datoteke, ki je vključena v repozitorij. Analiza podatkov je predstavljena v Jupyter Notebook-u. Ta je sestavljen iz štirih sklopov. Vsak ima na začetku splošne podatke, nato pa še moje hipoteze. Te sem s pomočjo podatkov potrdil ali ovrgel.
 
-Če hoče uporabnik sam zagnati program, enostavno le zažene main.py. Ta bo najprej pobral spletne strani (v primeru, da te še niso), nato izluščil podatke s pomočjo regularnih izrazov in na koncu še vse skupaj zapisal v json in csv. Nato uporabnik požene še vse celice v datoteki analiza.ipynb.
+Če hoče uporabnik sam zagnati program, enostavno le zažene main.py. Ta bo najprej pobral spletne strani (v primeru, da te še niso), nato izluščil podatke s pomočjo regularnih izrazov in na koncu še vse skupaj zapisal v csv. 
 
 # Ključne knjižnice
-Tukaj so uporabljene knjižnice in njihove naloge:
-- csv: delo s CSV datotekami,
-- json: delo z JSON datotekami,
-- os: interakcija z operacijskim sistemom,
-- requests: za pridobivanje podatkov s spleta,
-- sys: za dostop do sistemskih funkcij,
-- html: delo s HTML,
-- re: delo z regularnimi izrazi,
-- numpy (np): za učinkovito delo z velikimi nizi in matrikami numeričnih podatkov,
-- pandas (pd): delo z razpredelnicami,
-- matplotlib.pyplot: risanje grafov,
-- seaborn (sns): napredne vizualizacije.
+Na začetku obeh datotek (main.py ter analiza.ipynb) so prikazane knjižnice, ki sem jih uporabil za pisanje projektne naloge.
