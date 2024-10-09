@@ -86,7 +86,6 @@ def pocisti_celine_in_drzave(niz):
     pocisceno_ime = re.sub(r'\u200b', '', pocisceno_ime)
     pocisceno_ime = html.unescape(pocisceno_ime).strip()
     pocisceno_ime = re.sub(r'\s+', ' ', pocisceno_ime)  
-
     return pocisceno_ime
 
 
